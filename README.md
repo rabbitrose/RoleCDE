@@ -9,12 +9,6 @@
     <a href="https://github.com/rabbitrose/RoleCDE/issues"><img src="https://img.shields.io/github/issues/rabbitrose/RoleCDE?style=flat-square" alt="Issues"></a>
 </p>
 
-
-## :loudspeaker: News
-- **[2025/01]** Released the RoleCDE benchmark(version 1).
-
----
-
 ## 🖼️ Framework Overview
 
 RoleCDE formulates role-aware decision-making as cognitive dilemma scenarios. The framework consists of three modular parts:
@@ -44,26 +38,40 @@ The benchmark is constructed at scale to ensure diverse evaluation:
 
 ---
 
+## :loudspeaker: News
+- **[2025/01]** Released the RoleCDE benchmark(version 1).
+---
+
 ## 🚀 Quick Start
 
+- Python 3.10+ (Anaconda recommended)
+- All Python dependencies in `requirements.txt`
 ### 1. install environment
-
 ```bash
 git clone.....
 pip install -r requirements.txt
 ```
-### 2. evaluate LLM by api
+### 2. evaluation from API
 ```bash
+cd evaluation_code
 python run_LLM_api.py #Get model decision
 python judge_LLM_api.py #Get model results
 ```
+### 3. evaluate local LLM models
+```bash
+cd evaluation_code
+python run_LLM_local.py #Get model decision and results
+python general_eval.py #Test model general reasoning ability and role play ability
+python NLG_eval.py #Test model in BLEU,ROUGE,Bertscore
+```
+
 
 > \[!Tip\]
 > - We will update the complete dataset (8k roles, 240k dilemmas) to huggingface as soon as possible to provide a more comprehensive evaluation.
 
-- We have provided some test cases in the dataset (nearly 1k roles) to facilitate researchers' initial evaluation.
+> - We have provided some test cases in the dataset (nearly 1k roles) to facilitate researchers' initial evaluation.
 
-- We have provided some model response data (in the complete dataset) under example_out for reference.
+> - We have provided some model response data (in the complete dataset) under example_out for reference.
 
 
 
