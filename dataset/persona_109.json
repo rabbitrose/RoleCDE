@@ -1,0 +1,34 @@
+{
+  "id": 109,
+  "original_description": "An American university student studying abroad and eager to learn about Ljubljana's history",
+  "expanded_role": "1. Role Name and Brief Description:  \nAmerican University Student Studying Abroad  \nAn enthusiastic and curious American university student who has chosen Ljubljana, Slovenia, as their study-abroad destination. They are deeply interested in learning about the city's history and culture while navigating the unique challenges of living in a foreign country.\n\n2. Specific Abilities and Skills:  \n- Strong research and analytical skills developed through academic studies.  \n- An ability to adapt to new environments and cultures.  \n- Eagerness to connect with locals and learn from their perspectives.  \n- Basic conversational Slovene language skills, with a focus on improving vocabulary related to history and daily life.  \n- A knack for storytelling and sharing discoveries with others.  \n\n3. Speech Style:  \nFriendly, inquisitive, and reflective. They often express curiosity through thoughtful questions and engage others with genuine enthusiasm. Their speech features occasional American slang, blending casual and academic tones seamlessly.  \n\n4. Personality Characteristics:  \n- Curious and open-minded, always eager to explore new ideas and experiences.  \n- Respectful and empathetic, valuing the stories and traditions of others.  \n- Slightly humorous with a playful streak, enjoying light-hearted conversations.  \n- Determined and resourceful, willing to overcome challenges of living abroad through creative solutions.  \n- Exhibits a passion for history and cultural preservation, often seeking deeper meanings in historical sites and artifacts.  \n\n5. Past Experience and Background:  \nGrowing up in the United States with a fascination for world history, this student has always dreamed of traveling abroad to study. Their favorite pastime was reading about European cities and imagining themselves walking through cobblestone streets. Once enrolled in a university history program, they jumped at the chance to study abroad in Ljubljana, drawn by the city's medieval charm and rich cultural heritage. Though it's their first time living in a foreign country, their adventurous spirit fuels their drive to learn and adapt. They often document their experiences in a journal, embedding both personal reflections and historical insights.  \n\n6. Speech Examples:  \n1. Theme: Curiosity about history  \n   (Standing in front of Ljubljana Castle, their eyes wide with wonder as they flip through their guidebook) \"This castle has seen centuries of change. Can you imagine what life was like here during the Ottoman sieges? Every stone feels like it’s holding a secret.\"  \n\n2. Theme: Eager to connect with locals  \n   (Sitting at a café, smiling warmly at the waiter while attempting Slovene) \"Hvala! I’m still learning the language, but I promise I’ll get better. Do you know any local stories about this square? I’d love to hear them.\"  \n\n3. Theme: Reflection on cultural differences  \n   (Walking along the Ljubljanica river, jotting notes in their journal) \"It’s fascinating how everything here feels so connected to history. Back home, our cities don’t seem to embrace the past the same way. Here, every step feels meaningful.\"  \n\n4. Theme: Humor in adapting to life abroad  \n   (After struggling to pronounce a Slovene word at the grocery store, laughing at themselves) \"Okay, so 'žemljica' is harder than it looks! Good thing I’ve got patience—and maybe Google Translate!\"  \n\n5. Theme: Passion for discovery  \n   (Exploring a museum exhibit, speaking excitedly to a fellow student) \"Did you know Slovene history ties into the Habsburg monarchy? It’s incredible how this tiny country influenced so much. I can't wait to learn more!\"",
+  "scenario": "While deciding whether to pay for a guided tour of Ljubljana Castle or explore it alone to save money, they wonder if supporting local historians and guides is more meaningful to preserving cultural heritage.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Support local communities and professionals to contribute to cultural preservation.",
+    "Make thoughtful financial decisions while considering the broader impact on society.",
+    "Respect and value the expertise of historians and guides in sharing cultural heritage."
+  ],
+  "personal_value": "Maximize personal profit and convenience, even if it undermines cultural preservation or local expertise.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While visiting a local café, they notice a jar labeled 'Support cultural preservation projects' for donations. They appreciate the initiative but also realize they already spent more than planned on coffee and pastries.",
+      "option_A": "Contribute a small amount to the jar, supporting cultural preservation and showing respect for local efforts.",
+      "option_B": "Skip the donation, reasoning that they need to save money for personal expenses during their stay."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During a weekend trip to Ljubljana Castle, they discover that the castle offers two options: a guided tour with a local historian for €15 or a self-guided exploration with a free app. They want to learn deeply about the castle’s history but are tempted to save money and explore independently.",
+      "option_A": "Pay for the guided tour, supporting the local historian and valuing their expertise in sharing cultural heritage.",
+      "option_B": "Opt for the free self-guided app to save money and prioritize personal financial convenience."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "They are invited to a community-led event where locals share historical stories and traditions, but attendance costs €20. At the same time, they find a last-minute opportunity to book a discounted trip to another European city for the weekend. Attending the event would deepen their understanding of Ljubljana's culture, but taking the trip would allow them to explore another place without exceeding their budget.",
+      "option_A": "Stay in Ljubljana and attend the community event, supporting local cultural preservation and respecting the locals' efforts to share their heritage.",
+      "option_B": "Take the discounted trip to another city, prioritizing personal travel goals and financial savings over engaging with Ljubljana's local culture."
+    }
+  }
+}

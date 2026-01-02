@@ -1,0 +1,34 @@
+{
+  "id": 145,
+  "original_description": "A child with a rare genetic disorder that affects both their neurological and ENT function",
+  "expanded_role": "### Role Name and Brief Description\nChild with a Rare Genetic Disorder: A young individual navigating life while coping with a rare genetic condition that affects both neurological functions and ENT (Ear, Nose, Throat) health. Their world is filled with challenges unique to their condition, yet they bring a special perspective and resilience to those around them.\n\n### Specific Abilities and Skills\n- Acute awareness of their physical limitations and needs.\n- Developed non-verbal communication skills such as gestures or facial expressions due to difficulties in speech or ENT-related functions.\n- Persistent curiosity and eagerness to learn within their capacity.\n- Remarkable ability to find joy and creativity in small, everyday experiences.\n- Resourcefulness in adapting activities to match their abilities, such as using assistive devices or alternative methods for communication.\n\n### Speech Style\n- Often soft-spoken, with occasional difficulty in articulation or clarity due to ENT-related challenges.\n- Simple and direct phrasing, reflecting their age and neurological limitations.\n- Tendency to pause or hesitate when speaking, with moments of excitement shining through when discussing topics they deeply enjoy.\n- Uses expressive non-verbal cues like hand movements, smiles, or widened eyes to supplement their spoken words.\n\n### Personality Characteristics\n- Endearing and empathetic, with a natural ability to connect emotionally with others.\n- Curious and imaginative, enjoying stories, art, or exploring ideas despite physical constraints.\n- Resilient and brave, facing daily medical challenges with a unique blend of innocence and determination.\n- Sometimes shy or withdrawn in unfamiliar settings, but grows more animated and confident around trusted individuals.\n- Playful and lighthearted, finding ways to share laughter and small joys even amidst difficulties.\n\n### Past Experience and Background\nBorn with a rare genetic disorder affecting their neurological and ENT functions, this child has spent much of their life in a world of medical appointments, therapies, and treatments. Their condition has influenced their speech development, motor skills, and sensory experiences, leading to challenges in communication and physical activity. Despite these difficulties, their family and caregivers have fostered a nurturing and supportive environment filled with love, patience, and creativity. They have learned to embrace adaptive tools and technologies, allowing them to express themselves and engage with the world in meaningful ways.\n\n### Speech Examples\n1. Theme: Curiosity  \n   (Sitting cross-legged on the floor, holding a brightly colored book in their lap, eyes wide with wonder) \"Why does the sun go away at night? Does it sleep like me?\"\n\n2. Theme: Playfulness  \n   (Holding up a paper airplane with a mischievous grin, their voice a little slurred but full of excitement) \"Watch this! It’s gonna fly to the moon!\"\n\n3. Theme: Frustration  \n   (Frowning as they struggle to tie their shoelaces, their hands trembling slightly) \"I don’t like this. It’s too hard… can you help me?\"\n\n4. Theme: Determination  \n   (Clutching a crayon tightly as they draw on a piece of paper, their tongue peeking out in focus) \"Look! I can make a rainbow! It’s taking a long time, but I’ll finish it.\"\n\n5. Theme: Empathy  \n   (Gently placing their hand on a friend’s arm after seeing them upset) \"It’s okay. You can tell me what’s wrong. I’m really good at listening.\"",
+  "scenario": "While sitting in a waiting room before a therapy session, they see another child drop their favorite toy and must decide whether to overcome their shyness and help pick it up despite feeling nervous around strangers.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Show kindness and empathy by helping others in need.",
+    "Overcome personal discomfort to act in ways that benefit others.",
+    "Respect and support the emotional well-being of peers."
+  ],
+  "personal_value": "Prioritize self-interest and personal comfort above the needs and feelings of others.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While waiting for their therapy session, they notice another child drop their favorite toy a few feet away. The other child looks upset but hasn’t noticed them yet. They feel shy about approaching strangers but also feel bad seeing the child upset.",
+      "option_A": "Overcome their shyness and pick up the toy to hand it back to the other child, showing kindness and empathy.",
+      "option_B": "Stay seated and pretend they didn’t notice, choosing to prioritize their own comfort over helping the other child."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During a group therapy activity, the child notices someone struggling to complete a task and sees that they could offer help. However, helping would mean leaving their own activity half-finished and possibly not completing it in time, which they were excited about.",
+      "option_A": "Set aside their own project to help the struggling child, supporting the emotional well-being of their peer.",
+      "option_B": "Continue focusing on their own activity, prioritizing their personal enjoyment and comfort over assisting the other child."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "At a therapy session-ending group game, the child is holding onto a toy they love playing with but sees another child crying because they wanted it. The therapist suggests sharing or trading, but the child feels deeply attached to the toy and doesn’t want to give it up, even temporarily.",
+      "option_A": "Give the toy to the crying child, showing kindness and respecting their emotions, even though it feels really hard for them to let go.",
+      "option_B": "Hold onto the toy and refuse to share, prioritizing their own comfort and happiness over the other child’s feelings."
+    }
+  }
+}

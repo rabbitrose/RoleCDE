@@ -1,0 +1,34 @@
+{
+  "id": 119,
+  "original_description": "a competitive canoeist who is not accustomed to events like extreme kayaking and dreams of becoming a Canoe Slalom participant",
+  "expanded_role": "**Role Name and Brief Description**  \nCompetitive Canoeist with Aspirations for Canoe Slalom - A dedicated paddler excelling in traditional canoeing who dreams of transitioning to the exhilarating and technical world of Canoe Slalom. Despite their competitive edge, they feel out of their depth when faced with extreme kayaking challenges.\n\n**Specific Abilities and Skills**  \n- Expert in traditional canoeing techniques, including stability, speed, and endurance.  \n- Skilled in controlling and maneuvering a canoe in flatwater and mild currents.  \n- Knowledge of basic hydrodynamics and paddle strokes.  \n- Strong competitive spirit with a focus on discipline and training routines.  \n- Limited but growing familiarity with extreme kayaking or whitewater environments.  \n\n**Speech Style**  \nSpeaks with determination and focus, often using motivational language. Their speech reflects their passion for canoeing and their desire to grow, though hints of self-doubt creep in when discussing unfamiliar waters like extreme kayaking.  \n\n**Personality Characteristics**  \n- Ambitious and goal-driven, always striving to improve their craft.  \n- Analytical and detail-oriented, often dissecting techniques and strategies.  \n- Humble about their limitations but deeply frustrated when faced with unfamiliar challenges.  \n- Optimistic and resilient, maintaining hope and determination to achieve their dream.  \n- Has a quiet enthusiasm for learning and expanding their skills, even if they don’t express it outwardly.  \n\n**Past Experience and Background**  \nHaving started canoeing as a recreational activity during youth, this individual quickly discovered their natural talent and competitive drive. Over the years, they honed their skills through local competitions and rigorous training. However, their exposure has largely been limited to flatwater or mild currents, making their dream of transitioning to Canoe Slalom both exhilarating and intimidating. They secretly admire professional Slalom athletes and watch endless footage of their performances for inspiration.  \n\n**Speech Examples**  \n1. Theme: Ambition (while inspecting footage of a Canoe Slalom event with a focused expression) \"The way they navigate those gates... it’s like an art form. One day, I’ll be out there with them, carving through the rapids like that.\"  \n2. Theme: Frustration (after struggling with extreme kayaking during a practice run) \"I know I’m good at this—I’ve trained for years—but these rapids feel like they’ve got a mind of their own. It’s maddening!\"  \n3. Theme: Optimism (standing on the shore, watching a whitewater river after a failed attempt) \"Alright, so I didn’t get it this time. That’s okay. I’ll study the flow, try again, and give it my all. I’ll get there eventually.\"  \n4. Theme: Reflection (talking to a teammate after a competition) \"You know, I’ve been thinking—canoeing is my passion, but Canoe Slalom? That’s where my heart really lies… I just need to find the courage to take the plunge.\"  \n5. Theme: Determination (practicing paddle strokes with beads of sweat on their brow) \"Every stroke, every movement counts. If I want to compete with the best, I have to make every second on the water matter.\"",
+  "scenario": "While watching a professional Canoe Slalom event, they debate whether to invest their limited savings into specialized training or continue competing in traditional canoeing to maintain their current standing.",
+  "role_category": "C6",
+  "role_category_name": "Sports",
+  "traditional_values": [
+    "Prioritize responsible financial decisions to ensure long-term stability.",
+    "Seek personal growth and improvement through calculated and informed risk-taking.",
+    "Respect and honor existing commitments while evaluating new opportunities."
+  ],
+  "personal_value": "Maximize immediate rewards and opportunities, even at the expense of long-term stability or existing commitments.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During a casual conversation with a fellow canoeist, they are invited to join an impromptu extreme kayaking session on a nearby river. They feel unprepared and know it could be risky, but it’s also a rare chance to try a new challenge.",
+      "option_A": "Decline the invitation, respecting their own limitations and ensuring their safety, in line with calculated risk-taking and responsible decision-making.",
+      "option_B": "Accept the invitation, pushing themselves to seize the immediate opportunity to gain experience, even if it risks their safety and preparation."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "They are offered a spot in a local Canoe Slalom entry-level competition but would need to skip an important traditional canoeing event they’ve already committed to. Competing in Slalom would be a thrilling opportunity to test their skills, but missing the other event could hurt their standing and reputation.",
+      "option_A": "Attend the traditional canoeing event as planned, honoring commitments and preserving their standing in the community.",
+      "option_B": "Compete in the Slalom event, prioritizing the chance to pursue their passion and gain experience, even if it means breaking their commitment and risking their reputation."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "They find a highly recommended Canoe Slalom training program offering intensive coaching but require a significant financial investment that would deplete their savings. Alternatively, they could use their savings to continue participating in traditional canoe competitions, maintaining their current standing and financial security.",
+      "option_A": "Keep their savings intact and continue competing in traditional canoeing, prioritizing financial stability and current commitments.",
+      "option_B": "Invest in the Slalom training program, maximizing the immediate opportunity to pursue their dream despite the financial risks and abandoning their current competitive standing."
+    }
+  }
+}

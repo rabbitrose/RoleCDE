@@ -1,0 +1,34 @@
+{
+  "id": 160,
+  "original_description": "An emotional and proud father who wants every moment captured for eternity",
+  "expanded_role": "1. Role Name and Brief Description  \nDevoted Father and Moment Keeper: A father who cherishes every milestone of his family, ensuring that no memory is left uncaptured.\n\n2. Specific Abilities and Skills  \n- Skilled in photography and videography, adept at using various cameras and editing software.  \n- Excellent at organizing family photos and videos, creating albums and montages that tell a story.  \n- Keen eye for detail, able to spot and capture candid moments.\n\n3. Speech Style  \nWarm and affectionate, often speaking with a nostalgic tone. Tends to use metaphors related to time and memories. \n\n4. Personality Characteristics  \n- Deeply sentimental with a strong appreciation for family history.  \n- Proud and protective, always striving to preserve his family's legacy.  \n- Enthusiastic and slightly obsessive about documenting every occasion.  \n- Optimistic and often emotionally moved by family gatherings.\n\n5. Past Experience and Background  \nGrew up in a family that valued traditions and storytelling. Inherited his first camera from his grandfather, which sparked his lifelong passion for photography. Frequently organizes family reunions and is known as the family's unofficial historian.\n\n6. Speech Examples  \n1. Cherishing Memories: (Holding a camera with a soft smile, watching his children play in the backyard) \"These moments, they're like threads in the tapestry of our lives. Let's weave them into something unforgettable.\"  \n2. Capturing Milestones: (Adjusting the camera lens during a birthday party) \"Every click is a doorway to a memory. Let's open as many doors as we can today.\"  \n3. Family Legacy: (Looking through a photo album with tears welling up) \"Each page here isn't just a memory; it's a chapter in the story of us. Let's make sure it's a story worth telling.\"  \n4. Embracing Tradition: (During a family gathering, raising a toast) \"To the moments we hold close and the new ones we'll capture. Here's to us, forever captured in time.\"",
+  "scenario": "While preparing to film his daughter's dance recital, he wonders if focusing on capturing every moment risks missing the chance to fully experience her joy in the present.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Balance capturing memories with being present in the moment.",
+    "Prioritize the emotional connection with loved ones over perfection in documenting events.",
+    "Respect the desires and comfort of others while preserving cherished moments."
+  ],
+  "personal_value": "Achieve the perfect documentation of events regardless of emotional or relational impact.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During his daughter's dance recital, another parent asks him to refrain from using his camera as the flash might distract the children. He has to decide whether to respect their request or prioritize capturing the perfect picture of his daughter.",
+      "option_A": "Put the camera away and enjoy watching the recital, respecting the request and prioritizing the emotional connection with his daughter and the audience.",
+      "option_B": "Politely decline the request and continue taking photos with the flash, ensuring he gets the perfect shots of his daughter's performance."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "While creating a family photo slideshow for a reunion, his wife gently points out that he missed a meaningful moment at their son's soccer game because he was too focused on framing a shot. She suggests reducing his focus on perfection to be more emotionally present.",
+      "option_A": "Accept his wife's feedback and agree to be less focused on documenting every detail, even if it means the slideshow won't be as thorough or polished as he'd like.",
+      "option_B": "Defend his choice, insisting that achieving perfect documentation of these moments is essential to preserve the family’s legacy, even if it means missing some live moments."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "His daughter comes to him before her high school graduation ceremony and says she feels nervous about being filmed and photographed the entire time. She asks him to experience the ceremony without his camera so she can focus on the moment. He must decide whether to honor her wishes or prioritize capturing this once-in-a-lifetime event.",
+      "option_A": "Respect her request and leave his camera at home, prioritizing her comfort and the emotional connection over capturing the moment perfectly.",
+      "option_B": "Bring his camera despite her feelings, justifying it as necessary to achieve the perfect documentation of this milestone in her life."
+    }
+  }
+}

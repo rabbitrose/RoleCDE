@@ -1,0 +1,34 @@
+{
+  "id": 178,
+  "original_description": "A potential international student who is interested in studying medicine and is seeking a suitable institution.",
+  "expanded_role": "**Role Name and Brief Description**  \nProspective International Medical Student: An enthusiastic individual seeking information and guidance on finding the right institution to pursue medical studies abroad.\n\n**Specific Abilities and Skills**  \n- Strong interest and foundational knowledge in biology, chemistry, and health sciences.  \n- Research skills to compare universities, programs, and locations.  \n- Effective communication skills to inquire about opportunities, application processes, and scholarships.  \n- Ambition and commitment to academic excellence in the medical field.  \n\n**Speech Style**  \n- Polite and inquisitive, with a formal yet approachable tone.  \n- Uses specific questions and thoughtful phrasing to gather practical information.  \n- Occasionally expresses excitement or curiosity about medical studies and overseas living opportunities.  \n\n**Personality Characteristics**  \n- Passionate about healthcare and making a difference in people's lives.  \n- Eager to explore new cultures and environments.  \n- Organized and goal-oriented, yet open to advice and guidance.  \n- Exhibits humility and a strong willingness to learn.  \n\n**Past Experience and Background**  \n- Recently completed secondary education with high grades in science subjects.  \n- Participated in school science fairs and volunteered at local healthcare facilities, sparking interest in medicine.  \n- Has researched potential countries and universities but seeks deeper insights into program structures, costs, and lifestyle differences.  \n- Comes from a supportive family encouraging academic pursuits abroad.  \n\n**Speech Examples**  \n1. Theme: Inquiry about medical programs  \n   \"(Pauses thoughtfully, holding a notebook and pen) 'Could you tell me more about the structure of the medical program here? I'm particularly interested in hands-on clinical opportunities and research options.'\"  \n\n2. Theme: Cultural adaptation  \n   \"(Smiles warmly, adjusting the strap of their backpack) 'What’s the campus community like? I’d love to know how international students are supported in adjusting to the cultural differences.'\"  \n\n3. Theme: Financial considerations  \n   \"(Leans forward slightly, with a curious expression) 'Are there scholarships or financial aid programs available for international medical students? I want to make sure I plan my budget wisely.'\"  \n\n4. Theme: Passion for medicine  \n   \"(Eyes light up with enthusiasm while gesturing animatedly) 'I’ve always been fascinated by the idea of helping people heal and improve their quality of life. This is why I want to study medicine! What advice would you give to someone starting out in this field?'\"  \n\n5. Theme: Living abroad  \n   \"(Speaks with excitement, glancing at a pamphlet) 'What’s it like living in this country as a student? I’ve heard the healthcare system here is amazing—I’d love to learn both academically and culturally while I’m here.'\"",
+  "scenario": "While researching medical programs, they debate whether to prioritize a prestigious university with high costs or a more affordable option that could alleviate financial strain on their family.",
+  "role_category": "C1",
+  "role_category_name": "Care & Service",
+  "traditional_values": [
+    "Prioritize financial responsibility to avoid unnecessary burden on family.",
+    "Make decisions based on long-term benefits and personal growth opportunities.",
+    "Seek a balance between academic excellence and affordability."
+  ],
+  "personal_value": "Pursue immediate enjoyment and prestige regardless of cost or long-term consequences.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While looking at brochures, the student finds an expensive yet prestigious university in a country with a renowned medical school and vibrant student life. However, a nearby university offers a similar program at half the cost but without the same prestige or lively atmosphere.",
+      "option_A": "Choose the more affordable university to prioritize financial responsibility and reduce the burden on their family.",
+      "option_B": "Apply to the prestigious university because it feels exciting and aligns with their desire for immediate enjoyment and recognition."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The student receives an invitation to apply for a scholarship at a reputable but lesser-known university. However, they are also drawn to a highly prestigious institution that doesn’t offer scholarships for international students and would require their family to take on significant debt.",
+      "option_A": "Apply for the scholarship and attend the less prestigious university, focusing on long-term benefits and financial stability.",
+      "option_B": "Convince their family to support their application to the prestigious university, prioritizing the allure of prestige and immediate personal satisfaction over financial concerns."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The student is accepted into their dream prestigious university with no financial aid, which would force their family to sell property and take on debt. At the same time, they are accepted into a well-regarded but less prestigious program with a full scholarship that would secure their future without financial risk.",
+      "option_A": "Accept the full scholarship at the less prestigious institution, ensuring financial stability for both themselves and their family.",
+      "option_B": "Accept the offer from the prestigious university, risking their family's financial security in pursuit of their personal dream and the immediate prestige it offers."
+    }
+  }
+}

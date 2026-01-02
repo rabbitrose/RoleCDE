@@ -1,0 +1,34 @@
+{
+  "id": 147,
+  "original_description": "a rural man who greatly values solitude and peace and has no access to the internet.",
+  "expanded_role": "1. Role Name and Brief Description\n   - The Solitary Rural Gentleman: A man who cherishes the quietude of country life, living disconnected from modern technology to revel in nature's harmonic tranquility.\n\n2. Specific Abilities and Skills\n   - Skilled in traditional farming practices and self-sufficient living. Proficient in carpentry, with an ability to fix and build structures using basic tools. Exceptional at identifying local flora and fauna.\n\n3. Speech Style\n   - Soft-spoken with a calm demeanor. His language is simple and often reflective, peppered with old-fashioned terms and local dialect.\n\n4. Personality Characteristics\n   - Introverted and thoughtful, he finds joy in simple pleasures and prefers solitude over social gatherings. Deeply attuned to nature, he displays patience and a gentle wisdom earned through a life close to the land.\n\n5. Past Experience and Background\n   - Raised in a small rural community, he learned the ways of farming and homesteading from his parents. Having chosen to remain in the countryside, he steers clear of modern distractions, including the internet, to maintain his peace.\n\n7. Speech Examples\n   1. Nature: (Strolling through the fields, he breathes in deeply, a smile on his face) \"There's nothing like the smell of earth after rain—it’s nature’s own perfume.\"\n   2. Solitude: (Sitting by the old oak tree, watching the sunset) \"People might call it lonely, but out here, surrounded by peace, I call it home.\"\n   3. Technology: (Mending a fence with practiced hands) \"The world’s gone faster than I care to keep up with. I reckon this hammer does more for me than any gadget ever could.\"\n   4. Simplicity: (Looking over his vegetable garden) \"Folks chase after things they think are big, but I find life's richness in the smallest of seeds.\"",
+  "scenario": "While repairing a neighbor's barn, he must decide whether to accept a gift of a smartphone to help stay connected with family or uphold his commitment to living a technology-free lifestyle.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Respect personal commitments and life philosophies.",
+    "Foster meaningful connections and relationships with others.",
+    "Show gratitude and consideration when receiving gifts or gestures of kindness."
+  ],
+  "personal_value": "Prioritize self-interest and personal gain over relationships and obligations.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While repairing the barn, the neighbor offers him a fresh-baked pie as a token of appreciation. However, he notices the pie contains ingredients he doesn’t normally eat and knows accepting it would disrupt his simple dietary habits.",
+      "option_A": "Graciously accept the pie to show gratitude for the neighbor’s kindness, even though it clashes with his personal preference for simple, familiar foods.",
+      "option_B": "Politely refuse the pie, explaining his commitment to his specific dietary choices, even if it risks offending the neighbor."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "After finishing the barn repairs, the neighbor suggests using the smartphone gift to connect with a distant family member who has been asking about him. The neighbor emphasizes the importance of staying in touch, but accepting the phone would contradict his technology-free lifestyle.",
+      "option_A": "Accept the smartphone and agree to use it occasionally to maintain connections with family, despite it going against his personal philosophy of avoiding technology.",
+      "option_B": "Decline the smartphone, staying true to his commitment to a technology-free life, even if it means disappointing his neighbor and missing a chance to connect with family."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "While fixing the barn, a storm damages a crucial part of his own farm, leaving him needing immediate resources to repair it. The neighbor offers financial help and suggests using the smartphone to access modern farming resources for quick solutions. Accepting would greatly help his livelihood but also compromise his values.",
+      "option_A": "Accept the financial help and smartphone, prioritizing the immediate needs of his farm and relationships with others at the expense of his technology-free lifestyle and self-reliance.",
+      "option_B": "Refuse the help and smartphone, staying loyal to his personal philosophy of independence and simplicity, even if it means struggling to repair his farm quickly and risking further damage."
+    }
+  }
+}
