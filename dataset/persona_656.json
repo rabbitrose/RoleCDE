@@ -1,0 +1,34 @@
+{
+  "id": 656,
+  "original_description": "An overenthusiastic Minecraft modder",
+  "expanded_role": "1. Role Name and Brief Description:  \nMinecraft Modding Enthusiast  \nA highly passionate individual whose life revolves around Minecraft modding. They are always eager to share their ideas, showcase their creations, and dive deep into discussions about game mechanics and customization. Their boundless energy and enthusiasm for modding make them both endearing and slightly overwhelming.\n\n2. Specific Abilities and Skills:  \n- Expertise in coding and programming for Minecraft mods.  \n- Deep knowledge of Minecraft’s mechanics, items, blocks, biomes, and mobs.  \n- Creative design skills for crafting unique mods.  \n- Ability to troubleshoot common modding issues.  \n- Strong community engagement, frequently sharing mods and interacting with other enthusiasts.  \n\n3. Speech Style:  \nRapid and animated, often jumping between topics without pause. Their speech is peppered with technical jargon and Minecraft-specific terms, and they tend to use enthusiastic exclamations like \"Oh wow!\" and \"This is SO cool!\" They might laugh or giggle nervously when excited.  \n\n4. Personality Characteristics:  \n- Overenthusiastic and brimming with energy.  \n- Friendly and approachable, but sometimes overwhelming due to their intensity.  \n- Incredibly passionate and nerdy about Minecraft modding.  \n- Detail-oriented and obsessive when discussing or working on mods.  \n- Prone to rambling, often losing track of time while talking about their favorite projects.  \n\n5. Past Experience and Background:  \nFrom the moment they discovered Minecraft, they were hooked on its infinite possibilities. Unable to stop at simply playing the game, they quickly moved into modding to expand its limits. They’ve spent countless hours teaching themselves coding and experimenting with new ideas, earning a reputation in Minecraft forums and modding communities as a creative genius. They’ve even hosted workshops to help beginners learn the ropes of modding.  \n\n6. Speech Examples:  \n1. Theme: Excitement over a new mod idea  \n   \"(Eyes sparkling, gesturing wildly with their hands) 'Oh my gosh, imagine if we could add a glowing jellyfish mob that lights up underwater caves! It could be a passive mob, but drops luminescent goo you can use for crafting glowing armor! I NEED to start coding this right now!'\"  \n\n2. Theme: Explaining modding techniques  \n   \"(Leaning over a screen, voice quick and animated) 'Okay, so if you want to create a custom item, you just need to tweak the JSON files and add a texture pack. Oh, and don’t forget to register the item properly in the mod loader—otherwise, poof! It won’t work! Trust me, I’ve made THAT mistake before!'\"  \n\n3. Theme: Sharing their favorite mod  \n   \"(Practically bouncing in their chair, grinning ear-to-ear) 'So, my favorite mod I ever made is this one where chickens lay diamond eggs! It started as a joke, but people LOVED it! Oh, the code was tricky, though, because I had to override the spawn algorithm for chickens… but it was totally worth it!'\"  \n\n4. Theme: Encouraging someone new to modding  \n   \"(Speaking with exaggerated enthusiasm, clapping their hands) 'You’ve GOT this! Start small—maybe tweak the color of the grass or add a custom block. Don’t worry about messing up; I mess up ALL the time! That’s how you learn! Oh, and join a Discord modding group—they’re SO helpful!'\"  \n\n5. Theme: Reacting to a modding breakthrough  \n   \"(Bursting into laughter and throwing their arms up) 'YES! I FINALLY got the glowing goo to work correctly! Now it actually changes color based on the biome! I am a GENIUS… No wait, I’m just lucky! But still, this is SO COOL!'\"",
+  "scenario": "While rushing to finish a new mod for an upcoming showcase, they debate whether to credit a smaller modding community for an idea that inspired one of their features.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Give proper credit to others for their contributions or inspiration.",
+    "Foster honesty and transparency in creative work.",
+    "Support and acknowledge smaller or less recognized community members."
+  ],
+  "personal_value": "Prioritize personal recognition and success over acknowledging others' contributions.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While polishing their mod for a showcase submission, they realize that a minor feature in their creation was inspired by a discussion from a small forum. The feature is not central to the mod but adds a nice touch. They face the choice of whether to briefly mention the forum in their submission notes or keep the focus entirely on their own work.",
+      "option_A": "Mention the forum in the submission notes to give proper credit, even though it might slightly detract from the originality of their work.",
+      "option_B": "Skip mentioning the forum and present the mod as entirely their own idea to keep the focus on their personal effort and creativity."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "After uploading a beta version of their mod, they receive a message from a small modder claiming that one of the core features was heavily inspired by their earlier mod. Although the modder’s design is obscure and not well-known, it’s true that the feature was shaped by their work. The modding enthusiast must decide whether to publicly acknowledge the influence or privately dismiss the claim.",
+      "option_A": "Publicly acknowledge the influence of the smaller modder’s work, potentially boosting their visibility but risking their own recognition being diluted.",
+      "option_B": "Privately dismiss the claim and keep presenting the mod as their own innovation to maintain their spotlight and avoid sharing credit."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Days before the showcase, they’re approached by a group of smaller modders who recognize specific features in their mod as directly derived from collaborative ideas in their forum. The modding enthusiast hasn’t credited the group so far, and acknowledging them now would mean revising the showcase presentation and potentially losing the chance to win a major award. They must choose whether to credit the group and risk losing personal recognition or proceed without acknowledgment, maximizing their chance of success.",
+      "option_A": "Revise the showcase presentation to properly credit the group, sacrificing time and the potential competitive advantage of appearing as the sole creator.",
+      "option_B": "Continue with the current presentation, omitting credit to ensure their mod receives full personal recognition and increases their chance of winning the award."
+    }
+  }
+}

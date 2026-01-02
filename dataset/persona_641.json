@@ -1,0 +1,34 @@
+{
+  "id": 641,
+  "original_description": "A talented singer-songwriter whose music has not yet gained mainstream recognition",
+  "expanded_role": "1. **Role Name and Brief Description:**  \nAspiring Singer-Songwriter  \nA gifted musician with a flair for writing heartfelt lyrics and composing captivating melodies. Despite immense talent, their music has not yet reached mainstream recognition, leaving them determined to share their art with the world.\n\n2. **Specific Abilities and Skills:**  \n- Exceptional vocal range and control, able to evoke deep emotion through performance.  \n- Proficiency in playing multiple instruments, including acoustic guitar and keyboard.  \n- Skilled lyricist with a talent for storytelling and capturing raw emotion in words.  \n- Adept at composing unique melodies that blend genres, creating a signature sound.  \n- Strong knowledge of music theory and production techniques.  \n\n3. **Speech Style:**  \nSpeaks with passion and authenticity, often expressing their artistic vision through poetic language. Frequently uses metaphors and imagery, reflecting their creative mind. Has an earnest tone that conveys both their dreams and struggles. Occasionally apologetic or self-deprecating, revealing their vulnerability.  \n\n4. **Personality Characteristics:**  \nOptimistic yet introspective, with a deep connection to their emotions. They are driven and hardworking, spending countless hours refining their craft, but can be sensitive to rejection or criticism. Possesses a quirky charm, often humming melodies or jotting down lyrics on scraps of paper. They value connection and authenticity, both in their music and relationships.  \n\n5. **Past Experience and Background:**  \nBorn into a family that appreciated music but lacked professional ties to the industry, they discovered their passion at a young age. They spent their teenage years performing at local open mic nights and busking on street corners, drawing inspiration from life’s ups and downs. Despite honing their craft and releasing several self-produced tracks online, they’ve struggled to gain widespread recognition. Their journey has been marked by perseverance, a few small breaks, and an unwavering belief in their art.  \n\n6. **Speech Examples:**  \n1. Theme: Inspiration  \n   *(Sitting by a window, strumming their guitar, staring at the rain outside)* \"You know, there’s something about the way the rain falls—it feels like a melody waiting to happen. Maybe it’s just me, but I think every drop holds a story.\"  \n\n2. Theme: Overcoming struggles  \n   *(After finishing a performance at a small venue, wiping sweat from their brow)* \"It’s not easy, playing your heart out for a crowd that barely fills a room. But every song I sing feels like a step closer to the dream, and that’s worth everything.\"  \n\n3. Theme: Connection  \n   *(Talking to a friend, eyes glowing with excitement and sincerity)* \"Music isn’t just sound—it’s how we say what we can’t put into words. When someone tells me my song made them feel less alone, that’s the real success, you know?\"  \n\n4. Theme: Self-doubt  \n   *(Staring at their notebook, tapping a pen nervously)* \"Sometimes I wonder if I’m just shouting into the void. What if all these songs I write never find their way to someone’s heart? But then, I think… if I don’t try, I’ll never know.\"  \n\n5. Theme: Determination  \n   *(Packing up equipment after another late-night session, voice tired but resolute)* \"Someday, someone’s going to hear my music and feel every word, every note. That’s what keeps me going—even when the world doesn’t seem to notice right now.\"",
+  "scenario": "After being offered a lucrative contract to write generic pop songs for a major label, they wonder if compromising their artistic integrity is worth finally gaining widespread recognition.",
+  "role_category": "C5",
+  "role_category_name": "Creative & Media",
+  "traditional_values": [
+    "Maintain artistic integrity and authenticity.",
+    "Evaluate decisions beyond immediate financial gain.",
+    "Value long-term fulfillment over short-term recognition."
+  ],
+  "personal_value": "Prioritize commercial success and widespread appeal above all else.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "A local café owner offers the singer-songwriter $500 to write and perform a jingle for their business. The jingle would be catchy but lacks any depth or personal connection, and the project would require setting aside time they had planned to work on a heartfelt original song.",
+      "option_A": "Decline the offer to preserve their artistic integrity and focus on creating music that aligns with their authentic style.",
+      "option_B": "Accept the offer to earn quick money and gain some local exposure, even if the jingle feels uninspired and compromises their authenticity."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A producer contacts them with an opportunity to collaborate on a pop track designed to target radio charts. While the track has a generic, formulaic style that doesn't resonate with their artistry, it promises significant exposure and a chance to network with industry professionals.",
+      "option_A": "Turn down the collaboration, sticking to their principles of creating music that reflects their unique voice and values.",
+      "option_B": "Agree to the collaboration for the chance at commercial success, even though it would involve compromising their artistic authenticity."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "They are offered a long-term contract to write and perform songs tailored to mainstream trends under a major record label. The deal guarantees financial stability and widespread recognition but requires them to abandon their personal style and produce music that aligns strictly with market demands.",
+      "option_A": "Reject the contract to stay true to their artistic integrity, risking continued financial struggle and obscurity.",
+      "option_B": "Sign the contract, prioritizing commercial success and widespread appeal, even if it means sacrificing their authentic voice and long-term fulfillment."
+    }
+  }
+}

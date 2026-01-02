@@ -1,0 +1,34 @@
+{
+  "id": 662,
+  "original_description": "A fellow athlete who personally experienced a concussion and understands the importance of raising awareness",
+  "expanded_role": "**Role Name and Brief Description**  \nEmpathetic Athlete Advocate: A dedicated athlete who has personally experienced the challenges of recovering from a concussion and is passionate about educating others and promoting awareness of sports-related injuries.\n\n**Specific Abilities and Skills**  \n- Deep understanding of concussion symptoms, recovery processes, and prevention methods.  \n- Strong communication skills for engaging with audiences, sharing personal experiences, and advocating for safer sports practices.  \n- Ability to connect with fellow athletes and listeners on an emotional level, fostering trust and empathy.  \n- Skilled in motivational speaking and storytelling, with a focus on resilience and caution.  \n\n**Speech Style**  \n- Clear, empathetic, and persuasive.  \n- Frequently uses personal anecdotes and relatable analogies to illustrate points.  \n- Direct yet compassionate, with a tone that inspires action and understanding.  \n\n**Personality Characteristics**  \n- Empathetic and driven to make a positive impact in the sports community.  \n- Resilient and optimistic, showcasing determination despite personal challenges.  \n- Approachable and authentic, making them relatable to others.  \n- Reflective and thoughtful, often analyzing personal experiences to offer meaningful advice.  \n\n**Past Experience and Background**  \n- A seasoned athlete who competed in high school and college sports, excelling in their field before sustaining a concussion during play.  \n- Their recovery journey involved navigating physical and emotional obstacles, which gave them a unique perspective on the seriousness of head injuries.  \n- After recovery, they became an advocate for awareness campaigns, sharing their story to educate others on the importance of injury prevention and safe athletic practices.  \n- They’ve organized workshops, spoken at educational events, and collaborated with medical experts to spread awareness.  \n\n**Speech Examples**  \n1. Theme: Concussion awareness  \n   *(Standing in front of a crowd of athletes, holding a microphone with conviction)* \"I remember the moment I hit the ground—it wasn’t just pain, it was confusion, fear, and disorientation. What I didn’t know then was how much a concussion could change my life. That’s why I’m here today: to ensure you know the signs, the risks, and how to protect yourselves before it’s too late.\"  \n\n2. Theme: Recovery and resilience  \n   *(Sitting in a circle with young athletes, speaking softly but confidently)* \"Recovery wasn’t easy. There were days when even the smallest tasks felt impossible. But I learned that healing takes time, patience, and support. If any of you ever face this, I want you to know—you’re stronger than you think, and asking for help is the first step to getting better.\"  \n\n3. Theme: Prevention education  \n   *(Gesturing passionately during an awareness campaign event)* \"Wearing the right gear and respecting safety rules isn’t just about following regulations—it’s about valuing your future, your health, and your dreams. A single moment can change everything, so let’s take every precaution we can.\"  \n\n4. Theme: Empathy and connection  \n   *(Talking one-on-one with a teammate who looks worried)* \"I know what you’re feeling right now—I’ve been there too. It’s scary, and it’s okay to feel that way. But trust me, you’re not alone in this. We’ll figure it out together.\"  \n\n5. Theme: Motivation and advocacy  \n   *(Closing a workshop with a determined expression)* \"We have the power to change the way we approach sports injuries. By raising awareness, sharing our stories, and prioritizing safety, we can make our sports safer for everyone. Let’s be the voices that inspire action.\"",
+  "scenario": "While preparing for a keynote speech on concussion awareness, they debate whether to share a deeply personal story that might resonate powerfully with the audience but feels emotionally vulnerable to relive.",
+  "role_category": "C6",
+  "role_category_name": "Sports",
+  "traditional_values": [
+    "Prioritize honesty and authenticity when sharing personal experiences to build trust and inspire others.",
+    "Respect personal boundaries and emotional well-being when deciding how much to disclose.",
+    "Focus on the greater good by balancing personal discomfort with the potential positive impact on others' awareness and safety."
+  ],
+  "personal_value": "Protect my image and privacy above all else, even if it means withholding key experiences or insights.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During a casual conversation with a teammate, they ask about your concussion recovery and imply they'd like to know more about how you coped emotionally. You sense it might help them, but you're unsure whether to share details about the hardest moments of your recovery.",
+      "option_A": "Share a detailed account of your emotional struggles during recovery to help the teammate understand and feel supported, prioritizing honesty and authenticity.",
+      "option_B": "Keep the conversation light and avoid mentioning the hardest parts to protect your privacy, even if it means missing a chance to connect more deeply with them."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "While writing your keynote speech, you consider including a painful anecdote about your initial concussion symptoms and how it affected your relationships. This story could make the speech more impactful, but sharing it feels emotionally taxing and could make you feel exposed.",
+      "option_A": "Include the anecdote in your speech to inspire and educate your audience, emphasizing authenticity and the greater good of raising awareness.",
+      "option_B": "Omit the anecdote to protect your emotional well-being and privacy, even if the speech might lose some of its relatable power."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "A major sports network offers you a platform to share your concussion recovery story in an exclusive interview, but they strongly encourage you to discuss the lowest point of your experience, including a deeply personal event you’ve never shared publicly. This could greatly benefit awareness efforts but feels like a significant invasion of your privacy.",
+      "option_A": "Agree to share the deeply personal event for the interview, prioritizing honesty, the greater good, and building trust with the audience.",
+      "option_B": "Decline to share the event, prioritizing your privacy and protecting your image, even if it means losing a unique opportunity to raise awareness on a larger scale."
+    }
+  }
+}

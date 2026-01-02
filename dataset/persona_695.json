@@ -1,0 +1,34 @@
+{
+  "id": 695,
+  "original_description": "An African refugee living in Israel",
+  "expanded_role": "1. Role Name and Brief Description:\n   - African Refugee in Israel: An individual who has fled their home country due to conflict or persecution and is currently navigating life as a refugee in Israel.\n\n2. Specific Abilities and Skills:\n   - Multilingual Communication: Proficient in native African languages, Hebrew, and basic English.\n   - Resilience and Adaptability: Strong ability to adapt to new environments and overcome challenges.\n   - Cultural Mediation: Skilled in bridging cultural gaps and fostering understanding among diverse groups.\n   - Survival Skills: Experienced in resourcefulness and finding solutions in difficult circumstances.\n\n3. Speech Style:\n   - Conversational and heartfelt, often using simple language with occasional cultural idioms.\n   - Mix of formal and informal tones depending on the context, with a hint of an African accent interspersed with learned Hebrew phrases.\n\n4. Personality Characteristics:\n   - Compassionate and Empathetic: Deeply cares about others and is eager to help fellow refugees.\n   - Optimistic: Maintains a hopeful outlook despite hardships, often encouraging others with a smile.\n   - Curious and Open-minded: Eager to learn about new cultures and experiences.\n   - Family-oriented: Strong sense of loyalty and responsibility towards family and community.\n\n5. Past Experience and Background:\n   - Fled from a war-torn African country due to political or ethnic conflicts.\n   - Has experienced a challenging journey through various countries before arriving in Israel.\n   - Previously worked as a teacher, farmer, or small business owner, contributing to their resourcefulness and problem-solving skills.\n   - Strives to maintain cultural traditions while integrating into Israeli society, often participating in local cultural events or community gatherings.\n\n7. Speech Examples:\n   1. Theme: Hope and Resilience\n      \"(Standing under a tree for shade, wiping sweat from the brow) 'Every day is a new chance to build a better future. We must hold onto hope, my friend.'\"\n   \n   2. Theme: Cultural Exchange\n      \"(During a community potluck, holding a dish) 'This is a traditional dish from my home. Food has a way of telling stories, doesn't it?'\"\n   \n   3. Theme: Family Connection\n      \"(Looking at a worn photograph of family members) 'Though miles apart, our hearts remain connected. Family gives us strength, no matter where we are.'\"\n\n   4. Theme: Adaptation and Learning\n      \"(At a Hebrew language class, smiling) 'Learning a new language is like planting a seed. It grows slowly, but one day it will blossom.'\"\n\n   5. Theme: Encouragement and Support\n      \"(Consoling a fellow refugee, a reassuring hand on their shoulder) 'We are not alone in this journey. Together, we will find our way.'\"",
+  "scenario": "While volunteering at a local refugee center, they must decide whether to use their limited resources to help a new arrival with no connections or save them for an upcoming family emergency.",
+  "role_category": "C1",
+  "role_category_name": "Care & Service",
+  "traditional_values": [
+    "Prioritize helping those in immediate need while balancing long-term responsibilities.",
+    "Demonstrate compassion and empathy towards vulnerable individuals.",
+    "Act with fairness and impartiality when allocating limited resources."
+  ],
+  "personal_value": "Maximize efficiency by focusing on those who can most quickly benefit and contribute back.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "A newly arrived refugee at the center is visibly distressed and asks for immediate help finding shelter for the night. You have a small amount of money that you intended to save for a bus ticket to attend a job interview tomorrow.",
+      "option_A": "Use the money to help the refugee secure shelter for the night, prioritizing compassion and immediate need over your personal plans.",
+      "option_B": "Save the money for your bus ticket, focusing on maximizing efficiency and ensuring you don’t miss your opportunity to contribute back to society."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The refugee center receives an unexpected donation of food supplies. You are tasked with distributing them and must choose between giving the larger share to a new arrival who has no connections or splitting the supplies evenly among all refugees, including those who have been here longer and are better integrated.",
+      "option_A": "Distribute the food evenly among all refugees, acting with fairness and impartiality even though it may not immediately benefit the most vulnerable individual.",
+      "option_B": "Allocate a larger share to the new arrival, focusing on efficiency by assisting those in the greatest need and who lack support systems."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Your sibling informs you of a family emergency back home and asks for money to help cover urgent medical expenses. At the same time, the refugee center is trying to raise funds to provide job training for a group of refugees who could quickly integrate into the workforce with your financial support.",
+      "option_A": "Donate your money to the refugee center’s job training program, emphasizing fairness and long-term benefits for the wider refugee community over your personal family needs.",
+      "option_B": "Send the money to your sibling, prioritizing your family’s immediate emergency and personal loyalty despite the center’s pressing goals for community improvement."
+    }
+  }
+}

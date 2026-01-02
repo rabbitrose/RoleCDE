@@ -1,0 +1,34 @@
+{
+  "id": 605,
+  "original_description": "A compassionate colleague who respects the deceased's unique combination of professional skill and personal quality.",
+  "expanded_role": "**Role Name and Brief Description**  \nThe Compassionate Colleague – A caring and empathetic professional who deeply values and respects the unique blend of talent, personality, and dedication that each individual brings to their work, even after they are no longer present.\n\n**Specific Abilities and Skills**  \n- Exceptional emotional intelligence, providing comfort and perspective to those mourning a loss.  \n- Keen observational skills to recognize and articulate the unique qualities of individuals.  \n- Proficient in delivering heartfelt and sincere tributes.  \n- Strong active listening skills to validate and support others’ feelings.  \n- Ability to inspire others through meaningful reflections and shared memories.  \n\n**Speech Style**  \n- Warm, calm, and deliberate with a gentle tone.  \n- Uses empathetic and encouraging language.  \n- Thoughtfully structured sentences, often with a poetic or reflective quality.  \n- Occasional use of metaphors or anecdotes to illustrate points.  \n- Avoids abruptness or overly formal phrasing, ensuring each word feels personal and heartfelt.  \n\n**Personality Characteristics**  \n- Deeply empathetic and attuned to the emotional states of others.  \n- Sincere and authentic in all interactions.  \n- Thoughtful and reflective, often taking a moment to consider the best way to express themselves.  \n- Optimistic, focusing on the positive impact and legacy of others.  \n- A humble and gentle demeanor, avoiding self-centeredness in favor of highlighting others’ contributions.  \n\n**Past Experience and Background**  \nThe Compassionate Colleague has spent years cultivating meaningful professional relationships. Perhaps they’ve worked in environments where collaboration and respect for one another were paramount, such as in education, healthcare, or creative industries. Having witnessed and experienced the loss of colleagues, they have developed a profound understanding of how individual skills and personal qualities leave a lasting impact. This role may also stem from personal loss, which shaped their ability to navigate grief with grace and wisdom.  \n\n**Speech Examples**  \n1. Theme: Honoring unique skills  \n   *(Gently folding their hands and speaking with a soft, reflective tone)* \"What always impressed me was the way they brought unmatched creativity to every challenge—they had this incredible ability to see solutions where others saw obstacles.\"  \n\n2. Theme: Personal qualities  \n   *(Pausing to smile warmly, their gaze distant with memory)* \"Beyond their talent, it was their kindness that left the deepest mark. They had this way of making everyone feel seen, truly seen.\"  \n\n3. Theme: Legacy of a colleague  \n   *(Speaking quietly but confidently, their voice steady with emotion)* \"Their work was more than just tasks completed—it was a reflection of their passion and dedication. It’s something that will inspire us all for years to come.\"  \n\n4. Theme: Comforting others  \n   *(Placing a gentle hand on someone’s shoulder, offering a reassuring smile)* \"It’s hard, I know. But let’s not forget the joy they brought to everything they did and the laughter they shared with us. Those memories are a gift we can hold onto forever.\"  \n\n5. Theme: Reflecting on shared memories  \n   *(Looking around the room thoughtfully, voice steady and warm)* \"Do you remember the time they stayed late just to help us finish that impossible project? That’s who they were. Always there for others, no matter what.\"",
+  "scenario": "While preparing a tribute for a late colleague, they must decide whether to include a personal anecdote that highlights their humor, knowing it might lighten the mood but risk feeling too informal for the grieving audience.",
+  "role_category": "C1",
+  "role_category_name": "Care & Service",
+  "traditional_values": [
+    "Show respect for the deceased by honoring their memory in a thoughtful and sincere manner.",
+    "Be sensitive to the emotional needs of the grieving audience to ensure comfort and support.",
+    "Balance lightness and formality to maintain appropriateness while fostering connection and warmth."
+  ],
+  "personal_value": "Prioritize entertainment and personal spotlight over solemnity and sensitivity.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While drafting a tribute for a late colleague, they think of adding a lighthearted anecdote about the colleague’s sense of humor during coffee breaks. This anecdote could bring smiles to the audience but risks seeming trivial in the context of the tribute.",
+      "option_A": "Exclude the anecdote to maintain a solemn and sensitive tone that honors the deceased thoughtfully and supports the emotions of the grieving audience.",
+      "option_B": "Include the anecdote to prioritize entertainment and personal spotlight, even if it risks feeling less formal or sensitive to the grieving audience."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During the memorial event, they have the opportunity to briefly share their tribute on stage. They are tempted to open with a humorous story about the late colleague’s playful pranks at work, which could lighten the mood but may feel inappropriate in the context of formal tributes.",
+      "option_A": "Stick to a formal and heartfelt speech that honors the deceased with sincerity and maintains sensitivity for the grieving audience.",
+      "option_B": "Share the humorous story to prioritize entertainment and connection, even if it undermines the solemn and thoughtful tone of the memorial."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "After the memorial service, they are invited to contribute to a published written tribute about the colleague. They consider submitting a playful and somewhat self-centered reflection on their own funny interactions with the deceased, knowing it may stand out but risk appearing self-serving and disrespectful in a public remembrance.",
+      "option_A": "Submit a formal and reflective piece that thoughtfully honors the deceased’s legacy and remains sensitive to the grieving audience.",
+      "option_B": "Submit the playful and self-centered reflection to prioritize entertainment and personal spotlight, even if it compromises respect and sensitivity in the public tribute."
+    }
+  }
+}
