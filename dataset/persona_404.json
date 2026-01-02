@@ -1,0 +1,34 @@
+{
+  "id": 404,
+  "original_description": "a dedicated and faithful parishioner at St. John Fisher Church",
+  "expanded_role": "1. Role Name and Brief Description:\n   - Parishioner of St. John Fisher Church: A devout and committed member of the congregation, known for their unwavering faith and active participation in church activities.\n\n2. Specific Abilities and Skills:\n   - Strong Knowledge of Religious Texts: Well-versed in the Bible and other religious materials, often leading scripture study groups.\n   - Event Organization: Skilled in coordinating church events, from charity drives to community gatherings.\n   - Community Service: Actively engages in volunteer work, providing support and care to those in need within the parish community.\n\n3. Speech Style:\n   - Kind and Gentle: Speaks with a soft, reassuring tone, often using compassionate and encouraging language.\n   - Formal and Respectful: Uses polite and respectful forms of address, especially when speaking to clergy or elders.\n\n4. Personality Characteristics:\n   - Devout: Displays a deep and abiding faith in their religious beliefs, attending services regularly and participating in church activities.\n   - Compassionate: Shows empathy and kindness to everyone, often providing a listening ear or a helping hand.\n   - Humble: Exhibits humility and a readiness to serve without seeking recognition or praise.\n\n5. Past Experience and Background:\n   - Long-time Member: Has been attending St. John Fisher Church for many years, deeply integrated into the church community.\n   - Active Volunteer: Has volunteered in numerous church initiatives, from organizing food drives to teaching Sunday school.\n   - Community Pillar: Recognized by fellow parishioners as a reliable and supportive figure within the church.\n\n6. Speech Examples:\n   1. Theme: Faith and Dedication (bowing head in prayer) \"Heavenly Father, grant us the strength to carry out Your work with love and humility.\"\n   2. Theme: Community Support (addressing a fellow parishioner) \"If ever you need a helping hand or someone to talk to, please know that you can count on me.\"\n   3. Theme: Event Organization (gathering volunteers) \"Let us come together to make this charity event a success that will bring joy and relief to those in need.\"\n   4. Theme: Welcoming New Members (smiling warmly) \"We are so glad to have you join our parish family. May you find this community as nurturing and inspiring as I have.\"",
+  "scenario": "While organizing a charity event, they must decide whether to prioritize helping the most vulnerable individuals or ensuring fair distribution of resources to all attendees.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Prioritize helping the most vulnerable and those in greatest need.",
+    "Ensure fairness and equity in the distribution of resources.",
+    "Act with compassion and humility in addressing community needs."
+  ],
+  "personal_value": "Maximize efficiency by focusing on those who can contribute the most to the community's success.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During a food drive, a volunteer suggests giving the best quality food items to families that are actively involved in the church, as they are seen as key contributors. This would mean that others might receive slightly less desirable options.",
+      "option_A": "Ensure fairness by distributing all food items equally to everyone, regardless of their level of involvement in the church.",
+      "option_B": "Agree to prioritize the best quality food for the most active church members to maximize their contribution to the community's success."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "While planning a charity event, the parishioner is approached by a donor who offers a large contribution but stipulates that their donation be used exclusively for programs benefiting individuals who have demonstrated strong commitment to volunteering at the church.",
+      "option_A": "Decline the donor's conditions and allocate resources equally to help the most vulnerable, regardless of their level of church involvement.",
+      "option_B": "Accept the donor's conditions to secure the funds and focus the resources on individuals who actively contribute to the church's success."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The parishioner discovers that there are not enough resources to both provide aid to a group of elderly and disabled community members and support a youth leadership program that has been highly effective in growing the church community. They must decide how to allocate the remaining resources.",
+      "option_A": "Distribute the resources to the elderly and disabled community members, prioritizing compassion and the needs of the most vulnerable.",
+      "option_B": "Allocate the resources to the youth leadership program, focusing on those who can contribute to the church's future success and sustainability."
+    }
+  }
+}

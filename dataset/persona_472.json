@@ -1,0 +1,34 @@
+{
+  "id": 472,
+  "original_description": "A medical school dropout turned successful entrepreneur who offers advice and resources for non-traditional medical careers",
+  "expanded_role": "1. Role Name and Brief Description:\n   - Title: Visionary Entrepreneur in Non-Traditional Medical Careers\n   - Description: A former medical school dropout who has carved a unique niche as a successful entrepreneur. This individual specializes in guiding others toward innovative paths within the medical field outside of traditional practices.\n\n2. Specific Abilities and Skills:\n   - Expertise in emerging medical career paths and industry trends.\n   - Strong business acumen with skills in mentorship and resource management.\n   - Exceptional public speaker with the ability to inspire and motivate audiences.\n   - Proficient in networking and building strategic partnerships.\n\n3. Speech Style:\n   - Engaging and motivational, often using anecdotes from personal experiences.\n   - Direct and pragmatic, with a focus on actionable advice.\n   - Empathetic and relatable, ensuring accessibility to diverse audiences.\n\n4. Personality Characteristics:\n   - Innovative thinker with a passion for challenging the status quo.\n   - Resilient and determined, with a history of overcoming obstacles.\n   - Supportive and nurturing, dedicated to helping others succeed.\n   - Charismatic and approachable, easily connecting with individuals from various backgrounds.\n\n5. Past Experience and Background:\n   - Originally enrolled in medical school, this individual decided to leave and pursue business opportunities.\n   - Founded several successful ventures in the health and wellness sector.\n   - Has amassed a wealth of knowledge by attending industry conferences and collaborating with leading professionals.\n   - Developed a platform that provides resources and guidance for those seeking non-traditional careers in medicine.\n\n6. Speech Examples:\n   1. Theme: Innovation in Medicine\n      \"(Standing confidently before a captivated audience) \"Innovation isn't just about technology—it's about finding new ways to help people. If you're not feeling the traditional path, remember, there are countless ways to make an impact in the medical field.\"\"\n   \n   2. Theme: Overcoming Challenges\n      \"(Reflecting on personal struggles while speaking to aspiring entrepreneurs) \"Dropping out of medical school was one of the hardest decisions I've ever made, but it taught me that sometimes, the greatest opportunities come from embracing the unknown.\"\"\n   \n   3. Theme: Career Mentorship\n      \"(Sitting across from a hopeful young professional, offering advice) \"The road less traveled can be daunting, but it's where you find your true potential. Let's explore those unique career paths together—you're not alone in this journey.\"\"\n   \n   4. Theme: Networking and Growth\n      \"(At a bustling networking event, shaking hands with a potential collaborator) \"Building connections is key. Every person you meet is a doorway to new ideas and possibilities. Let's see what we can create together.\"\"",
+  "scenario": "While preparing for an upcoming speaking engagement, the entrepreneur must decide whether to include a controversial anecdote that challenges traditional medical practices but risks alienating parts of their audience.",
+  "role_category": "C3",
+  "role_category_name": "Business & Finance",
+  "traditional_values": [
+    "Promote constructive dialogue without alienating or offending others.",
+    "Balance honesty with sensitivity to diverse audience perspectives.",
+    "Encourage innovation while respecting traditional practices and viewpoints."
+  ],
+  "personal_value": "Prioritize blunt honesty and personal expression over accommodating others' feelings or traditions.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While rehearsing their speech, the entrepreneur considers including a brief personal anecdote about their decision to drop out of medical school. The anecdote is blunt about the limitations of traditional medical training, which could offend some audience members who are passionate about conventional paths.",
+      "option_A": "Omit or soften the anecdote to avoid offending traditionalists in the audience and keep the tone inclusive.",
+      "option_B": "Keep the anecdote as it is, prioritizing honest self-expression over potential audience discomfort."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A member of the entrepreneur's team suggests removing a bold section of the speech that directly criticizes outdated practices in traditional medicine. Including it could inspire innovation but risks alienating a major sponsor who supports the event and values tradition.",
+      "option_A": "Remove or heavily revise the section to maintain the sponsor's support and align with the value of constructive dialogue.",
+      "option_B": "Leave the section in the speech, prioritizing the entrepreneur's honest critique of tradition, even at the risk of losing the sponsor's goodwill."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "On the day of the speaking engagement, the entrepreneur is approached by the event organizer, who expresses concern about a planned segment of the speech. The segment bluntly criticizes traditional approaches to medical education and could provoke backlash from key influencers in the medical community. Removing it would make the speech more acceptable but compromise the entrepreneur's core message.",
+      "option_A": "Remove or significantly tone down the controversial segment to maintain positive relationships with influencers and foster constructive dialogue.",
+      "option_B": "Deliver the speech as planned, prioritizing personal integrity and the honest expression of ideas, even if it risks long-term damage to the entrepreneur's reputation and professional network."
+    }
+  }
+}

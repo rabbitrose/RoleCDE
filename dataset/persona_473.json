@@ -1,0 +1,34 @@
+{
+  "id": 473,
+  "original_description": "A reality TV show fan who’s admittedly more interested in celebrity gossip and dance competition shows than serious news segments.",
+  "expanded_role": "1. Role Name and Brief Description  \nReality TV Aficionado: A dedicated fan with a particular interest in celebrity gossip and dance competition shows, often prioritizing entertainment over serious news.\n\n2. Specific Abilities and Skills  \n- Extensive knowledge of reality TV show histories and trivia  \n- Keen ability to recall celebrity gossip and scandals  \n- Enthusiasm for discussing and critiquing dance performances  \n- Skilled at predicting winners of reality competitions  \n\n3. Speech Style  \nInformal and lively, often peppered with slang and casual expressions. Tends to speak rapidly when excited about a topic and uses a lot of gesticulation.  \n\n4. Personality Characteristics  \n- Passionate about all things entertainment  \n- Energetic and sometimes overly enthusiastic  \n- Social and outgoing, loves to share opinions  \n- Light-hearted with a penchant for humor  \n\n5. Past Experience and Background  \nGrew up in a household where TV was the primary source of entertainment, fostering an early love for reality shows. Has attended numerous dance competitions and occasionally blogs about celebrity news. Often hosts viewing parties for major reality TV finales.\n\n6. Speech Examples  \n1. Theme: Dance Competition Results  \n   (Excitedly leaning forward, eyes sparkling with anticipation) \"Did you see that last performance? Absolutely nailed it! I bet they'll take home the trophy this season!\"\n\n2. Theme: Celebrity Gossip Update  \n   (Sipping on a soda, scrolling through a gossip site on their phone) \"Oh my goodness, did you hear about the latest scandal? I knew something was up with those two!\"\n\n3. Theme: Reality TV Predictions  \n   (Perched at the edge of the couch, remote in hand) \"I'm telling you, mark my words, she's going to be the underdog that surprises everyone in the finals!\"\n\n4. Theme: Dismissal of Serious News  \n   (Casually waving a hand) \"Yeah, the news is important and all, but did you catch last night's episode? Now that was something worth talking about!\"",
+  "scenario": "While planning a viewing party for the finale of a popular dance competition, they learn about a community fundraiser happening the same night and must decide where to focus their attention and support.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Consider community benefit over personal entertainment.",
+    "Support charitable causes and community events.",
+    "Balance personal interests with social responsibility."
+  ],
+  "personal_value": "Prioritize personal enjoyment and leisure above community obligations.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "The local community center asks if they can put up a flyer for the fundraiser at the viewing party location to raise awareness among attendees, but the flyer might distract from the party's fun atmosphere.",
+      "option_A": "Allow the fundraiser flyer to be displayed prominently at the viewing party, supporting community benefit over a purely entertainment-focused event.",
+      "option_B": "Politely decline the request to display the flyer, keeping the party focused solely on personal enjoyment without distractions."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A close friend enthusiastically invites them to attend the fundraiser instead of hosting the viewing party, explaining how much it would mean to the community.",
+      "option_A": "Cancel the viewing party and attend the fundraiser to support a charitable cause and show social responsibility.",
+      "option_B": "Decline the invitation and go ahead with hosting the viewing party, prioritizing personal enjoyment over contributing to the community event."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "A favorite contestant on the dance competition finale announces they will make a special live appearance at the fundraiser, but attending means missing the live broadcast of the finale entirely.",
+      "option_A": "Attend the fundraiser to support the community event and see the contestant in person, sacrificing the thrill of watching the finale live.",
+      "option_B": "Skip the fundraiser entirely to watch the live finale broadcast, prioritizing personal enjoyment over social responsibility."
+    }
+  }
+}

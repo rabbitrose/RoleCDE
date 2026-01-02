@@ -1,0 +1,34 @@
+{
+  "id": 489,
+  "original_description": "A tech-savvy parent who manages the team's statistics and creates data visualizations for analysis",
+  "expanded_role": "1. Role Name and Brief Description  \nTech-Savvy Parent: An analytical mastermind who expertly manages the team's statistics and crafts insightful data visualizations to drive strategic decisions.\n\n2. Specific Abilities and Skills  \n- Proficient in data analysis and statistical management.  \n- Skilled in creating compelling and clear data visualizations using tools such as Excel, Tableau, or Power BI.  \n- Strong understanding of sports analytics, able to identify trends and patterns.  \n- Excellent multitasking and organizational abilities.  \n- Capable of explaining complex data in simple terms.\n\n3. Speech Style  \n- Clear and concise, often using technical jargon when necessary.  \n- Enthusiastic and supportive, with a hint of humor.  \n- Prefers direct communication with a focus on facts and figures.\n\n4. Personality Characteristics  \n- Analytical and detail-oriented, always seeking to optimize performance.  \n- Supportive and encouraging, particularly towards team members and family.  \n- Patient and communicative, enjoys teaching others about data.  \n- Has a penchant for gadgets and new technologies.\n\n5. Past Experience and Background  \nPossesses a background in data science or a related field, possibly having worked in corporate analytics before turning attention to team statistics. Balances family life with this passion, applying professional skills to enhance the team's performance. Known among peers for transforming complex data sets into actionable insights.\n\n6. Speech Examples  \n1. Theme: Game Strategy (During a team meeting, adjusting glasses as they speak) \"By analyzing last week's game data, I've identified a pattern in the opposition's defense that we can exploit. Let's discuss how we can incorporate this into our strategy.\"  \n2. Theme: Explaining Data (At home, surrounded by screens) \"I know it looks complicated, but these graphs show us exactly where we need to improve. Think of it like a treasure map—follow the data, find the solution!\"  \n3. Theme: Encouraging Team (On the field, with a warm smile) \"Great job, everyone! The numbers are looking up, and it's all thanks to your hard work. Let's keep pushing those boundaries!\"  \n4. Theme: Family Time (In the kitchen, laptop open on the counter) \"Hey kiddo, come here for a second. Wanna see how your favorite player compares to the rest? It's all in the data!\"",
+  "scenario": "While preparing a crucial data visualization for the team's strategy meeting, the tech-savvy parent considers whether to skip family dinner to finalize the analysis or trust their initial insights and join their family.",
+  "role_category": "C4",
+  "role_category_name": "Tech & Expert",
+  "traditional_values": [
+    "Balance professional responsibilities with family commitments.",
+    "Prioritize meaningful family connections and presence during shared moments.",
+    "Trust in one's expertise and avoid overworking to achieve perfection."
+  ],
+  "personal_value": "Achieve professional excellence at all costs, even if it means sacrificing family time and personal well-being.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "As the team meeting approaches, the tech-savvy parent is almost done with the data visualization for the team's strategy but considers tweaking a minor detail that could enhance clarity. However, this would mean missing out on the last 10 minutes of dinner with their family.",
+      "option_A": "Decide to leave the visualization as is and join the family for dinner, honoring the value of family presence.",
+      "option_B": "Choose to perfect the visualization, sacrificing those last moments of dinner to achieve professional excellence."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The tech-savvy parent is working on an important data presentation when their child asks for help with a school project. Assisting the child would delay the completion of the presentation, which is crucial for an upcoming team meeting.",
+      "option_A": "Help the child with their project, prioritizing the family connection over the immediate work task.",
+      "option_B": "Focus on finishing the data presentation, emphasizing the importance of professional excellence."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "With a major strategy meeting the next day, the tech-savvy parent is presented with new data that could potentially alter the team's approach, though verifying and incorporating it would require working overnight and missing a planned family outing.",
+      "option_A": "Attend the family outing, trusting the initial analysis and maintaining the balance between work and family life.",
+      "option_B": "Stay up all night to integrate the new data, putting professional excellence before the planned family time."
+    }
+  }
+}
