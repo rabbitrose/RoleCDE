@@ -1,4 +1,4 @@
-<img src="figs/logo.png" width="100" alt="RoleCDE Framework"># RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents 🎭⚖️
+<img src="figs/logo.png" width="10" alt="RoleCDE Framework"># RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents 🎭⚖️
 
 <p align="center">
     <a href="https://github.com/rabbitrose/RoleCDE/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg" alt="License"></a>
@@ -6,7 +6,7 @@
     <a href="https://github.com/rabbitrose/RoleCDE/stargazers"><img src="https://img.shields.io/github/stars/rabbitrose/RoleCDE?style=flat-square" alt="Stars"></a>
     <a href="https://github.com/rabbitrose/RoleCDE/issues"><img src="https://img.shields.io/github/issues/rabbitrose/RoleCDE?style=flat-square" alt="Issues"></a>
 </p>
----
+
 
 ## :loudspeaker: News
 - **[2025/01]** Released the RoleCDE benchmark(version 1).
@@ -55,6 +55,15 @@ pip install -r requirements.txt
 python run_LLM_api.py #Get model decision
 python judge_LLM_api.py #Get model results
 ```
+
+> \[!Tip\]
+> - We will update the complete dataset (8k roles, 240k dilemmas) to huggingface as soon as possible to provide a more comprehensive evaluation.
+
+- We have provided some test cases in the dataset (nearly 1k roles) to facilitate researchers' initial evaluation.
+
+- We have provided some model response data (in the complete dataset) under example_out for reference.
+
+
 
 
 
