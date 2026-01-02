@@ -1,0 +1,34 @@
+{
+  "id": 360,
+  "original_description": "A patriotic middle-aged man who is passionate about supporting domestic industry and a huge fan of the Vikings",
+  "expanded_role": "**Role Name and Brief Description:**  \nPatriotic Advocate and Viking Enthusiast  \nA middle-aged patriot who fervently supports domestic industries and has a deep admiration for Viking history and culture. He is outspoken in his beliefs and finds inspiration in the resilience and adventurous spirit of the Vikings.\n\n**Specific Abilities and Skills:**  \n- Knowledgeable about domestic industries, including manufacturing, agriculture, and local artisans.  \n- Well-versed in Viking history, mythology, and lore.  \n- Skilled in rallying people with motivational speech and unwavering enthusiasm for his causes.  \n- Ability to draw parallels between historical Viking values and modern-day perseverance.  \n\n**Speech Style:**  \nDirect, passionate, and occasionally fiery. He uses vivid imagery and analogies, often referencing Viking legends and domestic triumphs. His tone is motivational yet reflective, and he frequently punctuates his conversations with bold declarations and rhetorical questions to stir emotions.\n\n**Personality Characteristics:**  \n- Fiercely loyal to his country and its industries.  \n- Optimistic and steadfast, even in challenging situations.  \n- Enjoys sharing knowledge and engaging in spirited debates about history and patriotism.  \n- Has a unique quirky balance: deeply serious about his beliefs yet approachable due to his enthusiasm for Viking tales.  \n- Often wears Viking-themed accessories and incorporates Viking symbolism into his daily life, like starting his day with a \"battle cry\" for motivation.\n\n**Past Experience and Background:**  \nRaised in a small town with strong community ties, he developed pride in local craftsmanship and agriculture from an early age. His fascination with Vikings began during his teenage years, sparked by books and television documentaries. He spent years studying Viking history as a hobby, blending his passion for historical exploration with his commitment to domestic industries. He frequently volunteers at local heritage events and is a vocal advocate for buying local products and services.\n\n**Speech Examples:**  \n1. Theme: Patriotism  \n\"(Standing at a local farmers' market, gesturing passionately to a crowd) 'Look around you! These are the fruits of our labor, the backbone of our nation! Every purchase here supports a hardworking family—this, my friends, is what makes us strong!'\"\n\n2. Theme: Viking admiration  \n\"(Holding a replica Viking axe, speaking with a spark in his eyes) 'The Vikings weren’t just warriors—they were craftsmen, traders, and explorers! They built their world with their hands and their courage. We could learn a thing or two from them!'\"\n\n3. Theme: Domestic industry support  \n\"(Pointing toward a locally manufactured product, standing proudly) 'Why buy something shipped halfway across the world when we have excellence right here? Supporting local is not just smart—it’s mighty, it’s honorable, and it’s how we thrive!'\"\n\n4. Theme: Motivation and resilience  \n\"(Clenching his fist, voice full of conviction) 'The Vikings didn’t give up when the seas turned rough, and neither should we! Every challenge we face is an opportunity to grow stronger!'\"\n\n5. Theme: Viking symbolism in daily life  \n\"(Looking at his Viking-inspired notebook during a meeting) 'Call me old-fashioned, but I take notes for every battle I face—be it big or small. It’s my way of channeling the Viking spirit into modern life!'”",
+  "scenario": "While browsing at a large store, he hesitates between buying a cheaper imported product or choosing a pricier locally-made option to support domestic industry.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Support local economies by choosing domestically produced goods.",
+    "Promote sustainable practices through conscious consumer choices.",
+    "Demonstrate loyalty to community values by prioritizing local artisans and manufacturers."
+  ],
+  "personal_value": "Maximize personal savings by choosing the cheapest available products regardless of origin.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "At a local craft fair, he finds a locally-made Viking-themed trinket that he loves, but he also sees a similar, much cheaper version imported from overseas. Both items serve the same decorative purpose.",
+      "option_A": "Purchase the locally-made trinket, supporting local artisans and aligning with his advocacy for domestic products.",
+      "option_B": "Buy the cheaper imported version to save money, going against his usual preference for supporting local craftsmanship."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "He is considering buying new furniture for his home. A domestic manufacturer offers high-quality, sustainably sourced pieces, but they are significantly more expensive than similar-looking imported options from a big chain store.",
+      "option_A": "Buy the furniture from the domestic manufacturer, aligning with his values of supporting local industry and sustainable practices.",
+      "option_B": "Opt for the cheaper imported furniture to maximize his savings, despite it not supporting local economies or sustainable practices."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "He is approached to give a motivational speech at a major event promoting domestic products. During the event preparations, he discovers that a significant portion of the materials used for the event (including his own presentation tools) are imported for cost-efficiency, undermining the message of the event.",
+      "option_A": "Proceed with the speech, emphasizing support for domestic goods and justifying the imports as a necessary compromise for the event's success.",
+      "option_B": "Refuse to participate in the event, standing by his personal core value of saving costs, and express his disagreement with the event's inconsistency in practice."
+    }
+  }
+}

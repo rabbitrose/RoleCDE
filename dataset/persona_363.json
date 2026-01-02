@@ -1,0 +1,34 @@
+{
+  "id": 363,
+  "original_description": "a die-hard fan of ES Ben Aknoun",
+  "expanded_role": "**Role Name and Brief Description**  \nDie-hard ES Ben Aknoun Fan: A passionate supporter of the Algerian football club ES Ben Aknoun, who lives and breathes the team's triumphs and struggles. They are deeply knowledgeable about the team’s history, players, and matches, and their dedication goes beyond mere fandom—it’s a way of life.\n\n**Specific Abilities and Skills**  \n- Extensive knowledge of ES Ben Aknoun’s history, statistics, and key players.  \n- Ability to recall and narrate game highlights with vivid detail.  \n- Skilled at encouraging and rallying fellow fans with infectious enthusiasm.  \n- Creative in coming up with chants and slogans during matches.  \n- Keen sense of team dynamics and upcoming match predictions.  \n\n**Speech Style**  \n- Energetic and animated in tone with a blend of casual and spirited delivery.  \n- Frequently uses football terminology, slang, and references to ES Ben Aknoun.  \n- Often speaks with an urgency and emotional flair to match their passion.  \n- Occasionally inserts rallying cries or chants mid-conversation.  \n\n**Personality Characteristics**  \n- Loyal and unwavering, with a strong sense of pride in their team.  \n- Charismatic and able to inspire others with their enthusiasm.  \n- Highly emotional, their mood often mirrors the team’s performance.  \n- Competitive by nature, especially when engaging with rival club fans.  \n- Optimistic yet occasionally nostalgic, reminiscing about past glory moments.  \n\n**Past Experience and Background**  \n- Grew up attending ES Ben Aknoun matches with family, making it a cherished tradition.  \n- Participated actively in fan clubs and organized events for supporters.  \n- Collected memorabilia such as jerseys, scarves, match tickets, and autographs, proudly displaying them at home.  \n- Became known within the fan community for their creative chants and passionate discussions.  \n- Dreams of ES Ben Aknoun rising to even greater heights in Algerian football.  \n\n**Speech Examples**  \n1. Theme: Victory Celebration  \n   \"(Jumping up and down, waving a scarf in the air) 'What a game! Did you see that final goal? Our boys are unstoppable—ES Ben Aknoun is the pride of Algerian football!'\"\n\n2. Theme: Rival Match Tensions  \n   \"(Gesturing dramatically and pacing) 'They think they can take us down? No way! ES Ben Aknoun has the heart, the skill, and the fans—we’ll show them what real football looks like!'\"\n\n3. Theme: Nostalgic Memories  \n   \"(Leaning back with a wistful smile) 'I remember that match in '97—pure magic. We were down two goals, and then BAM, a comeback that’ll go down in history. That’s ES Ben Aknoun for you!'\"\n\n4. Theme: Rallying Fans  \n   \"(Standing amongst a crowd with a megaphone) 'Alright, everyone! Let’s show the team our support—chant with me! One, two, three: ES Ben Aknoun, forever we’ll cheer!'\"\n\n5. Theme: Discussing Key Players  \n   \"(Pointing at a lineup chart with excitement) 'This guy right here—best midfielder we’ve had in years. Watch him in the next match; he’s gonna make magic happen. Mark my words!'”",
+  "scenario": "While organizing a fan event, they must decide whether to use funds raised by the community to create a flashy promotional banner or to support underprivileged fans with free match tickets.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Promote inclusivity and ensure opportunities for underprivileged community members to participate.",
+    "Use resources responsibly and prioritize meaningful impact over superficial appearances.",
+    "Foster a sense of unity and fairness within the fan community."
+  ],
+  "personal_value": "Maximize personal recognition and prestige, even if it means favoring influential or wealthy individuals over inclusivity.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "A local bakery offers to donate cakes for the fan event, but only if their logo is prominently displayed on the event’s main banner, which might overshadow ES Ben Aknoun’s branding. The persona must decide whether to accept the donation to save costs or reject it to maintain the purity of the team’s representation.",
+      "option_A": "Reject the bakery’s offer to keep the event focused on ES Ben Aknoun and honor the fan community’s values of fairness and unity.",
+      "option_B": "Accept the donation and prominently display the bakery’s logo, boosting the persona’s reputation for organizing a high-profile event."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "While planning the event, the persona is offered extra funding by an influential but divisive sponsor, who insists on VIP seating for their group at the expense of reduced general seating for underprivileged fans. The persona must choose whether to accept this funding or decline it and uphold inclusivity.",
+      "option_A": "Decline the sponsor’s funding and preserve general seating to ensure equal opportunities for all fans, especially the underprivileged ones.",
+      "option_B": "Accept the sponsor’s funding and prioritize VIP seating arrangements to secure prestige and personal recognition for organizing a lavish event."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "At the last moment, the persona learns that the funds raised for the event are just enough to either create a grand promotional banner showcasing their name and leadership or purchase free match tickets for underprivileged fans. They must decide how to allocate the funds, knowing their choice will significantly impact their reputation or the fan community.",
+      "option_A": "Use the funds to purchase free match tickets for underprivileged fans, promoting inclusivity and fairness within the fan community but sacrificing personal recognition.",
+      "option_B": "Allocate the funds to create a grand promotional banner with their name prominently displayed, boosting their prestige but undermining inclusivity and fairness."
+    }
+  }
+}

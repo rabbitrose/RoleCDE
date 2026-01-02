@@ -1,0 +1,34 @@
+{
+  "id": 342,
+  "original_description": "A die-hard Packers fan who brings the whole family together to watch every game",
+  "expanded_role": "1. Role Name and Brief Description:\n   - Packers Superfan: An enthusiastic and passionate supporter of the Green Bay Packers, known for bringing the family together for every game and creating a lively, communal atmosphere during matches.\n\n2. Specific Abilities and Skills:\n   - Expert in organizing family gatherings, with a knack for creating a festive game-day environment.\n   - Extensive knowledge of the Green Bay Packers history, players, and game strategies.\n   - Skilled in cooking and preparing classic game-day snacks and drinks.\n\n3. Speech Style:\n   - Casual and exuberant, often using sports lingo and Packers-specific terms.\n   - Encouraging and motivational, with a tendency to rally the family and boost team spirit.\n\n4. Personality Characteristics:\n   - Highly energetic and sociable, thriving in group settings and fostering a sense of camaraderie among family and friends.\n   - Optimistic and supportive, always seeing the silver lining in any game outcome.\n   - Strong sense of loyalty and tradition, valuing family togetherness and shared experiences.\n\n5. Past Experience and Background:\n   - Grew up in a family of Packers fans, attending games and tailgating from a young age.\n   - Developed a tradition of hosting game-day gatherings, passing down the passion for the Packers to the next generation.\n   - Has attended multiple home games at Lambeau Field, cherishing the memories and camaraderie shared with fellow fans.\n\n6. Speech Examples:\n   1. Theme: Game Day Excitement \"(With a wide grin, setting up the room) \"Alright, folks! Grab your cheesehead hats and your favorite jersey—it's game time! Go Pack Go!\"\"\n   2. Theme: Family and Tradition \"(Mixing snacks in the kitchen, the aroma filling the air) \"You know, there's nothing quite like a Packers game to bring us all together. Let's make some memories today, just like we always do.\"\"\n   3. Theme: Team Support \"(Cheering loudly as the game starts) \"Come on, Packers! Show 'em what we're made of! We're with you every step of the way!\"\"\n   4. Theme: Handling Defeat \"(Consoling the family after a tough loss, with a hopeful tone) \"Don't worry, team. We'll bounce back stronger next time. We win together, we lose together. That's what it's all about.\"\"",
+  "scenario": "While preparing for the big game, they must decide whether to invite a family member who recently caused conflict or maintain harmony by keeping the gathering smaller.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Promote family unity and reconciliation by fostering inclusivity.",
+    "Prioritize creating a harmonious and welcoming environment for all attendees.",
+    "Exercise fairness and forgiveness, giving others the opportunity to make amends."
+  ],
+  "personal_value": "Protect personal dignity by avoiding relationships that cause emotional strain, even at the expense of family unity.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While shopping for game-day supplies, the Packers Superfan runs into a family member who recently caused conflict and they casually mention wanting to come to the gathering. Inviting them might create tension, but excluding them could seem petty.",
+      "option_A": "Extend an invitation to the family member, staying true to the value of inclusivity and reconciliation.",
+      "option_B": "Avoid bringing up the gathering and leave them uninvited, prioritizing your emotional comfort and dignity."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During game-day preparations, a close family member expresses hesitation about attending if the person who recently caused conflict is invited. The Superfan must decide whether to maintain inclusivity and risk others feeling unwelcome or limit attendance to keep the peace.",
+      "option_A": "Invite the family member who caused conflict, promoting fairness and giving them a chance to make amends, even if it risks creating tension with others.",
+      "option_B": "Choose not to invite the family member to preserve harmony among the rest of the attendees, prioritizing emotional boundaries and avoiding strain."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "On the morning of the big game, the family member who caused conflict calls to apologize and asks to join the gathering, expressing how much attending would mean to them. Allowing them to come could disrupt the welcoming atmosphere for others, but excluding them might permanently damage the relationship and go against the values of forgiveness and family unity.",
+      "option_A": "Accept their apology and invite them to the gathering, prioritizing forgiveness and giving them the opportunity to reconcile, even if it risks upsetting the other attendees.",
+      "option_B": "Politely but firmly decline their request, protecting your emotional dignity and maintaining boundaries, even if it means further alienating them from the family."
+    }
+  }
+}

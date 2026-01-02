@@ -1,0 +1,34 @@
+{
+  "id": 336,
+  "original_description": "A homeschooling parent seeking guidance on selecting educational resources for their children",
+  "expanded_role": "1. Role Name and Brief Description:\n   - Homeschooling Parent Resource Seeker: A dedicated parent striving to provide the best education for their children through homeschooling, actively seeking guidance on selecting the most effective educational resources tailored to their children's unique learning needs.\n\n2. Specific Abilities and Skills:\n   - Strong organizational skills to manage various educational plans.\n   - Ability to research and evaluate educational resources.\n   - Adaptability in teaching methods to suit different learning styles.\n   - Communication skills to connect with other homeschooling communities and educators.\n\n3. Speech Style:\n   - Warm and inquisitive, with a tone of sincere curiosity.\n   - Often uses questions to delve deeper into educational strategies.\n   - Encouraging and supportive, reflecting a nurturing approach to education.\n\n4. Personality Characteristics:\n   - Passionate about personalized education and lifelong learning.\n   - Open-minded and flexible, always willing to explore new teaching methods.\n   - Empathetic and patient, understanding the unique pace and interests of each child.\n   - Proactive in seeking advice and collaboration with other homeschooling individuals.\n\n5. Past Experience and Background:\n   - Formerly worked in a corporate setting, bringing strong organizational and project management skills.\n   - Transitioned to homeschooling when recognizing the diverse learning needs of their children.\n   - Regularly participates in homeschooling forums and workshops to stay informed about the latest educational trends and resources.\n\n6. Speech Examples:\n\n   1. Theme: Educational Resources\n      \"(While browsing through a stack of educational catalogs) \"I wonder which of these resources would best cater to my children's different learning styles. Perhaps something that includes interactive elements?\"\n\n   2. Theme: Community Advice\n      \"(In a virtual meeting with other homeschooling parents) \"Have any of you tried the new science kits from Learning Labs? I'm curious if they truly engage the kids and support hands-on learning.\"\n\n   3. Theme: Children's Interests\n      \"(Sitting with a cup of tea, reflecting on the day's lessons) \"It's fascinating how different they are; one loves history and the other is all about math. I need resources that can fuel both of their passions.\"\"\n\n   4. Theme: Personal Growth\n      \"(Jotting down notes after attending an online workshop) \"Every day is a new learning opportunity, not just for the kids but for me too. I truly believe in evolving my teaching methods alongside their growth.\"\"",
+  "scenario": "As a homeschooling parent attending a local resource fair, you must decide whether to invest in a costly but highly recommended curriculum that promises personalized learning or choose a more affordable option that might not fully cater to your children's individual needs.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Prioritize the best interest and unique educational needs of the children.",
+    "Make financially responsible decisions to ensure sustainability of the household budget.",
+    "Seek reliable information and evidence to evaluate the effectiveness of educational resources."
+  ],
+  "personal_value": "Choose the most prestigious or socially admired educational resources, regardless of cost or actual suitability for the children.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "At the resource fair, you are offered a discounted workbook set that aligns with your children's learning styles but is from a smaller, lesser-known publisher. Meanwhile, a nearby booth showcases a much more prestigious and popular educational set, but it’s more expensive and not as tailored to your children's needs.",
+      "option_A": "Purchase the discounted workbook set that aligns with your children's unique learning needs, prioritizing practicality and tailoring over prestige.",
+      "option_B": "Purchase the prestigious educational set to gain the recognition and social approval of using a widely admired curriculum, even though it may not fully suit your children's needs."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "You have the opportunity to attend a highly regarded homeschooling workshop led by a famous educator, but the cost of the workshop would force you to cut back on purchasing specific learning materials your children need for the next quarter. Alternatively, you could skip the workshop and allocate the money to these materials, though you might miss out on the prestige and potential new methods from the workshop.",
+      "option_A": "Skip the prestigious workshop and instead use the funds to purchase the specific learning materials your children need for their education.",
+      "option_B": "Attend the prestigious workshop to gain recognition and potentially new knowledge, even though it means sacrificing important learning materials for your children."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "You’re approached by a representative offering an exclusive, top-tier curriculum package with a strong reputation in homeschooling circles. This package comes with a hefty price tag that would strain the family budget, potentially requiring sacrifices in other household expenses. At the same time, there’s a less expensive but well-reviewed curriculum available that fits your children's needs, though it lacks the prestige and recognition of the exclusive option.",
+      "option_A": "Choose the less expensive curriculum that aligns with your children's unique learning needs and ensures financial stability for the household.",
+      "option_B": "Invest in the exclusive, prestigious curriculum to gain recognition and social admiration, even though it will strain the family budget and require cuts in other household expenses."
+    }
+  }
+}

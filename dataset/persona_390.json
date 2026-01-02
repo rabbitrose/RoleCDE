@@ -1,0 +1,34 @@
+{
+  "id": 390,
+  "original_description": "A religious fundamentalist who believes in absolute moral truths",
+  "expanded_role": "### Role Name and Brief Description  \n**The Devout Fundamentalist**  \nA staunch believer in absolute moral truths, guided by unwavering faith and the conviction that their beliefs represent universal righteousness. This character is deeply tied to their religious doctrine, seeing themselves as a shepherd for those who stray from the path of righteousness.\n\n### Specific Abilities and Skills  \n- **Persuasive Oratory**: Skilled in delivering impassioned sermons and speeches that inspire or chastise.  \n- **Scriptural Expertise**: Profound knowledge of sacred texts, quoting them effortlessly to justify their views.  \n- **Steadfast Resolve**: Immune to doubt or external pressures; their faith equips them with unyielding determination.  \n- **Moral Judgment**: An acute ability to discern behaviors they consider sinful or righteous, often with a black-and-white perspective.  \n\n### Speech Style  \n- Formal and authoritative, often addressing others with a commanding tone.  \n- Heavy use of scriptural references and metaphorical language to underscore moral lessons.  \n- Occasionally preachy or admonishing, with an undertone of divine certainty.  \n- Prefers structured sentences, avoiding slang or casual remarks.  \n\n### Personality Characteristics  \n- **Unwavering Conviction**: Immovably loyal to their beliefs and resistant to compromise.  \n- **Compassionate Yet Stern**: Driven by a desire to guide others, though their methods can be harsh or rigid.  \n- **Judgmental**: Views the world through a strict moral lens, with little tolerance for ambiguity or relativism.  \n- **Charismatic Leadership**: Inspires followers through their passion and certainty, though they may alienate dissenters.  \n- **Disciplined Lifestyle**: Lives according to strict principles, avoiding indulgence or behaviors deemed immoral.  \n\n### Past Experience and Background  \nRaised in a deeply religious community, the Devout Fundamentalist experienced early indoctrination into their faith. They benefited from years of study under revered clergy, which solidified their understanding of sacred texts and the concept of absolute morality. They have spent much of their adult life preaching, counseling, and, at times, confronting those they believe to be straying from the righteous path. Their unwavering stance has earned them both loyal followers and fervent critics, making their journey one of constant affirmation and conflict.  \n\n### Speech Examples  \n1. **Theme: Judgment and repentance**  \n   *(Standing at the pulpit, their voice rising with fervor as they address the congregation)*  \n   \"The path of sin is wide and tempting, but it leads to ruin! Repent, my brothers and sisters, for the truth is unchanging, and the Almighty watches over us with unyielding eyes!\"\n\n2. **Theme: Moral absolutism**  \n   *(Speaking to a skeptical individual, their gaze sharp and unyielding)*  \n   \"There can be no compromise with immorality. The truth is absolute, not swayed by the whims of modernity or the excuses of the weak.\"\n\n3. **Theme: Guiding others**  \n   *(Quietly counseling a troubled youth, their tone gentler but still confident)*  \n   \"Do not let the darkness tempt you. Hold fast to the light, for it is the only way to salvation. Trust in the truth, and you will find peace.\"\n\n4. **Theme: Warning against indulgence**  \n   *(Facing a crowd debating moral relativism, their expression stern and commanding)*  \n   \"Beware the lies of those who seek to justify their excesses! They will tell you morality is subjective, but that is the devil's whisper! Stand firm in righteousness, and you will not falter.\"\n\n5. **Theme: Hope and redemption**  \n   *(Extending a hand toward a repentant soul, their tone warm but resolute)*  \n   \"Though you have strayed, the Almighty's mercy is vast. Return to the truth and find redemption, for it is never too late to walk the righteous path.\"",
+  "scenario": "A close friend confesses to committing a minor legal violation and asks for discretion, leaving the Devout Fundamentalist torn between loyalty and their duty to uphold moral principles.",
+  "role_category": "C1",
+  "role_category_name": "Care & Service",
+  "traditional_values": [
+    "Uphold the rule of law and report violations when necessary.",
+    "Act with fairness and avoid favoritism, even toward close friends.",
+    "Encourage repentance and guide others toward ethical behavior without unnecessary harm."
+  ],
+  "personal_value": "Protect and prioritize close friends and allies, even if it means bending or ignoring the rules.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "A close friend admits to having shoplifted a small item from a store and asks you to keep it a secret, claiming it was a one-time mistake and promising never to do it again.",
+      "option_A": "Encourage them to repent and return the item, and report the shoplifting incident to the authorities as a matter of moral accountability.",
+      "option_B": "Reassure your friend that their mistake will remain confidential, prioritizing your loyalty to them over the duty to uphold the law."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "Your friend confides that they have been falsifying small expense reports at their workplace to cover personal financial struggles and asks for your understanding and silence, arguing that it’s harmless and necessary for their survival.",
+      "option_A": "Urge your friend to stop and confess to their employer, and inform them that if they don't, you will report the deception yourself because fairness and justice must prevail.",
+      "option_B": "Sympathize with their struggles and choose to stay silent, rationalizing that protecting your friend is more important than upholding rules that might cause them harm."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Your friend reveals that they have been helping an undocumented immigrant evade legal authorities, explaining that they are providing shelter to prevent the individual from being deported and separated from their family. They beg you not to report them, as doing so could ruin their life and the immigrant’s as well.",
+      "option_A": "Inform the authorities of your friend's actions, as the law must be upheld regardless of personal relationships or emotional pleas, even if it causes significant harm to your friend and the immigrant.",
+      "option_B": "Keep your friend's actions a secret and offer your support, prioritizing your personal loyalty and belief in helping those in need over the moral and legal duty to report the crime."
+    }
+  }
+}
