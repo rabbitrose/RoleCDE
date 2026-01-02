@@ -11,7 +11,7 @@
 
 ## 🖼️ Framework Overview
 
-RoleCDE formulates role-aware decision-making as cognitive dilemma scenarios. The framework consists of three modular parts:
+Role CDE is the first benchmark to evaluate role-playing agents under structured conflicts between role-specific values and alignment-oriented constraints. The framework consists of three modular parts:
 
 <p align="center">
   <img src="figs/framework0102.png" width="950" alt="RoleCDE Framework">
@@ -75,7 +75,7 @@ python NLG_eval.py #Test model in BLEU,ROUGE,Bertscore
 
 - [ ] feat: update the complete dataset (8k roles, 240k dilemmas) to huggingface.
 - [ ] feat: update the training data and training model weights to huggingface.
-- [ ] - [ ] feat: add RoleCDE PyPI package.
+- [ ] feat: add RoleCDE PyPI package.
 
 </details>
 
