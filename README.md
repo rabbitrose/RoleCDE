@@ -8,15 +8,15 @@
 </p>
 ---
 ## 📢 News
-* [cite_start]**[2026/01]** Released the RoleCDE benchmark(version 1).
+**[2026/01]** Released the RoleCDE benchmark(version 1).
 ---
 
 ## 🖼️ Framework Overview
 
-[cite_start]RoleCDE formulates role-aware decision-making as cognitive dilemma scenarios. [cite_start]The framework consists of three modular parts:
+RoleCDE formulates role-aware decision-making as cognitive dilemma scenarios. The framework consists of three modular parts:
 
 <p align="center">
-  <img src="Figs/framework.png" width="850" alt="RoleCDE Framework">
+  <img src="figs/framework0102.png" width="850" alt="RoleCDE Framework">
   <br>
   <em>The overall pipeline of RoleCDE.</em>
 </p>
@@ -39,3 +39,15 @@ The benchmark is constructed at scale to ensure diverse evaluation:
 | **Difficulty Levels**| Easy, Mid, Hard | 
 
 ---
+
+## 🚀 Quick Start
+
+### 1. install environment
+
+```bash
+git clone [https://github.com/rabbitrose/RoleCDE.git](https://github.com/rabbitrose/RoleCDE.git)
+cd RoleCDE
+pip install -r requirements.txt
+
+---
+
