@@ -67,14 +67,17 @@ python NLG_eval.py #Test model in BLEU,ROUGE,Bertscore
 
 
 > \[!Tip\]
-> - We will update the complete dataset (8k roles, 240k dilemmas) to huggingface as soon as possible to provide a more comprehensive evaluation.
+> - We have provided some test cases in the  `dataset` (nearly 1k roles) to facilitate researchers' initial evaluation.
+> - We have provided some model response data (in the complete dataset) under `example_out` for reference.
 
-> - We have provided some test cases in the dataset (nearly 1k roles) to facilitate researchers' initial evaluation.
+## TODOs
+<details><summary>Click me to show all TODOs</summary>
 
-> - We have provided some model response data (in the complete dataset) under example_out for reference.
+- [ ] feat: update the complete dataset (8k roles, 240k dilemmas) to huggingface.
+- [ ] feat: add RoleCDE PyPI package.
 
+</details>
 
-
-
+<p align="right"><a href="#top">🔝Back to top</a></p>
 
 
