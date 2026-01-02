@@ -8,6 +8,9 @@
     <a href="https://github.com/rabbitrose/RoleCDE/stargazers"><img src="https://img.shields.io/github/stars/rabbitrose/RoleCDE?style=flat-square" alt="Stars"></a>
     <a href="https://github.com/rabbitrose/RoleCDE/issues"><img src="https://img.shields.io/github/issues/rabbitrose/RoleCDE?style=flat-square" alt="Issues"></a>
 </p>
+> \[!IMPORTANT\]
+>
+> 🌟 **Star Us!** By starring our project on GitHub, you'll receive all release notifications instantly. We appreciate your support!
 
 ## 🖼️ Framework Overview
 
@@ -43,6 +46,16 @@ The benchmark is constructed at scale to ensure diverse evaluation:
 ---
 
 ## 🚀 Quick Start
+
+### 3. LLM Configuration
+
+Edit your LLM API URL, token, and model information before evaluation in each  `.py` file.
+Example:
+```python
+API_URL = "xxxxxxxxx" 
+API_KEY = "xxxxxxx"
+MODEL_NAME = "xxxxxxxxx"
+```
 
 - Python 3.10+ (Anaconda recommended)
 - All Python dependencies in `requirements.txt`
