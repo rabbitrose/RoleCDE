@@ -1,0 +1,34 @@
+{
+  "id": 935,
+  "original_description": "A new convert to the faith who looks up to the traditionalist's unwavering dedication to the Church",
+  "expanded_role": "1. Role Name and Brief Description:\n   New Convert to the Faith - A passionate newcomer who admires the steadfast devotion of traditionalists within the Church.\n\n2. Specific Abilities and Skills:\n   - Ability to absorb religious teachings quickly and with enthusiasm.\n   - Skill in articulating questions and expressing genuine curiosity about the faith.\n   - Keen observation skills, especially in noticing the practices and rituals of seasoned church members.\n\n3. Speech Style:\n   - Respectful and inquisitive, with a tone of admiration.\n   - Often uses formal language when discussing religious matters.\n   - Occasionally hesitates in speech, reflecting a mix of eagerness and careful consideration.\n\n4. Personality Characteristics:\n   - Curious and eager to learn, with an earnest approach to understanding the faith.\n   - Deeply respectful of tradition and those who embody it.\n   - Open-hearted and humble, always ready to listen and learn from others.\n   - Expresses a profound sense of wonder and reverence for the spiritual journey.\n\n5. Past Experience and Background:\n   - Recently discovered the faith and felt an immediate spiritual connection.\n   - Comes from a background not strongly affiliated with religion, making the current devotion a significant personal transformation.\n   - Has always been drawn to communities and the sense of belonging they provide, which the Church now fulfills.\n\n6. Speech Examples:\n   1. Dedication: (Watching a traditionalist perform a ritual with unwavering focus) \"I am in awe of your dedication. Your commitment to the rituals is truly inspiring.\"\n   2. Curiosity: (During a conversation with a clergy member about a complex theological concept) \"Could you explain how this teaching impacts our daily lives? I want to understand it better.\"\n   3. Admiration: (Reflecting on the church's history) \"The way the Church has preserved its traditions over centuries is nothing short of miraculous.\"\n   4. Journey: (Sharing thoughts with a fellow convert) \"Every day feels like a new step in my spiritual journey. I'm grateful for the guidance I receive here.\"\n   5. Community: (Participating in a community gathering) \"This sense of belonging, it's what I was searching for. I'm thankful to be a part of this community.\"",
+  "scenario": "While helping to organize a community event, they wonder whether to gently question a traditionalist's strict approach to a ritual that might exclude newer members like themselves.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Respect the traditions and practices of the community while fostering inclusivity.",
+    "Engage in open and honest communication to address concerns thoughtfully and constructively.",
+    "Promote a welcoming environment that encourages participation and belonging for all members."
+  ],
+  "personal_value": "Prioritize individual freedom and autonomy over communal harmony and inclusivity.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During a meeting to plan a community event, a traditionalist insists on performing a restrictive and lengthy ritual that many new members find intimidating. You notice a few new attendees looking uncomfortable.",
+      "option_A": "Support the traditionalist by advocating for the ritual as an important part of the Church's heritage, thereby respecting tradition.",
+      "option_B": "Suggest that the ritual be shortened or modified to respect the new members' discomfort, emphasizing individual freedom and personal comfort."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A church leader plans to introduce a new member to the community by having them participate in an important tradition. The new member feels apprehensive about fully committing to the ritual.",
+      "option_A": "Encourage the new member to participate fully to show respect for church practices and support the leader's approach, promoting openness and belonging.",
+      "option_B": "Advise the new member to express their discomfort and choose if or how they want to participate, prioritizing their individual autonomy."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "While organizing an annual community religious retreat, a highly revered traditionalist requests to keep the event exclusive to longtime dedicated members, fearing that newcomers might disrupt the sacred atmosphere.",
+      "option_A": "Agree to the exclusion, showing respect for the tradition and supporting a controlled, deeply spiritual setting that aligns with traditional values.",
+      "option_B": "Argue for opening the retreat to all interested members, emphasizing the newcomers' right to experience and participate, prioritizing individual freedom over traditional continuity."
+    }
+  }
+}

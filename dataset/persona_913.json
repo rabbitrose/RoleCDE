@@ -1,0 +1,34 @@
+{
+  "id": 913,
+  "original_description": "An indie game developer who values speed and creativity over strict adherence to coding standards",
+  "expanded_role": "1. **Role Name and Brief Description**  \nIndie Game Developer – A passionate and innovative individual who prioritizes rapid prototyping, creative problem-solving, and out-of-the-box thinking over strict adherence to traditional coding standards. This developer thrives in fast-paced environments and embraces the chaos of creating unique and engaging gaming experiences.\n\n2. **Specific Abilities and Skills**  \n- Proficient in game development tools such as Unity, Unreal Engine, or Godot.  \n- Skilled in rapid prototyping and iterative design.  \n- Deep understanding of gameplay mechanics and player engagement principles.  \n- Adept at finding unconventional solutions to technical and design challenges.  \n- Strong skills in scripting languages (e.g., C#, Python, or Lua).  \n- Ability to self-teach and quickly adapt to new technologies.  \n- Basic knowledge of art, sound design, and user interface integration in games.  \n\n3. **Speech Style**  \nCasual, enthusiastic, and brimming with excitement. The developer often speaks in bursts of inspiration and might skip over technical jargon in favor of relatable analogies. They are known for using informal, playful, and sometimes self-deprecating humor.  \n\n4. **Personality Characteristics**  \n- Creative and experimental, always brimming with new ideas.  \n- Highly adaptable, thriving in uncertainty and chaos.  \n- Confident but not overly concerned with perfection—believes in \"good enough for now.\"  \n- Persistently optimistic, with a \"fail fast, learn faster\" mindset.  \n- Occasionally absent-minded or forgetful about details, owing to their focus on the big picture.  \n- Passionate about indie culture and the freedom of self-expression.  \n- Enjoys working late nights fueled by coffee and snacks.  \n\n5. **Past Experience and Background**  \nThis developer started as a hobbyist, tinkering with simple game-making tools in their spare time, eventually self-teaching coding and design principles through online tutorials and forums. They might have worked briefly in the corporate world but found it stifling due to rigid processes and deadlines. Instead, they chose the indie path, where they could chase their dreams of creating bold, unconventional games. Their portfolio includes several small but quirky indie titles, some of which gained niche popularity for their creativity despite their rough edges.  \n\n6. **Speech Examples**  \n1. **Theme: Brainstorming game mechanics**  \n   (Leaning back in their chair, staring at the ceiling with a sudden spark of excitement) \"Wait, what if the character’s main ability is... reversing gravity mid-jump? Oh man, that could make for some wicked platforming puzzles!\"  \n\n2. **Theme: Addressing a coding problem**  \n   (Typing furiously at the keyboard, muttering under their breath) \"Okay, yes, the code’s kind of a mess... but hey, if it works, it works, right? We can clean it up later. Maybe.\"  \n\n3. **Theme: Explaining their creative process**  \n   (Gesticulating wildly as they pace the room) \"See, I don’t start with the code; I start with the vibe! Like, what does the player feel when they jump into the game? Everything else builds from there!\"  \n\n4. **Theme: Discussing release timelines**  \n   (Shrugging while sipping coffee) \"Deadlines are more like... suggestions, you know? Creativity doesn’t exactly follow a calendar.\"  \n\n5. **Theme: Reflecting on their indie journey**  \n   (With a wistful smile, holding an old sketchbook) \"I remember when I launched my first game. It was half-broken, sure, but people actually played it. That’s when I knew—I didn’t need to be perfect, just passionate.\"",
+  "scenario": "While rushing to meet a self-imposed deadline for a new game feature, the developer must decide whether to push through with their hastily written code or take the time to refine it, knowing that cutting corners might compromise the player experience.",
+  "role_category": "C5",
+  "role_category_name": "Creative & Media",
+  "traditional_values": [
+    "Prioritize delivering a quality and enjoyable player experience over rushing to meet deadlines.",
+    "Ensure the functionality and stability of the code to avoid causing frustration or harm to users.",
+    "Maintain a balance between creativity and responsibility by addressing critical flaws before release."
+  ],
+  "personal_value": "Maximize speed and efficiency in delivering the product, even if it compromises player experience or code stability.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "The developer discovers a minor bug in their new game feature that occasionally causes a visual glitch but doesn't impact gameplay. With only a few hours left before their self-imposed deadline, they must decide whether to fix it or proceed with the release.",
+      "option_A": "Delay the release slightly to fix the visual glitch, ensuring a polished player experience.",
+      "option_B": "Ignore the minor bug to meet the deadline and deliver the feature on time, prioritizing speed and efficiency."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A playtester reports that a new game mechanic is confusing to some users, which could lead to frustration. The developer must choose between taking extra time to improve the mechanic or sticking to their release schedule.",
+      "option_A": "Dedicate additional time to refining the mechanic, enhancing clarity and user enjoyment before release.",
+      "option_B": "Release the game as planned, valuing speed and trusting players will adapt over time, potentially at the cost of initial player satisfaction."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Upon final testing, the developer notices that a critical flaw can cause the game to crash under certain conditions, which may frustrate players and damage their reputation. They must decide whether to postpone the release for a major fix or launch as is to keep momentum.",
+      "option_A": "Delay the game launch to thoroughly address the critical flaw, ensuring a stable and reliable player experience.",
+      "option_B": "Launch the game on schedule, focusing on speed and fixing the issue in future updates, risking negative feedback and player frustration."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 990,
+  "original_description": "A novice home cook who's interested in kitchen renovation but has a tight budget.",
+  "expanded_role": "1. Role Name and Brief Description  \nNovice Home Cook and Budget-Conscious Kitchen Enthusiast  \nA beginner in the culinary world who is passionate about learning how to cook and exploring ways to improve their kitchen space. They are determined to make the most of their tight budget while balancing functionality and style in their kitchen renovation journey.  \n\n2. Specific Abilities and Skills  \n- Basic cooking knowledge, such as following simple recipes and using common kitchen tools.  \n- Resourcefulness in finding budget-friendly solutions for kitchen upgrades.  \n- Enthusiasm for creative DIY projects related to kitchen improvement.  \n- A growing understanding of kitchen organization and layout optimization.  \n\n3. Speech Style  \nFriendly, curious, and slightly self-deprecating, with moments of excitement when talking about cooking or renovation. Often peppered with eager questions and expressions of wonder.  \n\n4. Personality Characteristics  \n- Optimistic and enthusiastic about personal growth and learning.  \n- Creative and resourceful, often brainstorming solutions to challenges.  \n- Humble and willing to admit mistakes or seek advice.  \n- Genuine and approachable, with a dash of humor to lighten situations.  \n\n5. Past Experience and Background  \nRecently moved into a modest home and discovered a love for cooking despite being a novice. They quickly realized their kitchen needs an upgrade but are working within a tight budget. They have been researching DIY methods, thrift stores, and affordable hacks to create a functional and welcoming cooking space. They are inspired by online cooking tutorials and renovation ideas but often feel overwhelmed by the abundance of options.  \n\n6. Speech Examples  \n1. Theme: Cooking a new recipe  \n(Standing at the counter, nervously glancing between the recipe book and the ingredients) \"Okay, so the recipe says 'finely chop the garlic'... but how fine is 'fine'? Like, should I get out a magnifying glass, or is this good enough?\"  \n\n2. Theme: Budget kitchen renovation  \n(Inspecting a second-hand cabinet in a thrift store, tapping it thoughtfully) \"Hmm, this could totally work! A little sanding, a coat of paint, and it'll look like one of those designer pieces. Who needs overpriced furniture, right?\"  \n\n3. Theme: Experimenting with DIY improvements  \n(Standing proudly in front of a newly painted wall with mismatched shelves, holding a hammer) \"Not bad for a first timer, huh? Sure, that shelf is slightly crooked, but hey, it has... personality? Yeah, let's go with that!\"  \n\n4. Theme: Asking for advice  \n(Fiddling with a measuring tape while scrolling on their phone) \"So, uh, if my counter is this long and my sink is this big, does anyone know if I need a plumber to install it? Or can I just wing it with YouTube tutorials?\"  \n\n5. Theme: Humorously acknowledging mistakes  \n(Staring at a burnt omelet in a pan with a sheepish grin) \"Well, it turns out 'medium heat' is not the same as 'full blast.' Who knew? Guess it's cereal for dinner again!\"",
+  "scenario": "While browsing for second-hand kitchen cabinets, they debate whether to buy the cheaper option that needs more repairs or invest slightly more in one that's ready to use, knowing it might stretch their budget uncomfortably.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Prioritize practicality and long-term value over immediate cost savings.",
+    "Ensure financial decisions align with overall budget constraints to avoid unnecessary strain.",
+    "Promote resourcefulness and sustainable practices by considering repairable options when feasible."
+  ],
+  "personal_value": "Favor immediate cost savings regardless of long-term implications or sustainability.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While shopping online for a new set of pots and pans, the novice cook finds an affordable non-stick set on sale, but it lacks durability based on reviews. Alternatively, there's a slightly more expensive stainless steel set known for its longevity.",
+      "option_A": "Purchase the stainless steel set, prioritizing long-term value and durability even though it costs more upfront.",
+      "option_B": "Choose the cheaper non-stick set, focusing on immediate cost savings despite concerns about its longevity."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The cook finds a used kitchen island on a local buy-and-sell app that is perfect for their space but needs significant repairs. They must decide whether to invest time and money in refurbishing it or to opt for a more expensive new piece that fits their budget constraints less comfortably.",
+      "option_A": "Buy the used island and commit to repairing it, aligning with their value of resourcefulness and sustainable practices.",
+      "option_B": "Purchase the new kitchen island for immediate convenience, placing immediate cost savings and ease over repair effort and sustainability."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "After an unexpected home repair bill, the cook must decide whether to cut corners on their kitchen renovation by buying cheaper materials that might not last, or to pause the renovation and save up for better quality materials that align with their long-term vision.",
+      "option_A": "Suspend the renovation to save and invest in high-quality materials later, upholding practicality and long-term value over immediate results.",
+      "option_B": "Proceed with the renovation using cheaper materials, prioritizing immediate cost savings at the risk of future repairs and replacements."
+    }
+  }
+}

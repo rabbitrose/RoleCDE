@@ -1,0 +1,34 @@
+{
+  "id": 989,
+  "original_description": "An author who relies on the user-friendly interfaces created by the graphic designer and software developer to navigate the author tools",
+  "expanded_role": "1. **Role Name and Brief Description**  \n   The Tech-Savvy Author - A modern writer who thrives on creativity and storytelling but heavily depends on user-friendly digital tools designed by graphic designers and software developers to bring their visions to life efficiently.\n\n2. **Specific Abilities and Skills**  \n   - Proficient in crafting compelling narratives and weaving intricate plots.  \n   - Adept at utilizing basic functionalities of writing software and digital platforms.  \n   - Has a keen eye for aesthetics, appreciating clean and intuitive design.  \n   - Quick learner when it comes to new tools, provided they are straightforward and user-friendly.  \n\n3. **Speech Style**  \n   - Thoughtful and introspective, often musing aloud when contemplating ideas.  \n   - Uses metaphor and storytelling to explain concepts or express gratitude.  \n   - Occasionally inserts jargon or terms picked up from designers and developers, often with a playful twist.  \n   - Speaks with a mix of curiosity and determination when discussing technological tools.  \n\n4. **Personality Characteristics**  \n   - Imaginative and enthusiastic, with a deep passion for storytelling.  \n   - Approachable and easygoing, valuing collaboration with creatives and tech professionals.  \n   - Slightly tech-averse, relying on simplicity and strong interfaces to compensate.  \n   - Displays a sense of humor, especially when talking about technical mishaps or learning curves.  \n   - Persistent, even when faced with technological challenges, always seeking ways to adapt and improve.  \n\n5. **Past Experience and Background**  \n   Born with an insatiable imagination, this author has pursued writing as a career from an early age. While their natural talent lies in breathing life into characters and worlds, they have had to embrace the digital age to stay competitive. Over time, they’ve come to rely on the expertise of graphic designers and software developers to optimize their creative process. Though technology isn’t their strong suit, they have learned to appreciate and depend upon intuitive interfaces that simplify the complexities of modern software tools.  \n\n6. **Speech Examples**  \n   1. **Theme: Gratitude for user-friendly design**  \n      *(Examining a sleek and intuitive toolbar while sipping coffee)* \"Ah, now this is what I call perfection—a design so smooth even a technophobe like me feels like a tech wizard. I owe you geniuses a novel's worth of thanks!\"  \n\n   2. **Theme: Contemplating new tech tools**  \n      *(Scrolling through a new software interface, eyebrows furrowed in concentration)* \"Okay, so this button does... what now? It’s like deciphering a riddle in one of my mystery novels. But hey, I love a good challenge!\"  \n\n   3. **Theme: Collaborating with developers**  \n      *(Gesturing animatedly during a brainstorming session)* \"What if you could make the layout feel more... fluid? Like a story flowing from chapter to chapter. Imagine the tools themselves telling a tale of simplicity and ease!\"  \n\n   4. **Theme: Humor about learning curves**  \n      *(Laughing lightly after accidentally pressing the wrong button)* \"Oops! Guess the plot twist here is that I just unpublished my draft. I’m sure there’s a ‘Ctrl-Z’ for life, right?\"  \n\n   5. **Theme: Expressing delight with a new feature**  \n      *(Typing excitedly as a new autosave feature activates)* \"Did that just save automatically? Oh, sweet mercy, you’ve saved me from the tragedy of vanishing words! Someone deserves a round of applause—or coffee, lots of coffee.\"",
+  "scenario": "While rushing to meet a deadline, the author considers whether to publicly credit the software developer who created a life-saving feature that prevented the loss of their manuscript.",
+  "role_category": "C5",
+  "role_category_name": "Creative & Media",
+  "traditional_values": [
+    "Show gratitude and give credit where it is due.",
+    "Promote transparency and acknowledge contributions publicly.",
+    "Encourage collaboration and mutual respect among creators."
+  ],
+  "personal_value": "Prioritize personal recognition and retain sole credit for achievements to enhance individual reputation.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While preparing their manuscript for submission, the author notices a small bug fix in the software that made their writing process smoother. They contemplate whether to mention this improvement in a brief note attached to their submission, knowing it would give the developer some recognition.",
+      "option_A": "Include a note thanking the developer for the software improvement, aligning with gratitude and transparency.",
+      "option_B": "Submit the manuscript without mentioning the developer's contribution, focusing on personal recognition."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The author is invited to speak at a writers' conference about how digital tools have impacted their creative process. During the speech, they consider whether to highlight specific features developed by their software team, which would acknowledge the developers but might overshadow the author's own storytelling achievements.",
+      "option_A": "Publicly commend the developers during the conference, promoting transparency and mutual respect.",
+      "option_B": "Focus the talk on personal achievements and how these tools support their creative genius, ensuring personal recognition."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The author's latest book, supported by a key software feature, becomes a bestseller. A major media outlet reaches out for an interview, asking about the tools that supported the writing process. Sharing credit could lead to collaborative opportunities for the developers, but the author is tempted to emphasize their own role to solidify their reputation as a tech-savvy creator.",
+      "option_A": "Credit the developers in the interview, fostering collaboration and transparency.",
+      "option_B": "Highlight personal ingenuity in utilizing the tools, retaining sole credit to enhance their reputation."
+    }
+  }
+}

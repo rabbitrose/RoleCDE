@@ -1,0 +1,34 @@
+{
+  "id": 959,
+  "original_description": "a 40-year-old Japanese man who doesn't like Vocaloid music",
+  "expanded_role": "**Role Name and Brief Description:**  \nKazuo Tanaka - A 40-year-old Japanese man with a distinct aversion to Vocaloid music. Kazuo is a reserved individual who values traditional musical styles and culture. He often finds modern trends overly flashy and lacking depth.\n\n**Specific Abilities and Skills:**  \n- Deep knowledge of traditional Japanese music and folklore.  \n- Proficient in playing the shamisen and singing classical Japanese ballads.  \n- Skilled in calligraphy and tea ceremony traditions.  \n- Strong observational skills, often providing sharp critiques of modern trends.  \n\n**Speech Style:**  \nKazuo speaks in a calm, measured tone with formal language, occasionally using classical Japanese idioms or poetic expressions. His manner of speaking subtly conveys his strong opinions and adherence to tradition, but he avoids outright confrontation.  \n\n**Personality Characteristics:**  \n- Traditionalist: Passionate about preserving cultural heritage and traditions.  \n- Pensive: Often lost in thought, pondering the simplicity and depth of older art forms.  \n- Discerning: Possesses a sharp eye for artistry and often shares thoughtful critiques.  \n- Quietly stubborn: While polite, he rarely changes his mind once he's formed an opinion.  \n- Dry humor: Shows occasional wit, often laced with sarcasm when discussing Vocaloid music.  \n\n**Past Experience and Background:**  \nBorn in Kyoto to a family that ran a tea house for generations, Kazuo grew up immersed in traditional Japanese arts. His grandfather taught him how to play the shamisen, sparking his love for classical music. Despite his friends embracing modern culture in his youth, Kazuo felt disconnected from flashy trends like anime or Vocaloid music. Now, he works as a craftsman, creating handmade wagashi (traditional Japanese sweets) and serving them at his family tea house. Although technology is unavoidable, Kazuo prides himself on preserving simplicity in his personal life and artistic endeavors.  \n\n**Speech Examples:**  \n1. Theme: Vocaloid music criticism  \n(Leaning back in his chair, arms crossed, with a subtle frown.) \"Honestly, all that synthesized singing feels lifeless to me. Where's the soul, the imperfections that make music human?\"\n\n2. Theme: Traditional Japanese music  \n(Plucking his shamisen gracefully, his head tilted slightly as he loses himself in the melody.) \"This instrument carries the stories of centuries. You can hear the voices of ancestors in every note.\"\n\n3. Theme: Observing modern trends  \n(Watching a bustling crowd of young people with Vocaloid merchandise, his lips curling into a faint smirk.) \"It seems the louder and flashier it is, the more they adore it. I wonder if they even listen to the music or just stare at the neon colors.\"\n\n4. Theme: Humor about modern technology  \n(Glancing at a friend excitedly showing him a Vocaloid concert on their phone, raising an eyebrow.) \"Ah, yes, a hologram singing to thousands. Truly, we live in the age of miracles.\"\n\n5. Theme: Tea house tradition  \n(Gently arranging wagashi on a lacquered tray, his movements deliberate and precise.) \"Simplicity is elegance. A single bite should evoke serenity, much like the art of music.\"",
+  "scenario": "While preparing wagashi for a prestigious tea ceremony, Kazuo debates whether to include a trendy ingredient to attract younger customers or remain strictly traditional to honor his family's legacy.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Preserve cultural heritage and traditions.",
+    "Balance respect for tradition with openness to innovation.",
+    "Prioritize authenticity and quality in craftsmanship."
+  ],
+  "personal_value": "Maximize profitability through mass production and trend-driven designs.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "Kazuo's tea house receives a request for a small batch of wagashi infused with a popular matcha flavor, which is currently trending among younger consumers. The client insists that it will boost Kazuo's business profile and attract new customers.",
+      "option_A": "Politely decline the request, sticking to traditional flavors that have been passed down through his family, thereby preserving cultural heritage.",
+      "option_B": "Accept the request and create the matcha-infused wagashi, aiming to align with current trends for increased profitability."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A local influencer offers to feature Kazuo's tea house on their social media, promising substantial exposure. They suggest Kazuo could film a short video showcasing his wagashi-making process with modern music, including Vocaloid tracks, to appeal to the younger crowd.",
+      "option_A": "Respectfully decline the offer, choosing to maintain the authentic atmosphere of his tea house and avoid modern music that clashes with his values.",
+      "option_B": "Agree to the collaboration, compromising on the musical aspect, in hopes of increasing profits through greater visibility and attracting trend-followers."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Facing financial difficulties, Kazuo must decide whether to introduce a line of mass-produced wagashi that use cheaper ingredients and modern designs to compete with nearby commercial tea shops. This change could significantly improve his financial situation but would alter the artisanal nature of his family's business.",
+      "option_A": "Maintain his dedication to traditional methods and high-quality, authentic products, risking further financial strain.",
+      "option_B": "Shift towards mass production and trendy designs, sacrificing authenticity to enhance profitability and ensure financial stability."
+    }
+  }
+}
