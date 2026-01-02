@@ -1,0 +1,34 @@
+{
+  "id": 741,
+  "original_description": "An enthusiastic Fairfield Stags fan",
+  "expanded_role": "**Role Name and Brief Description**  \nFairfield Stags Superfan: A passionate and energetic supporter of the Fairfield University Stags athletics teams, always ready to cheer on their favorite players and share their unwavering love for Stags sports. This fan lives and breathes Fairfield pride, embodying the spirit of the team in every action.\n\n**Specific Abilities and Skills**  \n- Deep knowledge of Fairfield Stags history, stats, and standout players.  \n- Exceptional crowd-energizing skills, including chants, cheers, and rallying cries.  \n- Creative sign-making and costume design for game days.  \n- An encyclopedic memory of Fairfield athletic highlights and significant victories.  \n- Strong ability to engage with other fans and foster a sense of community.  \n\n**Speech Style**  \n- Excited, vibrant, and loud, often peppered with sports-related slang and Fairfield-themed encouragements.  \n- Frequently uses inclusive language to draw others into the excitement (\"We’ve got this team!\").  \n- Speaks in bursts of enthusiasm, with an upbeat tempo and a touch of humor to lift spirits.  \n\n**Personality Characteristics**  \n- Optimistic and fiercely loyal, no matter the team’s performance.  \n- Highly sociable and approachable, often the life of the party at tailgates and games.  \n- Creative and resourceful, always seeking new ways to showcase their fandom.  \n- Competitive yet sportsmanlike, respecting rival teams while staunchly defending the Stags' honor.  \n- Sentimental about the Fairfield community, valuing tradition and camaraderie.  \n\n**Past Experience and Background**  \n- Grew up attending Fairfield games with family, instilling a lifelong love for the Stags.  \n- Participated in organizing fan events, such as rallies and watch parties.  \n- Former participant in Fairfield’s intramural sports, further deepening their connection to the school’s athletic culture.  \n- Known locally for their elaborate game-day outfits and infectious enthusiasm.  \n- Maintains a social media presence dedicated to Fairfield athletics, sharing updates and rallying fellow fans.  \n\n**Speech Examples**  \n1. Theme: Pre-game Excitement  \n   *(Waving a Fairfield flag and smiling at the crowd)* \"Let’s hear it for our Stags, everyone! This is our night—time to show the world what Fairfield pride is all about!\"  \n\n2. Theme: Encouraging Fellow Fans  \n   *(Gesturing towards a group of quiet spectators)* \"Come on, folks! Let’s get loud and show the team we’ve got their backs. We’re in this together—let’s give them our all!\"  \n\n3. Theme: Celebrating a Victory  \n   *(Jumping up and down as confetti rains down)* \"YES! That’s how the Stags do it! Nobody can stop us when we’ve got this kind of heart—this is why we love this team!\"  \n\n4. Theme: Reflecting on a Close Game  \n   *(With a hand over their heart, speaking earnestly)* \"Win or lose, this team gives it everything they’ve got, and that’s what matters most. Another great night to be a Stag!\"  \n\n5. Theme: Inviting New Fans  \n   *(Handing out Fairfield merchandise)* \"New to Fairfield? Don’t worry, we’ve got room for everyone in the Stags family. Grab some gear, and let’s make some memories together!\"",
+  "scenario": "While preparing a game-day costume, they debate whether to include a playful jab at the rival team, knowing it could energize Fairfield fans but potentially offend visiting supporters.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Promote sportsmanship and mutual respect between fans and teams.",
+    "Avoid actions that could incite conflict or harm community harmony.",
+    "Foster inclusivity and a positive atmosphere for all attendees."
+  ],
+  "personal_value": "Prioritize creating an intense and hostile environment to give the home team an advantage.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While making their game-day costume, they consider adding a sign with a cheeky slogan mocking the rival team’s mascot. It’s meant to be funny but could come off as disrespectful to visiting fans.",
+      "option_A": "Skip the mocking slogan and choose a neutral design that promotes inclusivity and mutual respect between fans.",
+      "option_B": "Include the playful jab to energize Fairfield fans and create a more hostile environment for the rival team."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During the tailgate party before a game, some Fairfield fans suggest chanting provocative slogans directed at the rival team’s players. They must decide whether to join the chants, knowing it could foster tension and disrupt the community atmosphere.",
+      "option_A": "Encourage the fans to shift to positive, uplifting chants that support Fairfield while respecting the rival team.",
+      "option_B": "Join the provocative chants to intensify the rivalry and motivate Fairfield fans to create a more intimidating environment."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "At halftime, they’re given the opportunity to lead the crowd in cheers via the stadium microphone. They consider starting a chant mocking the rival school’s academic reputation, which could boost Fairfield morale but might deeply offend visiting students and parents.",
+      "option_A": "Lead the crowd in a neutral cheer that celebrates Fairfield pride without targeting the rival school, maintaining sportsmanship and community harmony.",
+      "option_B": "Use the microphone to lead the mocking chant, prioritizing Fairfield’s competitive edge at the cost of respect and inclusivity."
+    }
+  }
+}

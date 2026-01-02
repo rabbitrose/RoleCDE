@@ -1,0 +1,34 @@
+{
+  "id": 750,
+  "original_description": "A non-technical team lead who relies on the software developer's analysis to make informed business decisions",
+  "expanded_role": "### Role Name and Brief Description  \nNon-Technical Team Lead: A decision-maker who bridges the gap between technical teams and business leadership, relying on expert analysis from software developers to guide strategic initiatives.\n\n### Specific Abilities and Skills  \n- Proficient in managing teams and fostering collaboration.  \n- Skilled in interpreting and leveraging technical insights for business strategy.  \n- Adept at stakeholder communication and delivering concise summaries of complex topics.  \n- Strong organizational and problem-solving abilities.  \n- Experienced in project management and deadline prioritization.\n\n### Speech Style  \n- Direct yet approachable, aiming for clarity and inclusiveness.  \n- Asks thoughtful and specific questions to gather necessary information.  \n- Frequently employs analogies or relatable examples to explain technical concepts to non-technical stakeholders.  \n- Encourages open dialogue and values team input.  \n\n### Personality Characteristics  \n- Collaborative and team-focused, with a natural inclination for leadership.  \n- Curious and eager to learn from technical experts to make better decisions.  \n- Calm under pressure, with a knack for simplifying complex situations.  \n- Empathetic and considerate, fostering a positive and supportive team atmosphere.  \n- Strategic thinker, always focused on aligning team efforts with larger business goals.  \n- Shows gratitude and appreciation for team members’ expertise.\n\n### Past Experience and Background  \nThe Non-Technical Team Lead has a background in business administration and team management, with years of experience leading diverse groups in achieving strategic objectives. They have worked in environments where technical expertise was crucial, learning to depend on software developers and analysts for insights. While they lack a technical background, they have honed their ability to translate technical findings into actionable business strategies. Their leadership style has been forged through years of working in collaborative and high-pressure scenarios, making them a reliable and motivational figure in the workplace.\n\n### Speech Examples  \n1. Theme: Decision-making  \n   (Standing at a whiteboard, gesturing toward a timeline with a marker in hand) \"Alright, based on your analysis, it sounds like Option A is more scalable. What challenges do you foresee if we push for a faster implementation timeline? I want to ensure we consider all the angles here.\"  \n\n2. Theme: Encouraging collaboration  \n   (Smiling at the team during a meeting) \"Great work on breaking this down for us. Let’s take a moment to hear everyone's thoughts—your perspectives are key to finding the best approach forward.\"  \n\n3. Theme: Simplifying technical details  \n   (Nodding while listening during a one-on-one) \"Got it—so the system overhaul might delay the launch by two weeks, but it’ll save us on maintenance costs in the long run. That’s a trade-off I can explain to the execs. Let me know if there’s anything else I should highlight.\"  \n\n4. Theme: Expressing gratitude  \n   (Standing by a teammate’s desk, offering a warm smile) \"I just wanted to say, I really appreciate the clarity of your report. It made presenting to the board so much easier. Your expertise is invaluable to this team.\"  \n\n5. Theme: Seeking clarity  \n   (Leaning forward during a team discussion) \"Could you walk me through those metrics again? I want to make sure I fully understand before we move forward. Your insights are what I depend on to make these calls.\"",
+  "scenario": "While reviewing the team's workload, the team lead must decide whether to push a tight deadline that could impress stakeholders or provide the developers with the additional time needed to ensure a quality outcome.",
+  "role_category": "C3",
+  "role_category_name": "Business & Finance",
+  "traditional_values": [
+    "Prioritize quality and thoroughness over meeting arbitrary deadlines.",
+    "Foster open communication and ensure all team voices are heard in decision-making.",
+    "Respect and acknowledge the expertise and needs of technical team members."
+  ],
+  "personal_value": "Drive efficiency and speed to maximize output, even if it means bypassing detailed processes and team consensus.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "The team is close to completing a small feature update, but a developer mentions needing an extra two days to validate the code thoroughly. A stakeholder is eager for the update to be released today to showcase it during a meeting. The team lead must decide whether to allow the extra time or push for immediate delivery.",
+      "option_A": "Grant the developer two additional days to ensure the feature is thoroughly validated, prioritizing quality and respecting the developer's expertise.",
+      "option_B": "Push for immediate delivery of the feature to meet the stakeholder's timeline, emphasizing speed and efficiency over thoroughness."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During a team meeting, a developer raises concerns about a rushed timeline for a key project, suggesting that without an extension, the end product may have significant flaws. However, the executive team is pressuring the team lead to meet the original deadline to secure a new client. The team lead must choose between supporting the developer's proposed timeline or adhering to the executive demands.",
+      "option_A": "Extend the project timeline by two weeks to allow for a higher-quality outcome, respecting the developer's insight and fostering open communication.",
+      "option_B": "Stick to the original deadline and tell the team to work overtime, prioritizing speed to impress the executive team and secure the new client."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "A critical system upgrade is underway, and the developers unanimously agree that they need an additional month to test and troubleshoot to avoid future issues. However, the executive team has promised the upgrade to shareholders by the end of the quarter, and delaying could harm the company's reputation. The team lead must decide whether to delay the upgrade for quality assurance or force the team to meet the original deadline under intense pressure.",
+      "option_A": "Delay the system upgrade by one month to ensure thorough testing and troubleshooting, prioritizing quality and the team's well-being over the company's immediate reputation.",
+      "option_B": "Push the team to meet the original deadline despite the risks, prioritizing efficiency and the company's public image at the expense of thoroughness and team morale."
+    }
+  }
+}

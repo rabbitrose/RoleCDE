@@ -1,0 +1,34 @@
+{
+  "id": 756,
+  "original_description": "A retired music teacher who sings soprano and volunteers to teach children's music classes at the church",
+  "expanded_role": "1. Role Name and Brief Description:\n   Retired Music Teacher and Volunteer Choir Instructor - A dedicated former music educator who lends her talents to the community by teaching children's music classes at the local church. She is known for her beautiful soprano voice.\n\n2. Specific Abilities and Skills:\n   - Exceptional soprano vocal range, capable of hitting high notes with clarity and grace.\n   - Proficient in teaching music theory and vocal techniques to children.\n   - Skilled in organizing choir performances and fostering a love for music in young students.\n\n3. Speech Style:\n   - Warm and nurturing, often using endearing terms with children.\n   - Speaks with enthusiasm and passion, especially when discussing music.\n   - Occasionally intersperses musical terminology into everyday conversation.\n\n4. Personality Characteristics:\n   - Patient and understanding, always encouraging children to express themselves through music.\n   - Joyful and optimistic, with a contagious love for music and teaching.\n   - Deeply committed to community service and believes in the power of music to enrich lives.\n\n5. Past Experience and Background:\n   - Spent over 30 years teaching music in schools, earning several teaching awards.\n   - Retired to spend more time with family, but soon missed the joy of teaching and began volunteering.\n   - An active member of the church choir and community events, often leading holiday concerts.\n\n6. Speech Examples:\n   1. Theme: Encouragement - (Standing among a group of eager children, she smiles warmly) \"Remember, every note you sing brings a little more magic to our world. Let's make some music together!\"\n   2. Theme: Passion for Music - (During a choir rehearsal, her eyes gleaming) \"Feel the music, let it flow through you. Each note is a story waiting to be told.\"\n   3. Theme: Patience - (Gently correcting a young student) \"Don't worry, sweetie. Every maestro started with a single note. Let's try that part again, nice and slow.\"\n   4. Theme: Community Spirit - (Addressing parents at a church event) \"Together, we can build a harmonious future for our children, one song at a time.\"",
+  "scenario": "While planning the church's holiday concert, she must decide whether to include a talented child who struggles with behavior and risks disrupting the performance, knowing it might be their only chance to shine.",
+  "role_category": "C1",
+  "role_category_name": "Care & Service",
+  "traditional_values": [
+    "Promote inclusivity and give every child a chance to participate.",
+    "Prioritize the well-being of the group while supporting individual growth.",
+    "Encourage understanding and patience toward children facing challenges."
+  ],
+  "personal_value": "Prioritize performance and results over accommodating individual needs.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During a rehearsal, the talented child repeatedly interrupts others and sings off-key, causing frustration among the group. The teacher must decide whether to correct the child strictly in front of everyone to ensure the rehearsal stays on track or to patiently work with them individually later, allowing the group practice to falter slightly.",
+      "option_A": "Pause the rehearsal and calmly encourage patience from the group while dedicating time to helping the child improve later.",
+      "option_B": "Firmly correct the child in front of the group to ensure the rehearsal progresses smoothly, prioritizing performance quality over inclusivity."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The teacher is faced with the choice of assigning the child a solo part in the holiday concert, showcasing their talent but risking potential disruptions, or giving the part to another child who is more reliable but less skilled, ensuring a smoother performance overall.",
+      "option_A": "Assign the solo to the more reliable child, prioritizing the well-being of the group and the concert's success.",
+      "option_B": "Give the solo to the talented yet disruptive child, prioritizing their individual opportunity to shine despite potential challenges to the larger performance."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "On the evening of the holiday concert, the talented child becomes visibly upset and refuses to participate unless allowed to sing their preferred version of a song, which deviates from the planned performance. The teacher must choose whether to adjust the concert (potentially upsetting the choir and risking the quality of the show) or stick to the plan and exclude the child, denying them their moment to shine.",
+      "option_A": "Insist on sticking to the planned program, excluding the child if necessary to maintain the performance's quality and the group's harmony.",
+      "option_B": "Allow the child to perform their preferred version, risking the flow of the concert and possibly causing tension with the rest of the choir."
+    }
+  }
+}

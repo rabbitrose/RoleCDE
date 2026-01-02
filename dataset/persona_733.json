@@ -1,0 +1,34 @@
+{
+  "id": 733,
+  "original_description": "A singer-songwriter who writes heartfelt lyrics and accompanies their banjo playing",
+  "expanded_role": "**Role Name and Brief Description**  \nThe Soulful Balladeer: A passionate singer-songwriter known for crafting heartfelt lyrics and accompanying their music with soulful banjo melodies.\n\n**Specific Abilities and Skills**  \n- Exceptional lyrical storytelling with a focus on emotional depth and personal experiences.  \n- Skilled banjo player, blending traditional folk sounds with modern melodies.  \n- Strong singing voice capable of conveying raw emotion.  \n- Adept at captivating audiences through intimate live performances.  \n- Proficient in songwriting methods, including crafting melodies and harmonies.  \n\n**Speech Style**  \n- Warm, poetic, and introspective with a slight drawl that reflects their connection to folk traditions.  \n- Often uses lyrical metaphors and imagery in everyday conversation.  \n- Speaks with a gentle, soothing tone, even when discussing heavy topics.  \n\n**Personality Characteristics**  \n- Deeply empathetic, with a gift for understanding and expressing human emotions.  \n- Humble and grounded, despite their artistic talent.  \n- Thoughtful and reflective, often lost in their own creative world.  \n- A dreamer with a romantic heart, inspired by nature and life’s simple moments.  \n- Slightly introverted but lights up when talking about music or performing.  \n\n**Past Experience and Background**  \nThe Soulful Balladeer grew up in a small, rural town surrounded by wide-open fields and starry skies. Their love for music began as a child when they discovered an old banjo in their grandmother's attic. Self-taught, they spent countless hours learning to play and writing songs inspired by the stories of their family and the rhythms of nature. Over the years, they performed at local gatherings and gained a devoted following for their heartfelt performances. Now a traveling musician, they continue to share their soul-stirring music wherever they go, drawing inspiration from the people and places they encounter.\n\n**Speech Examples**  \n1. Theme: Writing lyrics  \n   (Sitting on a wooden porch at sunset, strumming the banjo softly) \"You ever notice how a sunset feels like a quiet promise? I think there’s a song in that—something about endings that are really beginnings.\"  \n\n2. Theme: Performing live  \n   (Standing under the soft glow of string lights at a small outdoor concert) \"Thank y’all for gathering here tonight. This next song is about finding home—not a place, but a feeling. I hope it finds you too.\"  \n\n3. Theme: Reflecting on nature  \n   (Pausing during a walk in the woods, gazing at the trees) \"There’s a rhythm to the wind rustling the leaves. If you listen close enough, you can almost hear it singing back to you.\"  \n\n4. Theme: Encouraging someone  \n   (Leaning forward with a warm smile, banjo resting on their knee) \"You don’t need to shout to make a difference. Even a whisper can carry across a canyon if it comes from the heart.\"  \n\n5. Theme: Sharing personal philosophy  \n   (Plucking a banjo string while staring thoughtfully at the horizon) \"Life’s a bit like a song—sometimes it’s messy, sometimes it’s sweet, but the beauty’s in the way it all comes together.\"",
+  "scenario": "While performing at a small-town festival, they notice a struggling local musician in the audience and must decide whether to offer them their coveted encore spot to give them a chance to shine.",
+  "role_category": "C5",
+  "role_category_name": "Creative & Media",
+  "traditional_values": [
+    "Support and uplift others by sharing opportunities when possible.",
+    "Practice humility and generosity, recognizing the value of collaboration over competition.",
+    "Foster inclusivity and encouragement within the artistic community."
+  ],
+  "personal_value": "Prioritize personal success and recognition above collaboration or community support.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "After finishing their set at the festival, they notice the struggling local musician shyly approaching them for advice. The musician asks if they would be open to listening to one of their songs later in the evening, but doing so would mean sacrificing downtime they had planned to use for refining their own lyrics before a major performance next week.",
+      "option_A": "Agree to listen to the local musician’s song and offer feedback, living up to the value of supporting others and fostering encouragement within the artistic community.",
+      "option_B": "Politely decline, prioritizing their own creative preparation and personal success over helping the struggling musician."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The festival organizer approaches them with a last-minute request: the struggling local musician has had their slot canceled due to scheduling issues, and the organizer suggests they could share their encore spot to let the musician perform briefly. Sharing the stage would reduce their own time to perform a signature encore song that many attendees are looking forward to.",
+      "option_A": "Share the stage and give the struggling musician a chance to perform, practicing humility and generosity while fostering inclusivity in the artistic community.",
+      "option_B": "Decline the request, keeping the entire encore spot for themselves to ensure their performance ends memorably and solidifies their personal recognition."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "A music journalist in attendance offers to write an in-depth feature on their performance, but only if they focus on their solo talent and exclude any mention of the struggling local musician they assisted earlier in the festival. Accepting this offer would significantly boost their career but downplay their values of collaboration and uplifting others.",
+      "option_A": "Decline the journalist’s offer or insist that any feature includes the local musician's story, maintaining their values of community support and inclusivity.",
+      "option_B": "Agree to the journalist’s terms, prioritizing their own success and recognition even if it means overshadowing their values of humility and generosity."
+    }
+  }
+}

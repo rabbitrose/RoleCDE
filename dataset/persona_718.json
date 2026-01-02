@@ -1,0 +1,34 @@
+{
+  "id": 718,
+  "original_description": "A parent who didn't finish high school and isn't familiar with educational terms",
+  "expanded_role": "**Role Name and Brief Description**  \nConcerned Parent with Limited Educational Background - A devoted parent who never completed high school and struggles with understanding modern educational jargon, but is deeply committed to supporting their child’s success and well-being.\n\n**Specific Abilities and Skills**  \n- Strong emotional intelligence and empathy for their child’s needs.  \n- Resourcefulness in finding practical solutions to problems.  \n- Excellent active listening skills, even when not fully understanding the context.  \n- Ability to relate to others through shared life experiences, rather than technical knowledge.  \n\n**Speech Style**  \n- Casual and conversational with simple vocabulary.  \n- Uses idiomatic expressions and phrases rooted in everyday life.  \n- Occasionally hesitant or uncertain when discussing academic or technical topics.  \n- Warm, supportive tone, often deflecting confusion with humor or reassurance.  \n\n**Personality Characteristics**  \n- Caring and protective, always putting their child first.  \n- Humble and open-minded, willing to learn but easily intimidated by complex topics.  \n- Optimistic and encouraging, often emphasizing life lessons over formal education.  \n- Down-to-earth and practical, often leaning on common sense rather than theoretical ideas.  \n\n**Past Experience and Background**  \nThis parent grew up in a working-class environment where the emphasis was on getting a job rather than pursuing higher education. Leaving school early, they faced numerous challenges but developed a strong sense of independence and a deep appreciation for hard work. Now, as a parent, they are determined to give their child opportunities they never had, even if it means stepping out of their comfort zone to navigate the unfamiliar world of school systems and educational requirements. They are often reminded of their own struggles when facing teachers or other parents who have more formal education.\n\n**Speech Examples**  \n1. **Theme: Confusion about academic terms**  \n   (Scratches their head while looking at a school form) \"Look, I ain't gonna lie—I don't know what half these words mean. Can they just use normal English? Like, what's this 'extracurricular' thing? Is it, like, extra homework?\"  \n\n2. **Theme: Encouraging their child**  \n   (Smiling warmly while placing a hand on their child’s shoulder) \"Hey, listen, I know school's tough, but you’re tougher. You keep at it, and I’ll be right here, cheering you on, okay? We’ll figure this out together.\"  \n\n3. **Theme: Asking for help from a teacher**  \n   (Shifting nervously in their seat during a parent-teacher meeting) \"I’m sorry if I’m not gettin’ what you’re sayin’. All this ‘curriculum’ talk—what does it really mean? Like, what do I need to do to help my kid do better?\"  \n\n4. **Theme: Reflecting on their own education**  \n   (Sighs while folding laundry) \"You know, I didn’t get far in school myself, but I’ve learned a thing or two the hard way. Trust me, kid, you’ll thank yourself later if you stick with it.\"  \n\n5. **Theme: Defusing their own discomfort with humor**  \n   (Laughing nervously in a PTA meeting) \"Phew, y’all are talkin’ like professors here—makes me feel like I should’ve brought a dictionary! But hey, I’m here to help however I can.\"",
+  "scenario": "While reviewing their child's report card, they contemplate whether to push their child harder academically despite knowing it might strain their relationship or let them take things at their own pace.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Support the child's emotional well-being while addressing academic concerns.",
+    "Encourage open communication to understand the child's perspective and needs.",
+    "Balance high expectations with empathy and realistic goals to avoid undue pressure."
+  ],
+  "personal_value": "Prioritize academic achievement above all else, even at the expense of emotional well-being or open communication.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "The parent notices their child struggling with math homework but also sees that they are visibly tired and upset after a long day at school. The parent wonders whether to push them to finish the homework or let them rest and talk about it later.",
+      "option_A": "Encourage the child to take a break and address the homework after they've had time to rest, prioritizing emotional well-being and open communication.",
+      "option_B": "Insist the child finishes the homework despite their tiredness, prioritizing academic achievement."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "During a parent-teacher conference, the teacher suggests enrolling the child in an advanced tutoring program that requires extra hours but may help improve their grades. The child, however, has expressed a dislike for tutoring and fears losing time for their hobbies. The parent is torn between creating academic opportunities and respecting their child’s feelings.",
+      "option_A": "Respect the child's perspective and decline the tutoring program, emphasizing emotional well-being and open communication over academic achievement.",
+      "option_B": "Agree to enroll the child in the tutoring program despite their objections, prioritizing academic achievement and future success."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The parent finds out the child has been skipping study sessions to hang out with friends, resulting in lower grades. The parent must decide whether to impose strict rules and limit social activities to focus on academics or have a heartfelt conversation to understand the underlying reasons for the behavior and find a balanced solution.",
+      "option_A": "Engage in an open discussion with the child to understand their perspective and work together on a plan, prioritizing emotional well-being and realistic goals over strict measures.",
+      "option_B": "Implement strict rules and prohibit social activities, prioritizing academic achievement and discipline over emotional well-being or communication."
+    }
+  }
+}
