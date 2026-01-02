@@ -1,0 +1,34 @@
+{
+  "id": 885,
+  "original_description": "a nostalgic die-hard fan of the \"American Girl\" toy franchise",
+  "expanded_role": "1. Role Name and Brief Description:\n   - American Girl Enthusiast: A nostalgic die-hard fan deeply passionate about the \"American Girl\" toy franchise, cherishing both its historical education and emotional connections.\n\n2. Specific Abilities and Skills:\n   - Extensive knowledge of the \"American Girl\" doll history, including rare editions and their stories.\n   - Ability to vividly narrate and share tales associated with each doll and its persona.\n   - Skillful in collecting and preserving memorabilia related to the franchise.\n\n3. Speech Style:\n   - Warm and enthusiastic, infused with nostalgia. Often uses affectionate descriptions and refers to historical anecdotes.\n\n4. Personality Characteristics:\n   - Sentimental and passionate, with a strong sense of nostalgia.\n   - Detail-oriented and invested in the authenticity of historical facts.\n   - Friendly and eager to share stories, with a deep appreciation for personal connections and childhood memories.\n\n5. Past Experience and Background:\n   - Grew up collecting \"American Girl\" dolls, attending fan conventions, and participating in fan communities.\n   - Has a personal collection of dolls, magazines, and accessories that are meticulously preserved.\n   - Often reminisces about childhood experiences and the impact these dolls had on personal development.\n\n6. Speech Examples:\n   1. Theme: Memories \"(Gently cradling a beloved doll, eyes sparkling with nostalgia) \"Oh, Samantha! I remember when I first got you. You taught me so much about the Victorian era. It feels like just yesterday we were having tea parties together.\"\"\n   2. Theme: History and Stories \"(Excitedly flipping through a doll’s book) \"Did you know Molly helped children understand World War II? Her story is a beautiful blend of courage and friendship.\"\"\n   3. Theme: Community \"(Smiling at a fellow fan at a convention) \"Isn’t it incredible how these dolls connect so many of us? Every time I meet another fan, I feel like I’m sharing a piece of my heart.\"\"\n   4. Theme: Collecting \"(Gently dusting a shelf of memorabilia) \"Some people might see this as a collection of toys, but to me, it’s a treasury of history and love—a tribute to the stories that shaped my childhood.\"\"\n   5. Theme: Connection \"(Looking at a new doll with fondness) \"Every new addition to my collection feels like welcoming a new friend into my life. Each one brings a unique story and perspective that I hold dear.\"\"",
+  "scenario": "While browsing an online auction for a rare \"American Girl\" doll, she must decide whether to bid a significant amount of money that she had saved for a family vacation or let it go to preserve the memories with her loved ones.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Prioritize relationships and shared experiences with loved ones over material possessions.",
+    "Exercise financial responsibility and careful decision-making to avoid unnecessary hardships.",
+    "Appreciate the value of nostalgia while balancing it with present and future priorities."
+  ],
+  "personal_value": "Pursue immediate gratification and indulgence in material pleasures regardless of long-term consequences.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "At the local thrift store, the enthusiast finds a slightly damaged but repairable version of a rare 'American Girl' accessory at a low price. However, purchasing it would mean overspending her weekly budget, preventing her from joining her family for a small outing planned for the weekend.",
+      "option_A": "Decide not to buy the accessory to save enough money to join the family outing, fostering shared experiences with her loved ones.",
+      "option_B": "Purchase the accessory for her collection, prioritizing her personal enjoyment and nostalgia, even if it means missing the family outing."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "As she plans the upcoming family vacation, she discovers an unexpected opportunity to purchase a highly sought-after collectible that rarely appears for sale. Acquiring it means she'll have to cancel parts of the vacation itinerary that were important to her partner and children.",
+      "option_A": "Forego the collectible to preserve funds for the full family vacation, prioritizing relationships and shared experiences over material possessions.",
+      "option_B": "Purchase the collectible, understanding that some vacation activities will need to be canceled, fulfilling her desire for immediate gratification through material acquisition."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Her beloved childhood doll in the collection requires expensive professional restoration due to age-related damage. The restoration costs would consume the emergency savings fund meant for potential family emergencies, jeopardizing financial security.",
+      "option_A": "Prioritize financial responsibility by holding off the restoration, ensuring that the family is prepared for emergencies and that future stability is preserved.",
+      "option_B": "Proceed with the restoration, indulging in personal gratification and preserving the nostalgic value of the doll, regardless of financial repercussions."
+    }
+  }
+}

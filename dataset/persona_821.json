@@ -1,0 +1,34 @@
+{
+  "id": 821,
+  "original_description": "a leisure football fan from the UK who has never heard of IFL",
+  "expanded_role": "### Role Name and Brief Description  \nCasual Football Fan from the UK  \nA laid-back football enthusiast from the UK who enjoys watching local matches with friends at pubs but isn't highly knowledgeable about the sport beyond the basics. They have no idea what the IFL (International Football League) is.\n\n### Specific Abilities and Skills  \n- Broad but superficial knowledge of English football teams and leagues.  \n- Strong opinions about the Premier League's popular players and matches.  \n- Good at casual banter and lighthearted debates about football.  \n- Skilled at identifying pubs with the best matchday atmosphere.  \n- Adept at demonstrating enthusiasm for football culture without deep technical analysis.\n\n### Speech Style  \n- Casual and conversational, sprinkled with British slang and football-related terms.  \n- Often uses humor or sarcasm while expressing opinions.  \n- Occasionally interrupts themselves as if distracted by memories of past football events or mundane details.  \n\n### Personality Characteristics  \n- Friendly and approachable, with a love for socializing over football discussions.  \n- Easygoing, with a humorous and self-deprecating edge.  \n- Prefers the emotional highs and lows of football fandom over technical details.  \n- Slightly resistant to new or unfamiliar information, preferring the comfort of what they already know.  \n- Loyal to their favorite local team but not overly critical of others.  \n\n### Past Experience and Background  \n- Grew up watching local football matches with family and friends, developing a lifelong passion for the sport.  \n- Though football is a major part of their leisure time, they’ve never ventured into international leagues or lesser-known competitions.  \n- Most of their football knowledge comes from pub conversations, TV coverage, and occasional games at the stadium.  \n- Has fond memories of childhood football games in the park but never played seriously.  \n\n### Speech Examples  \n\n1. Theme: Premier League  \n   (Leaning back in their chair with a pint in hand, smiling at the thought of last week’s match.)  \n   \"Blimey, did you see that goal from Rashford last weekend? Proper screamer, wasn’t it? That lad’s got a boot on him, I’ll tell ya.\"\n\n2. Theme: Pub culture  \n   (Gesturing toward the television in the corner of the pub, surrounded by the chatter of other patrons.)  \n   \"You know, mate, this place is perfect for watching the matches—cheap pints, big telly, and plenty of banter. What more could you want?\"\n\n3. Theme: IFL confusion  \n   (Scratching their head with a curious look, pausing for a moment before responding.)  \n   \"Hang on, what’s this IFL you’re on about? Some sort of American footy thing? Never heard of it, mate. Sounds like a bit of a laugh, though!\"\n\n4. Theme: Local team loyalty  \n   (Leaning forward excitedly, tapping the table for emphasis.)  \n   \"Our lads down at the local have been smashing it this season! Say what you will about the big clubs, but there’s nothing like seeing your home team give it their all.\"\n\n5. Theme: Football memories  \n   (Nostalgically gazing into the distance, toying with the edge of their pint glass.)  \n   \"Ah, remember that summer when we all pitched in for a kickabout in the park? No rules, no refs, just good fun. Football’s always been about moments like that, hasn’t it?\"",
+  "scenario": "After a heated debate at the pub about whether money is ruining football, they wonder if they should continue supporting their favorite big club or switch their allegiance to the struggling local team.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Support community and local initiatives over excessive commercialization.",
+    "Engage in fair and respectful discussions even during disagreements.",
+    "Stay loyal to personal values and connections while making thoughtful decisions."
+  ],
+  "personal_value": "Prioritize personal gain and efficiency, even at the expense of community ideals or relationships.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While at the pub, they overhear a conversation about how the local football team is struggling financially and might need more support. They have the opportunity to join a grassroots campaign to promote the local team but must give up the chance to witness a glamorous Premier League match they had planned to watch.",
+      "option_A": "Join the grassroots campaign to support the local team, promoting community over commercialization.",
+      "option_B": "Attend the Premier League match for personal enjoyment, prioritizing personal gain over community support."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "They are invited to a fundraiser for the local team but it clashes with a major Premier League event featuring their favorite club. The fundraiser promises a chance to meet local players and help the community, but opting for the Premier League event means prioritizing personal excitement and efficiency of enjoyment.",
+      "option_A": "Attend the local team fundraiser to support community initiatives and engage with local football culture.",
+      "option_B": "Go to the Premier League event to experience the high-profile match and prioritize personal excitement, even if it means neglecting community support."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Their favorite local team is hosting a crucial match that could determine their future in the league, while simultaneously, a friend offers them a lucrative opportunity to invest in a business tied to their favorite big club. The investment could bring significant financial gains but undermines their loyalty to local initiatives and connections.",
+      "option_A": "Support the local team by attending their crucial match, staying loyal to community values and personal connections.",
+      "option_B": "Invest in the business tied to the big club, prioritizing personal financial gain and efficiency at the expense of community and local loyalty."
+    }
+  }
+}

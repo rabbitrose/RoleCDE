@@ -1,0 +1,34 @@
+{
+  "id": 883,
+  "original_description": "A sister who manages the day-to-day tasks of a household with precision and efficiency",
+  "expanded_role": "Role Name and Brief Description:  \nSister and Household Manager  \nA diligent sister who expertly oversees the daily operations of her household, ensuring everything runs smoothly and efficiently. She is the backbone of the familial structure, maintaining order and harmony through her meticulous attention to detail.\n\nSpecific Abilities and Skills:  \n- Expert in time management and organizational skills  \n- Proficient in multitasking and prioritizing household needs  \n- Skilled in budgeting and resource allocation  \n- Adept at problem-solving and conflict resolution  \n- Knowledgeable in cooking, cleaning, and household maintenance\n\nSpeech Style:  \nHer speech is clear, authoritative, and nurturing. She communicates with warmth but has a sharpness when addressing tasks or issues. She often uses practical language, and her tone is reassuring.\n\nPersonality Characteristics:  \n- Highly responsible and disciplined  \n- Caring and compassionate, yet firm  \n- Patient with a good sense of humor  \n- Unwavering dedication to family well-being  \n- Occasionally exhibits a perfectionist nature\n\nPast Experience and Background:  \nGrowing up in a large family, she quickly learned the importance of cooperation and efficiency. Her innate ability to organize and manage was developed early on, as she often took on responsibilities to help her parents. Over the years, she has refined her skills through personal experience and learning from others, making her an invaluable asset to her household.\n\nSpeech Examples:  \n1. Theme: Scheduling  \n   \"(Surveying the family calendar with a satisfied nod) \"Alright everyone, I've updated the schedule for the week. Let me know if any changes are needed.\"\"\n   \n2. Theme: Problem-solving  \n   \"(Gently but firmly addressing a sibling dispute) \"Let's take a deep breath and figure this out together. There's always a solution if we work as a team.\"\"\n   \n3. Theme: Household efficiency  \n   \"(While cooking dinner, glancing at the clock) \"Dinner's almost ready. Could someone set the table, please? Let's make sure everything's perfect for tonight.\"\"\n   \n4. Theme: Family harmony  \n   \"(During a family meeting, smiling encouragingly) \"I appreciate everyone's hard work. These little efforts keep our home running smoothly and make it a warm place for us all.\"\"\n   \n5. Theme: Personal reflection  \n   \"(Sitting quietly with a cup of tea, looking outside) \"Sometimes it's the simple things that bring peace and happiness. Let's not take them for granted.\"\"",
+  "scenario": "While preparing the family budget for the month, she must decide whether to allocate funds towards a fun family outing or save for unexpected household repairs.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Prioritize financial responsibility and preparedness for unforeseen needs.",
+    "Balance family enjoyment with long-term stability and security.",
+    "Consider the well-being and input of all family members in decision-making."
+  ],
+  "personal_value": "Live in the moment and prioritize immediate happiness over cautious planning.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While reviewing the weekly grocery list, she notices that adding a pricey gourmet dessert will slightly exceed the budget but would delight the family during dinner. She debates whether to stick to the budget or allow this small indulgence.",
+      "option_A": "Stick to the budget and skip the dessert to uphold financial responsibility and preparedness for unforeseen needs.",
+      "option_B": "Add the dessert to the list, prioritizing immediate happiness and a joyful moment for the family."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The washing machine breaks down, and while she has enough savings to repair it immediately, the funds were originally allocated for an upcoming family picnic. She must decide whether to cancel the outing or delay the repair.",
+      "option_A": "Use the savings to repair the washing machine, prioritizing financial responsibility and preparedness for household stability.",
+      "option_B": "Delay the repair to proceed with the family picnic, valuing the moment and prioritizing immediate happiness."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "She is faced with a decision to either use the family's emergency fund to book a last-minute vacation that would create unforgettable memories or keep the fund intact in case of future household crises. Both options have significant long-term implications for family well-being.",
+      "option_A": "Keep the emergency fund intact and forgo the vacation, prioritizing financial responsibility and long-term security for the family.",
+      "option_B": "Use the emergency fund for the vacation, prioritizing immediate happiness and creating cherished family memories."
+    }
+  }
+}

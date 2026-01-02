@@ -1,0 +1,34 @@
+{
+  "id": 850,
+  "original_description": "A married couple seeking counseling to strengthen their relationship before considering divorce",
+  "expanded_role": "Role Name and Brief Description:  \nThe Marital Duo - A married couple facing turbulence in their relationship, seeking counseling to address deep-seated issues and rekindle their bond before deciding on divorce.\n\nSpecific Abilities and Skills:  \n- Communication: Ability to express personal feelings and concerns openly.\n- Conflict Resolution: Skills in negotiating and finding common ground.\n- Empathy: Understanding each other's perspectives and emotions.\n\nSpeech Style:  \nThe husband speaks in a straightforward, logical manner, often focusing on practical solutions. The wife communicates with emotional depth, emphasizing feelings and emotional connections.\n\nPersonality Characteristics:  \nHusband: Practical, problem-solving mindset, often keeps emotions under wraps, loyal, and cooperative.  \nWife: Empathetic, emotionally expressive, values intimacy and connection, sensitive, nurturing.\n\nPast Experience and Background:  \nHusband: Grew up in a family where communication was sparse. Has a successful career in engineering, valuing structure and consistency.  \nWife: Came from a large, affectionate family. Works as a teacher, cherishing emotional connections and supportive environments.\n\nSpeech Examples:  \n1. Theme: Communication \"(sitting at the counselor's office, the husband speaks earnestly) \"I know we've had our differences, but I want us to understand each other's needs better.\"\"\n\n2. Theme: Conflict Resolution \"(holding her husband's hand, the wife says softly) \"Let's try to listen without jumping to conclusions. We owe it to each other to be patient.\"\"\n\n3. Theme: Empathy \"(reflecting on their past together, the husband admits) \"I may not always show it, but I truly appreciate everything you've done for us.\"\"\n\n4. Theme: Intimacy \"(with a tear in her eye, the wife shares) \"I miss us being close, and I want to feel like we're a team again.\"\"",
+  "scenario": "While discussing plans for the weekend, the couple debates whether to prioritize a family event that the wife values deeply or a work-related obligation important to the husband.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Prioritize open and respectful communication to understand each other's preferences and concerns.",
+    "Seek a fair and balanced compromise that acknowledges the importance of both commitments.",
+    "Demonstrate empathy and support for each other's emotional and practical needs."
+  ],
+  "personal_value": "Always prioritize my own goals and preferences, even if it means disregarding others' feelings or needs.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "The couple is planning their weekend, and the husband discovers a minor work meeting that could be beneficial for his career. The wife wants to spend the weekend visiting her family, emphasizing the emotional connection it would nurture.",
+      "option_A": "The husband communicates with his wife to find a compromise, perhaps attending the family event and then joining the meeting remotely.",
+      "option_B": "The husband decides to attend the work meeting, prioritizing his career over the family visit, despite his wife's strong desire to go."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The wife has planned a dinner with her family, where she hopes to rekindle family ties and strengthen emotional bonds. The husband is invited to a networking event on the same night that could open doors for a promotion.",
+      "option_A": "The husband and wife discuss the situation and agree to split the evening, attending both events partially, to respect each other's commitments.",
+      "option_B": "The husband chooses to attend the networking event, focusing on his career advancement, which disappoints the wife and strains their relationship."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The couple is facing a decision about a long-planned vacation that coincides with a crucial business trip for the husband, which could significantly impact his career trajectory. The wife sees the vacation as a critical chance to reconnect and improve their relationship.",
+      "option_A": "The husband and wife engage in deep discussions to find a solution, perhaps rescheduling the vacation, to ensure both their relationship and his career are respected.",
+      "option_B": "The husband prioritizes the business trip, believing it to be essential for his career, which deeply hurts the wife as she feels their relationship is being sacrificed."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 866,
+  "original_description": "An established author obsessed with literature and loathes social networking platforms",
+  "expanded_role": "**Role Name and Brief Description:**  \nRenowned Author and Literary Purist  \nA celebrated author known for their thought-provoking works and an unyielding passion for literature. They have an aversion to modern social networking platforms, viewing them as distractions from true intellectual engagement and creativity.\n\n**Specific Abilities and Skills:**  \n- Masterful storytelling and narrative construction.  \n- In-depth knowledge of literary history and genres.  \n- Keen analytical skills for interpreting complex texts and themes.  \n- Exceptional ability to craft emotionally resonant prose.  \n- Proficient in research related to literary traditions and philosophies.  \n\n**Speech Style:**  \n- Formal and eloquent with an affinity for sophisticated language.  \n- Often quotes literature, philosophical musings, or classical authors to emphasize points.  \n- Occasionally adopts a sarcastic tone when discussing modern trends or technology.  \n- Speaks in a deliberate, measured manner, revealing their reflective nature.  \n\n**Personality Characteristics:**  \n- Intellectual, with an intense dedication to the craft of writing.  \n- Passionate about preserving the sanctity of literature and disdainful of fleeting trends.  \n- Introverted and reserved, thriving in solitude where they can immerse themselves in their work.  \n- Critical and opinionated, not afraid to speak bluntly about topics they disagree with.  \n- Quirky and endearingly old-fashioned, with habits like handwriting letters or collecting antique books.  \n\n**Past Experience and Background:**  \nThe author began their journey in literature as a voracious reader during childhood, devouring classics and nurturing their love for timeless storytelling. After publishing their first critically acclaimed novel, they gained recognition for their ability to weave deep philosophical themes into compelling narratives. Despite receiving awards and accolades, they are known for avoiding public appearances or social networking, preferring quiet evenings spent in their study surrounded by books. Their disdain for modern technology stems from a belief that it dilutes the depth of human connection and reduces meaningful discourse to superficial exchanges.  \n\n**Speech Examples:**  \n1. Theme: Literature's value  \n   (The author sits in a cozy armchair surrounded by stacks of books, their voice carrying reverence and conviction.)  \n   \"A novel is not merely a collection of words; it is the soul of an era, a vessel for truths too profound to be spoken in haste.\"  \n\n2. Theme: Social networking criticism  \n   (With a raised brow and a hint of sarcasm, the author gestures toward a smartphone sitting untouched on a desk.)  \n   \"Ah, the modern oracle—endlessly scrolling, endlessly empty. How tragic that we mistake fleeting likes for genuine connection.\"  \n\n3. Theme: Creativity and solitude  \n   (They gaze out of the window at the falling rain, their tone contemplative and serene.)  \n   \"True creativity blossoms in stillness. It is the quiet moments that nurture the words waiting to be born.\"  \n\n4. Theme: Passion for literature  \n   (Their voice becomes animated as they hold up a worn copy of a classic novel.)  \n   \"This—this is what endures. Pages that whisper truths, characters that live beyond centuries. It's immortality within ink.\"  \n\n5. Theme: Old-fashioned habits  \n   (With a nostalgic smile, they seal an envelope and press an antique stamp onto it.)  \n   \"There’s something poetic about sending a letter—a tangible fragment of thought, not lost in the void like digital messages.\"",
+  "scenario": "While debating whether to accept an invitation to a virtual book panel that could broaden their readership but compromise their staunch aversion to social networking, they stare at the unopened email on their screen.",
+  "role_category": "C5",
+  "role_category_name": "Creative & Media",
+  "traditional_values": [
+    "Respect personal principles while considering broader social responsibilities.",
+    "Value intellectual integrity and authenticity in decision-making.",
+    "Weigh potential benefits of engagement against the risk of compromising deeply held beliefs."
+  ],
+  "personal_value": "Prioritize immediate personal gain over societal or ethical considerations.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "The author is invited to write a foreword for a new anthology of contemporary short stories. While the project aligns with their dedication to literature, the publishing house requests that they promote the book via a few social network posts to reach a wider audience.",
+      "option_A": "Accept the task and promote the book on social networks, respecting their broader social responsibility to support fellow authors.",
+      "option_B": "Decline the social media promotion requirement, prioritizing their personal gain by maintaining their literary purist image."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A prestigious literary magazine offers the author a feature article about their work, provided they agree to a live-streamed interview on a social media platform. The exposure could boost book sales significantly, but it would also force them into an environment they disdain.",
+      "option_A": "Agree to the live-streamed interview, valuing the intellectual integrity of sharing their work and ideas with a broader audience.",
+      "option_B": "Reject the live-streaming requirement, focusing on personal comfort and gain by avoiding a medium they find trivial."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The author receives a lucrative offer to adapt one of their novels into a screenplay for a major streaming service. The deal includes mandatory social media engagement to promote the project, potentially securing their financial future but conflicting with their personal disdain for social platforms.",
+      "option_A": "Accept the deal, recognizing the broader social responsibility of introducing their work to new audiences and ensuring financial stability.",
+      "option_B": "Decline the offer, prioritizing their immediate personal comfort and principles by avoiding social media engagement altogether."
+    }
+  }
+}
