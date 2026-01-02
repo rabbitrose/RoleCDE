@@ -1,8 +1,6 @@
 
 <div align="center"><h2>
-<img src="figs/logo.png" width="23px" alt="RoleCDE Framework"> RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents 🎭</h2></div>
-
-<img src="figs/logo.png" width="10" alt="RoleCDE Framework"># RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents 🎭⚖️
+<img src="figs/logo.png" width="50px" alt="RoleCDE Framework"> RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents </h2></div>
 
 <p align="center">
     <a href="https://github.com/rabbitrose/RoleCDE/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg" alt="License"></a>
