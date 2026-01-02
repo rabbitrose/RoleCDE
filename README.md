@@ -14,7 +14,7 @@
 RoleCDE formulates role-aware decision-making as cognitive dilemma scenarios. The framework consists of three modular parts:
 
 <p align="center">
-  <img src="figs/framework0102.png" width="850" alt="RoleCDE Framework">
+  <img src="figs/framework0102.png" width="950" alt="RoleCDE Framework">
   <br>
   <em>The overall pipeline of RoleCDE.</em>
 </p>
@@ -68,13 +68,14 @@ python NLG_eval.py #Test model in BLEU,ROUGE,Bertscore
 
 > \[!Tip\]
 > - We have provided some test cases in the  `dataset` (nearly 1k roles) to facilitate researchers' initial evaluation.
-> - We have provided some model response data (in the complete dataset) under `example_out` for reference.
+> - We have provided some model response data (from the complete dataset) under `example_out` for reference.
 
 ## TODOs
 <details><summary>Click me to show all TODOs</summary>
 
 - [ ] feat: update the complete dataset (8k roles, 240k dilemmas) to huggingface.
-- [ ] feat: add RoleCDE PyPI package.
+- [ ] feat: update the training data and training model weights to huggingface.
+- [ ] - [ ] feat: add RoleCDE PyPI package.
 
 </details>
 
