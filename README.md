@@ -8,9 +8,10 @@
     <a href="https://github.com/rabbitrose/RoleCDE/stargazers"><img src="https://img.shields.io/github/stars/rabbitrose/RoleCDE?style=flat-square" alt="Stars"></a>
     <a href="https://github.com/rabbitrose/RoleCDE/issues"><img src="https://img.shields.io/github/issues/rabbitrose/RoleCDE?style=flat-square" alt="Issues"></a>
 </p>
-> \[!IMPORTANT\]
+
+> \[!NOTE\]
 >
-> 🌟 **Star Us!** By starring our project on GitHub, you'll receive all release notifications instantly. We appreciate your support!
+> 🌟 Love RoleCDE? Star our project on GitHub to get instant updates and show your support!
 
 ## 🖼️ Framework Overview
 
