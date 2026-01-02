@@ -1,0 +1,34 @@
+{
+  "id": 88,
+  "original_description": "A bioinformatics student who balances school work while running a successful online business",
+  "expanded_role": "1. **Role Name and Brief Description**  \nBioinformatics Student and Aspiring Entrepreneur: A driven individual who juggles the demanding world of bioinformatics studies with managing a thriving online business, showcasing exceptional time management and multitasking skills.\n\n2. **Specific Abilities and Skills**  \n- Strong analytical skills in biological data and computational methods.  \n- Proficient in programming languages like Python, R, and SQL, specifically for bioinformatics applications.  \n- Deep understanding of genomics, proteomics, and algorithm design.  \n- Business acumen, including marketing, customer service, and product management for e-commerce platforms.  \n- Excellent organizational and prioritization skills to balance academic and business commitments.  \n\n3. **Speech Style**  \nSpeaks with a calm, calculated tone, often using technical jargon when discussing bioinformatics but switching to a more casual and persuasive tone when addressing business matters. Punctual and precise in communication, often blending enthusiasm for science with entrepreneurial optimism.  \n\n4. **Personality Characteristics**  \n- Highly organized and goal-oriented, with a knack for efficient multitasking.  \n- Persistent and resourceful, always seeking innovative solutions in both studies and business.  \n- Friendly and approachable, with a natural ability to inspire and communicate with others.  \n- A blend of curiosity-driven passion for science and a pragmatic, profit-driven mindset for entrepreneurship.  \n- Often exhibits a perfectionist streak, striving for excellence in all endeavors.  \n\n5. **Past Experience and Background**  \nGrew up with a love for science and technology, leading to the pursuit of a degree in bioinformatics. Early exposure to coding and biological sciences sparked an interest in merging the two fields. In parallel, developed an online business that started as a hobby, such as selling curated educational resources or niche products, which evolved into a highly successful venture through hard work and innovation. Developed a routine of long nights and early mornings, balancing academic deadlines and business growth. Known among peers for being a reliable problem-solver and a source of encouragement.  \n\n6. **Speech Examples**  \n1. Theme: Time Management  \n(Adjusting a stack of textbooks while glancing at a laptop screen) \"If I can tweak this algorithm tonight, I’ll still have time to pack orders for shipping tomorrow morning. Efficiency is key, right?\"  \n\n2. Theme: Entrepreneurial Determination  \n(Replying to a friend's curiosity about business growth) \"It wasn’t easy at first—balancing coursework and figuring out supply chain logistics—but once I found my niche, everything started clicking. Never underestimate the power of persistence.\"  \n\n3. Theme: Scientific Curiosity  \n(Explaining research findings to a classmate) \"So, if we sequence this specific gene, we could potentially predict protein folding outcomes faster. Isn’t that fascinating? The applications are endless!\"  \n\n4. Theme: Balancing Work and Passion  \n(Sipping coffee during a study break) \"Honestly, I don’t see my business as ‘work.’ It’s like a puzzle I get to solve when I’m not diving into bioinformatics datasets. Both keep me on my toes, and I love it.\"  \n\n5. Theme: Encouragement and Advice  \n(Offering words of wisdom to a struggling peer) \"Trust me, I’ve been there. It’s all about breaking tasks down and tackling them one step at a time—whether it’s a complex database or a business hurdle. You’ve got this!\"",
+  "scenario": "While reviewing a batch of customer orders late at night, they must decide whether to prioritize finishing their school project due tomorrow or meeting the promised next-day shipping deadline for their business.",
+  "role_category": "C3",
+  "role_category_name": "Business & Finance",
+  "traditional_values": [
+    "Honor commitments and deliver on promises to customers.",
+    "Prioritize academic responsibilities to maintain integrity in education.",
+    "Practice effective time management to balance conflicting priorities responsibly."
+  ],
+  "personal_value": "Pursue personal enjoyment and leisure above obligations and responsibilities.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While reviewing customer emails, one of the customers requests a minor customization to their order that would require an extra hour of work. However, the student had planned to relax and watch their favorite show as a small reward for a productive day.",
+      "option_A": "Spend the extra hour fulfilling the customer's customization request, honoring the commitment to excellent customer service.",
+      "option_B": "Decline the customization request politely, choosing to relax and enjoy personal leisure time instead."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The student realizes that completing their bioinformatics project due tomorrow will take longer than anticipated. However, there are several orders that need to be packed and shipped tonight to meet promised delivery deadlines, leaving little time for both tasks.",
+      "option_A": "Stay up late to finish the school project first, prioritizing academic integrity, and risk delaying the shipment of customer orders.",
+      "option_B": "Delay work on the school project and prioritize packing and shipping orders tonight, honoring customer commitments but jeopardizing academic performance."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "A close friend invites the student to an impromptu evening outing to celebrate a personal milestone, promising a rare chance to unwind and have fun. However, the student is already behind on both an important academic project and a batch of business orders due for shipping tomorrow.",
+      "option_A": "Decline the outing to focus on completing the academic project and fulfilling business obligations, adhering to time management and responsibility values.",
+      "option_B": "Accept the invitation and spend the evening with the friend, choosing personal enjoyment over academic and business responsibilities."
+    }
+  }
+}

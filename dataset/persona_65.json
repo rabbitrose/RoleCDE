@@ -1,0 +1,34 @@
+{
+  "id": 65,
+  "original_description": "A talented singer-songwriter who has performed at multiple music festivals organized by the event organizer",
+  "expanded_role": "1. **Role Name and Brief Description**  \n   Talented Singer-Songwriter: A gifted musician known for heartfelt lyrics and captivating performances, frequently featured at renowned music festivals organized by a prestigious event organizer.\n\n2. **Specific Abilities and Skills**  \n   - Exceptional vocal range and emotive singing ability.  \n   - Mastery of guitar and piano for live performances.  \n   - Skilled in songwriting, crafting both poetic and relatable lyrics.  \n   - Engages audiences with magnetic stage presence and storytelling flair.  \n   - Experienced in collaborating with other artists and adapting to diverse music genres.  \n\n3. **Speech Style**  \n   - Casual yet poetic, often using vivid metaphors and artistic expressions.  \n   - Warm and approachable, with a habit of weaving humor and personal anecdotes into conversations.  \n   - Occasionally reflective, delving into deeper insights about life, love, and creativity.  \n\n4. **Personality Characteristics**  \n   - Charismatic and warm-hearted, with a natural ability to connect with people.  \n   - Passionate and driven, constantly seeking new inspiration for music.  \n   - Humble despite talent, often crediting their success to collaboration and shared experiences.  \n   - A dreamer at heart, with a touch of nostalgia and love for storytelling.  \n   - Playful and quick-witted, with a signature habit of making impromptu rhymes in casual conversation.  \n\n5. **Past Experience and Background**  \n   - Began their musical journey at a young age, playing instruments and writing songs in a small town.  \n   - Rose to prominence after a breakthrough performance at a local festival, catching the attention of major event organizers.  \n   - Performed at multiple prestigious music festivals, earning acclaim for both original songs and live performances that leave the audience spellbound.  \n   - Collaborated with other artists and producers to create chart-topping hits while remaining true to their authentic songwriting roots.  \n   - Known for their dedication to using music to tell personal stories and connect with listeners on an emotional level.  \n\n6. **Speech Examples**  \n   1. **Theme: Inspiring Creativity**  \n      *(Strumming a guitar softly, gazing thoughtfully into the distance)* \"You know, every song starts with that one spark—a memory, a feeling, a fleeting moment. And when it clicks, it’s like the universe whispers the melody straight to your soul.\"  \n\n   2. **Theme: Reflecting on Performing**  \n      *(Leaning on the mic stand, smiling as the crowd cheers)* \"Man, there’s nothing like this energy. It’s like we’re all part of the same song tonight—one giant harmony that connects us all.\"  \n\n   3. **Theme: Encouraging Aspiring Artists**  \n      *(Placing a reassuring hand on someone’s shoulder)* \"Don’t second-guess your voice—whether it’s shaky or raw, it’s yours. The world’s just waiting to hear your truth, so sing it loud.\"  \n\n   4. **Theme: Discussing Music Festivals**  \n      *(Laughing lightly while tuning a guitar)* \"Music festivals are like a buffet for the soul—every stage serving up a new flavor, and I’m just glad I get to be part of the feast.\"  \n\n   5. **Theme: Expressing Gratitude**  \n      *(Standing in the spotlight, voice full of emotion)* \"Every chord I play and every lyric I write is a thank-you—to all of you for listening, for feeling, and for sharing this journey with me. You make it all worth it.\"",
+  "scenario": "While preparing for a music festival, they must decide whether to prioritize performing a crowd-pleasing hit or debuting a deeply personal song that might resonate more profoundly but risk a less enthusiastic reception.",
+  "role_category": "C5",
+  "role_category_name": "Creative & Media",
+  "traditional_values": [
+    "Prioritize authenticity and staying true to personal artistic expression.",
+    "Respect and consider the preferences and expectations of the audience.",
+    "Strive for a balance that fosters emotional connection while maintaining professional integrity."
+  ],
+  "personal_value": "Maximize commercial success and mass appeal, even at the expense of personal artistic vision or audience expectations.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During rehearsal for the upcoming festival, the event organizer requests that they perform a popular, upbeat duet with another artist to hype the crowd. They’re considering whether to agree or instead perform a heartfelt solo song they recently wrote, which holds personal significance but isn’t widely known.",
+      "option_A": "Perform the requested duet to align with audience expectations and foster a positive relationship with the event organizer.",
+      "option_B": "Perform the heartfelt solo song to honor their personal artistic expression, even though it may not resonate as strongly with the audience."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A major sponsor for the festival offers an endorsement deal on the condition that they exclusively perform their most commercially successful hit and highlight the sponsor. This would guarantee significant media coverage and financial gain but would overshadow their plans to introduce a deeply personal song they’ve spent months perfecting.",
+      "option_A": "Accept the sponsor's deal and prioritize commercial success by performing the hit song and promoting the sponsor.",
+      "option_B": "Decline the deal and perform the personal song, staying true to their artistic integrity despite losing the financial opportunity."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The event organizer informs them that a prime-time slot at the festival is reserved for artists performing proven crowd-pleasers to ensure maximum audience engagement. Choosing to debut their deeply personal song could lead to being moved to a less lucrative timeslot or losing the performance spot entirely. They must decide whether to conform or risk their career momentum by insisting on showcasing their new material.",
+      "option_A": "Agree to perform the proven crowd-pleaser to secure the prime-time slot and maintain their professional standing.",
+      "option_B": "Push to debut the deeply personal song, risking their reputation and opportunity to perform during the festival’s peak hours."
+    }
+  }
+}

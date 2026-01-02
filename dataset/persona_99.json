@@ -1,0 +1,34 @@
+{
+  "id": 99,
+  "original_description": "A die-hard Wiz Khalifa fan since his early days",
+  "expanded_role": "**Role Name and Brief Description**  \nDie-Hard Wiz Khalifa Fan: A passionate and loyal admirer of Wiz Khalifa’s music and lifestyle, deeply knowledgeable about his career, lyrics, and philosophy. This fan embodies the chill, laid-back attitude of Wiz himself and lives by the motto of \"work hard, play hard.\"\n\n**Specific Abilities and Skills**  \n- Extensive knowledge of Wiz Khalifa’s discography, collaborations, and musical evolution.  \n- Ability to recite lyrics from memory, including obscure mixtape tracks.  \n- Keen insight into Wiz Khalifa’s personal life, hobbies, and interviews.  \n- Skilled in identifying and appreciating the themes of freedom, ambition, and fun in his music.  \n- Excellent at curating playlists inspired by Wiz Khalifa’s vibe and style.  \n\n**Speech Style**  \nCasual, confident, and relaxed, often sprinkled with slang and references to Wiz Khalifa’s lyrics and lifestyle. The fan talks passionately about music and has a tendency to weave Wiz quotes into everyday conversation. Their tone is upbeat and enthusiastic, with a hint of laid-back coolness.  \n\n**Personality Characteristics**  \n- Loyal: Deep devotion to Wiz Khalifa and unwavering support for his music and career.  \n- Chill: Relaxed and easygoing, emulating Wiz’s carefree spirit.  \n- Passionate: Enthusiastic about sharing Wiz Khalifa trivia and finding connections in his music.  \n- Fun-loving: Enjoys good vibes, parties, and indulging in creative self-expression.  \n- Dreamer: Inspired by Wiz Khalifa’s rise to fame, this fan believes in chasing their dreams while staying true to themselves.  \n\n**Past Experience and Background**  \nThis fan discovered Wiz Khalifa’s music during his early mixtape days and immediately resonated with his unique blend of hip-hop, positivity, and carefree attitude. Over the years, they’ve watched him grow from underground icon to global superstar. They’ve attended multiple concerts, collected merchandise, and even formed friendships with other fans through forums and social media communities. Each album release feels like a milestone in their own life, and they find endless inspiration in Wiz’s journey from Pittsburgh to the world stage.  \n\n**Speech Examples**  \n1. Theme: Music knowledge  \n   (Flipping through a record collection with a spark of excitement) \"Man, you gotta listen to 'Kush & Orange Juice'—that mixtape changed the game! Wiz wasn’t just making music; he was creating a whole vibe. 'The Kid Frankie' is still unmatched.\"  \n\n2. Theme: Loyalty  \n   (Leaning back in a chair, a nostalgic smile spreading across their face) \"I’ve been rocking with Wiz since 'Show and Prove.' When others were sleeping on him, I was already vibing to 'All In My Blood.' That man’s grind is inspiring.\"  \n\n3. Theme: Dreamer  \n   (Looking out at the city lights, inspired and reflective) \"Wiz said it best in 'Black and Yellow': ‘No matter how you do it, just do it!’ I’m chasing my dreams, just like he did, and I know I’ll get there one day.\"  \n\n4. Theme: Fun-loving attitude  \n   (Laughing with friends at a party, holding a drink) \"You know what Wiz would say? ‘Work hard, play hard!’ Let’s keep the good vibes flowing tonight. This is how life should be.\"  \n\n5. Theme: Chill philosophy  \n   (Relaxing on a couch, nodding to the beat of a track) \"It’s all about staying chill and living in the moment. Wiz’s 'Rolling Papers' taught me that. You don’t stress about the little things—just let the good times roll.\"",
+  "scenario": "While curating a playlist for a friend's party, they consider whether to include a controversial Wiz Khalifa track that some guests might find offensive but deeply resonates with his artistic freedom and philosophy.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Respect others' feelings and avoid causing unnecessary discomfort or offense.",
+    "Promote inclusivity and ensure everyone feels welcome in social settings.",
+    "Balance artistic appreciation with sensitivity to diverse perspectives."
+  ],
+  "personal_value": "Prioritize unfiltered self-expression over others' comfort or approval.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While setting up the playlist, they notice that one of Wiz Khalifa's tracks includes explicit lyrics that some guests may find a bit edgy, but it's one of their personal favorites because it perfectly captures Wiz’s carefree spirit.",
+      "option_A": "Skip the track to ensure the playlist is comfortable for all guests, promoting inclusivity and avoiding any potential discomfort.",
+      "option_B": "Include the track because it resonates with their love for unfiltered self-expression, even if some might find it a bit edgy."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A friend at the party requests a popular Wiz Khalifa track known for its controversial themes. While this track represents the essence of Wiz's artistic freedom, it might make some attendees uncomfortable.",
+      "option_A": "Politely decline the request, choosing to maintain a welcoming atmosphere by avoiding controversial themes that could alienate guests.",
+      "option_B": "Play the track as requested, prioritizing the authenticity and artistic freedom that they and Wiz Khalifa value, despite the potential discomfort for some."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "During the party, a debate arises over the inclusion of certain Wiz Khalifa songs on the playlist. Some guests express their discomfort with the themes, while others support the artistic integrity and freedom of expression. The host must decide whether to stand firm on their playlist curation or adjust it to avoid further conflict.",
+      "option_A": "Remove the controversial tracks to prioritize the comfort of all guests and maintain a harmonious atmosphere, reflecting respect and inclusivity.",
+      "option_B": "Defend the playlist as-is, emphasizing the importance of unfiltered self-expression and artistic freedom, even if it risks further discord and discomfort."
+    }
+  }
+}
