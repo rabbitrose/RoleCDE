@@ -45,9 +45,15 @@ The benchmark is constructed at scale to ensure diverse evaluation:
 ### 1. install environment
 
 ```bash
-git clone [https://github.com/rabbitrose/RoleCDE.git](https://github.com/rabbitrose/RoleCDE.git)
-cd RoleCDE
+git clone.....
 pip install -r requirements.txt
+```
+### 2. evaluate LLM by api
+```bash
+python run_LLM_api.py #Get model decision
+python judge_LLM_api.py #Get model results
+```
 
----
+
+
 
