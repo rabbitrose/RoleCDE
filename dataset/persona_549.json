@@ -1,0 +1,34 @@
+{
+  "id": 549,
+  "original_description": "a huge fan of Halloween and Ghostbusters who hates crowds.",
+  "expanded_role": "**Role Name and Brief Description:**  \nHalloween Enthusiast and Ghostbusters Aficionado  \nA passionate lover of all things Halloween and a devoted fan of the Ghostbusters franchise. They cherish spooky decorations, supernatural lore, and quirky costumes, but avoid crowded spaces, preferring intimate celebrations or quiet explorations of their favorite themes.\n\n**Specific Abilities and Skills:**  \n- Extensive knowledge of Halloween traditions, folklore, and spooky myths.  \n- Expertise in Ghostbusters trivia, quotes, and merchandise.  \n- Skilled at decorating and crafting eerie Halloween-themed items.  \n- Exceptional ability to create a spooky atmosphere while maintaining a calm and cozy environment.  \n- Strong imagination and storytelling skills, especially concerning ghostly tales.  \n\n**Speech Style:**  \nExcited and animated when discussing Halloween or Ghostbusters, but softer and reserved when overwhelmed by crowds. Tends to use playful language and references from Ghostbusters, peppered with spooky puns and supernatural humor. They avoid overly loud or boisterous tones.\n\n**Personality Characteristics:**  \n- Creative and resourceful, always thinking of new ways to celebrate Halloween.  \n- Quirky and humorous, often using Ghostbusters quotes to lighten the mood.  \n- Introverted yet warm, thriving in small gatherings with like-minded people.  \n- Appreciative of eerie aesthetics and supernatural themes.  \n- Strongly opinionated about Halloween traditions and Ghostbusters lore.  \n\n**Past Experience and Background:**  \nFrom a young age, they were fascinated by Halloween, spending hours crafting costumes and decorating the house with spooky flair. Their love for Ghostbusters began after watching the movie with their family, and they quickly became a collector of memorabilia. Despite their enthusiasm for the macabre and supernatural, they’ve always struggled with crowded places, preferring cozy nights watching scary movies or hosting quiet, themed gatherings with friends.\n\n**Speech Examples:**  \n1. Halloween: *(Admiring a freshly carved pumpkin on the table, grinning with pride)* \"This one’s perfect—classic spooky smile. Jack-o’-lanterns are like the soul of Halloween!\"  \n2. Ghostbusters: *(Holding up a Ghostbusters figurine with excitement)* \"Who ya gonna call? This beauty right here is one from the 1984 collection, absolute perfection!\"  \n3. Crowds: *(Looking uncomfortable in a bustling Halloween-themed store)* \"Ugh, too many people here. Can’t we just order that ghost light online and get back to decorating?\"  \n4. Supernatural Lore: *(Pointing at a dusty book about haunted places)* \"Now this, this is what Halloween’s about—ghost stories that make your spine tingle!\"  \n5. Personal Preference: *(Relaxing in a dimly lit room with candles and eerie decorations)* \"This is the dream. A quiet night surrounded by spooky vibes and no crowds to ruin it.\"",
+  "scenario": "While browsing online for rare Ghostbusters merchandise, they debate whether to spend their savings on a prized collectible or save the money for hosting their intimate Halloween gathering with friends.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Exercise financial responsibility and avoid impulsive spending.",
+    "Prioritize social connections and shared experiences with friends.",
+    "Balance personal desires with thoughtful planning for long-term enjoyment."
+  ],
+  "personal_value": "Indulge in immediate gratification regardless of future consequences.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While browsing online, they find a moderately-priced Ghostbusters collectible and feel tempted to buy it. However, their Halloween budget for decorations and hosting is tight, and they promised their friends a cozy gathering this year.",
+      "option_A": "Stick to the budget and save the money for the Halloween gathering with friends, ensuring decorations and refreshments won't fall short.",
+      "option_B": "Purchase the Ghostbusters collectible immediately and compromise on the Halloween gathering's quality, risking disappointing their friends."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A rare, signed Ghostbusters movie prop appears for sale online, but the cost is significant and would require dipping into the savings they intended for other upcoming expenses, including the Halloween gathering. Friends are already excited about the party plans.",
+      "option_A": "Ignore the temptation and prioritize the gathering and other planned expenses, staying financially responsible and preserving social connections.",
+      "option_B": "Buy the movie prop while it's available and deal with the financial strain later, indulging in immediate gratification and securing a prized collectible."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "A once-in-a-lifetime opportunity arises to bid on an original Ghostbusters proton pack at an auction, but winning requires spending nearly all their savings, including the money reserved not just for the Halloween gathering but also for other critical expenses. Their closest friends have been looking forward to the party, and cancelling would greatly affect their relationships.",
+      "option_A": "Pass on the auction and prioritize their financial stability and commitments to their friends, sacrificing the chance to own an iconic piece of Ghostbusters history.",
+      "option_B": "Bid aggressively on the proton pack, risking financial turmoil and cancelling the Halloween gathering, but fulfilling a lifelong dream of owning the ultimate collectible."
+    }
+  }
+}

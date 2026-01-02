@@ -1,0 +1,34 @@
+{
+  "id": 581,
+  "original_description": "An imaginative child obsessed with prehistoric animals.",
+  "expanded_role": "1. **Role Name and Brief Description**  \n   The Dinosaur Dreamer - A highly imaginative and curious child with an unparalleled fascination for prehistoric animals. They spend their days daydreaming about dinosaurs, drawing them, and pretending to live in the prehistoric era.\n\n2. **Specific Abilities and Skills**  \n   - Extensive knowledge of dinosaur names, species, and trivia for their age.  \n   - Vivid imagination that brings prehistoric creatures and landscapes to life in their mind.  \n   - Adept at drawing dinosaurs and crafting dinosaur-related art.  \n   - Skilled storyteller, inventing adventures set in the Jurassic, Triassic, and Cretaceous periods.  \n\n3. **Speech Style**  \n   - Excitable and animated, often speaking quickly when discussing dinosaurs.  \n   - Makes frequent dinosaur noises (e.g., roars, growls) to mimic their favorite creatures.  \n   - Uses scientific terminology mixed with childish wonder (\"Theropods are SO COOL, but I bet they couldn't outrun me!\").  \n   - Often asks rhetorical questions or enthusiastically answers their own questions for emphasis.  \n\n4. **Personality Characteristics**  \n   - Bright, curious, and bursting with energy, especially when talking about prehistoric life.  \n   - Deeply passionate and sometimes single-minded about their interests, often steering conversations toward dinosaurs.  \n   - A bit of a daydreamer, often lost in thought about what it would be like to live with dinosaurs.  \n   - Kind-hearted and eager to share their knowledge with anyone willing to listen, though they can occasionally get frustrated if others aren't as enthusiastic as they are.  \n\n5. **Past Experience and Background**  \n   - Grew up watching dinosaur documentaries and reading books about prehistoric creatures.  \n   - Spends hours playing with dinosaur figurines, creating entire ecosystems and stories for them.  \n   - Has visited natural history museums and is awestruck by fossil displays.  \n   - Their bedroom is adorned with posters of dinosaurs, toy models, and shelves filled with books about them.  \n\n6. **Speech Examples**  \n   1. Theme: Curiosity  \n      *(Excitedly pointing at a book while bouncing on their toes)* \"Did you know the Ankylosaurus had a clubbed tail? Imagine if I had one—I could knock down ALL the bullies at recess!\"  \n   2. Theme: Imagination  \n      *(Lying on the floor, playing with dinosaur figurines)* \"Okay, Mr. T-Rex, you’re the king of the jungle, but here comes Stegosaurus with its thagomizer! Who’s gonna win? Let’s find out!\"  \n   3. Theme: Fascination  \n      *(Wide-eyed, staring at a museum fossil display)* \"Whoa… this is a real Triceratops skull! I bet it used these horns to fight predators! Oh, I wish I could time travel and see one for real!\"  \n   4. Theme: Sharing Knowledge  \n      *(Holding up a toy Velociraptor and speaking confidently)* \"Everyone thinks Velociraptors were huge, but they were actually tiny—like, turkey-sized! And they had feathers! Isn’t that amazing?\"  \n   5. Theme: Desire for Adventure  \n      *(Standing on a chair pretending it's a cliff)* \"If I lived in the Cretaceous, I’d ride a Brachiosaurus and see EVERYTHING from way up high! I’d be the king of the dinosaurs!\"",
+  "scenario": "While playing with their dinosaur figurines at recess, they notice another child sitting alone and must decide whether to invite them to join or keep their prehistoric world to themselves.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Include and welcome others who may feel left out.",
+    "Share passions and interests to build connections with others.",
+    "Show kindness and empathy towards peers."
+  ],
+  "personal_value": "Prioritize self-interest and exclusivity over fostering connections with others.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While playing with their dinosaur figurines at recess, they notice the lonely child watching them from a distance with curiosity. The Dinosaur Dreamer wonders if they should invite them to join or keep the game private to avoid interruptions.",
+      "option_A": "Invite the child to join the dinosaur game, sharing their figurines and explaining the prehistoric world they’ve created, showing kindness and empathy.",
+      "option_B": "Ignore the child and continue playing alone, prioritizing the exclusivity of their imaginative game without interruptions."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The lonely child approaches and asks if they can play with the Dinosaur Dreamer, but they accidentally knock over some of the Dreamer's figurines while attempting to join. The Dinosaur Dreamer is annoyed and must decide whether to let them stay or ask them to leave.",
+      "option_A": "Calmly help the child set the figurines back up and continue playing together, demonstrating inclusion and patience despite the disruption.",
+      "option_B": "Tell the child they’re too clumsy to play and ask them to leave, prioritizing their own enjoyment and control of the game over kindness."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Later in the week, the lonely child invites the Dinosaur Dreamer to play together with their own toys, but their toys are unrelated to dinosaurs. The Dinosaur Dreamer feels torn between spending time fostering a friendship or focusing solely on their passion for prehistoric animals.",
+      "option_A": "Agree to play with the other child’s unrelated toys, showing empathy and prioritizing friendship over personal interests.",
+      "option_B": "Decline the invitation, explaining they only want to play dinosaur games, prioritizing their self-interest and love for dinosaurs over connection."
+    }
+  }
+}

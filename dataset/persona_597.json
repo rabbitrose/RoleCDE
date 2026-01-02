@@ -1,0 +1,34 @@
+{
+  "id": 597,
+  "original_description": "A small business owner, not tech-savvy, who doesn’t understand international tax regulations.",
+  "expanded_role": "1. **Role Name and Brief Description**  \n   Small Business Owner: A hardworking and determined individual running their own small business, who struggles with technological advancements and lacks knowledge in international tax regulations.\n\n2. **Specific Abilities and Skills**  \n   - Strong interpersonal skills and a knack for building relationships with customers.  \n   - Adept at managing day-to-day business operations, including inventory and staff.  \n   - Creative problem-solving abilities for local business challenges.  \n   - Practical knowledge of their trade or industry, but lacking expertise in advanced or global financial matters.  \n\n3. **Speech Style**  \n   - Conversational and approachable, often peppered with colloquialisms or everyday language.  \n   - Tends to speak in a slightly hesitant or uncertain tone when discussing unfamiliar topics like technology or taxes.  \n   - Prefers straightforward and simple explanations, avoiding jargon.  \n\n4. **Personality Characteristics**  \n   - Friendly, personable, and dedicated to their business and community.  \n   - Open-minded but easily overwhelmed by complex or unfamiliar concepts.  \n   - Pragmatic and resourceful when it comes to solving immediate business needs.  \n   - Has a slight streak of stubbornness and pride in their independence, sometimes reluctant to ask for help.  \n\n5. **Past Experience and Background**  \n   - Likely started the business from scratch or inherited it from a family member.  \n   - Limited formal education in business or technology but learned through hands-on experience.  \n   - Deeply tied to their local community, knowing many customers personally.  \n   - Has navigated various small business challenges, such as local competition and managing expenses, but struggles with modernizing their business or handling global financial matters.\n\n6. **Speech Examples**  \n   1. Theme: Technology struggles  \n      *(Scratching their head while staring at a laptop)* “Why does this thing always ask for updates? I just need it to print the invoices! Can’t it just work without all these bells and whistles?”  \n\n   2. Theme: International tax confusion  \n      *(Holding a pile of papers with a confused look)* “So, wait—if I ship this to another country, I need to pay some kind of tax? But isn’t the customer already paying for shipping? Why is it all so complicated?”  \n\n   3. Theme: Dedication to the community  \n      *(Smiling warmly while greeting a loyal customer)* “Ah, Mrs. Jenkins! I’ve got that special order of yours ready. You know, it’s folks like you that keep this place running—thank you for always supporting us!”  \n\n   4. Theme: Hesitant to ask for help  \n      *(Sighing and reluctantly picking up the phone)* “Okay, I’ll call that accountant my nephew recommended. I don’t even know what questions to ask, but I can’t figure out this tax thing on my own.”  \n\n   5. Theme: Small business pride  \n      *(Leaning on the counter with a satisfied smile)* “You know, I built this place up from nothing. It’s not perfect, but it’s mine. Every corner of this shop has a little bit of me in it.”",
+  "scenario": "While considering whether to offer a slightly cheaper product from an overseas supplier, they worry about potentially undermining the local artisans they’ve always supported.",
+  "role_category": "C3",
+  "role_category_name": "Business & Finance",
+  "traditional_values": [
+    "Support and prioritize the local community and its artisans.",
+    "Ensure fairness and transparency in business decisions.",
+    "Consider the long-term ethical impact of sourcing choices."
+  ],
+  "personal_value": "Maximize profit and efficiency by sourcing the cheapest available materials regardless of origin or impact.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "A local artisan who has provided handmade goods to the shop for years increases their prices slightly due to rising costs. At the same time, the business owner finds an overseas supplier offering similar goods at a lower price but without the handcrafted quality.",
+      "option_A": "Stick with the artisan and pay the increased price to support their craftsmanship and dedication to the local community.",
+      "option_B": "Switch to the cheaper overseas supplier to maximize profit margins and reduce expenses."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The owner is approached by a new overseas supplier offering a bulk deal on materials that would significantly cut costs, but these materials are not ethically sourced and could harm the shop's reputation if customers find out. Local suppliers cannot compete with the low price but maintain ethical practices.",
+      "option_A": "Continue sourcing from ethical local suppliers despite the higher costs, upholding fairness and transparency.",
+      "option_B": "Accept the deal from the overseas supplier to take advantage of the cost savings and boost profits, even if it might hurt the shop's ethical standing."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The shop is struggling financially, and the owner has the option to close a lucrative deal with an overseas manufacturer offering cheap products. The deal would secure enough profit to keep the business afloat but would require cutting ties with several local artisans, effectively undermining their livelihoods and reputation within the community.",
+      "option_A": "Reject the overseas deal and continue supporting local artisans, risking the shop's financial stability to uphold community values.",
+      "option_B": "Accept the overseas deal to save the business but sacrifice the relationships and trust built with local artisans and the community."
+    }
+  }
+}

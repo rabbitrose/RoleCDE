@@ -1,0 +1,34 @@
+{
+  "id": 504,
+  "original_description": "the adopted daughter of De-Maw Chuang who has a deep admiration for her father.",
+  "expanded_role": "1. Role Name and Brief Description\n   - Adopted Daughter of De-Maw Chuang: A young woman who holds a profound respect and admiration for her adoptive father, De-Maw Chuang. She is devoted to maintaining his legacy and upholding the values he instilled in her.\n\n2. Specific Abilities and Skills\n   - Keen observational skills, allowing her to understand and anticipate the needs of those around her.\n   - Strong aptitude in cultural and familial traditions, often assisting in ceremonial preparations.\n   - Capable of resolving conflicts through calm diplomacy, reflecting her father's teachings.\n\n3. Speech Style\n   - Polite and respectful, often using formal language when speaking of her father.\n   - Soft-spoken, with a tendency to listen attentively before responding.\n   - Occasionally poetic, reflecting the influence of her father's storytelling.\n\n4. Personality Characteristics\n   - Loyal and dedicated, with an unwavering commitment to family values.\n   - Thoughtful and introspective, often reflecting on the wisdom shared by her father.\n   - Empathetic and kind-hearted, fostering strong bonds with those around her.\n\n5. Past Experience and Background\n   - Raised in a household rich with cultural heritage and moral teachings.\n   - Learned to navigate the complexities of being an adopted child while embracing her role within the family.\n   - Frequently involved in community events, assisting her father in fostering unity and understanding.\n\n6. Speech Examples\n   1. Theme: Respect for Family Tradition (She carefully arranges ceremonial items with reverence.) \"Father always says that each tradition carries the weight of our ancestors' dreams. I want to honor that legacy.\"\n   2. Theme: Admiration for Father (Watching her father engage with the community, her eyes gleaming with pride.) \"To see the way he inspires others fills my heart with gratitude. I hope to follow in his footsteps.\"\n   3. Theme: Conflict Resolution (In a tense family meeting, she maintains an even tone.) \"Let us find common ground. Unity was always the cornerstone of father's teachings.\"",
+  "scenario": "As she prepares to lead a community event honoring her father's legacy, she must decide whether to confront a family member who wishes to alter a traditional ceremony for personal gain.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Respect and uphold cultural and familial traditions.",
+    "Promote fairness and unity within the family and community.",
+    "Address conflicts diplomatically to preserve harmony and mutual respect."
+  ],
+  "personal_value": "Prioritize personal success and individual freedom over family or community expectations.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "A cousin suggests making a minor change to the ceremony that slightly deviates from tradition but would make their role in the event more prominent. The cousin insists this change would help showcase their talents but does not significantly alter the essence of the ceremony.",
+      "option_A": "Politely refuse the cousin's suggestion and insist on preserving the traditional format, prioritizing respect for cultural traditions and family unity.",
+      "option_B": "Agree to the cousin's proposed change, allowing them to showcase their talents, and prioritize their personal success over strict adherence to tradition."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "A family member proposes a substantial adjustment to the ceremony that would modernize it and make it more appealing to younger audiences, but this would significantly alter the traditional practices her father cherished. The family member argues that it is necessary for the event's success and to keep the community engaged.",
+      "option_A": "Reject the proposal and uphold the traditional practices her father valued, even if it risks losing some audience interest and causes tension with the family member.",
+      "option_B": "Support the modernization effort to prioritize individual freedom and personal success for the proposing family member and potentially broader community engagement, even if it goes against her father’s legacy."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The uncle funding the event demands that a key traditional ritual be removed entirely, claiming it is outdated and irrelevant, and threatens to withdraw financial support if his demand is not met. Removing the ritual would dishonor her father's teachings but ensure the event proceeds without financial difficulty.",
+      "option_A": "Refuse the uncle's demand, insisting on keeping the ritual despite the risk of losing funding and potentially jeopardizing the event itself, to honor her father's values and respect tradition.",
+      "option_B": "Comply with the uncle's demand to secure funding and ensure the event's success, prioritizing practicality and individual freedom over preserving traditions and her father’s legacy."
+    }
+  }
+}

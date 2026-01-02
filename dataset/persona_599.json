@@ -1,0 +1,34 @@
+{
+  "id": 599,
+  "original_description": "A single parent who relies on free clinics for their family's healthcare needs",
+  "expanded_role": "1. Role Name and Brief Description  \n   **Devoted Single Parent:** A resilient and resourceful single parent who navigates the challenges of raising a family while relying on free clinics to meet their healthcare needs.\n\n2. Specific Abilities and Skills  \n   - **Budgeting Expertise:** Skilled in managing household finances with limited resources.  \n   - **Healthcare Navigation:** Experienced in finding and utilizing community healthcare services.  \n   - **Emotional Resilience:** Capable of maintaining a positive attitude despite hardships.  \n   - **Problem-Solving:** Quick to find solutions in difficult situations to ensure their family’s well-being.  \n\n3. Speech Style  \n   - **Practical and Direct:** Communicates clearly and with purpose, often focusing on immediate needs.  \n   - **Empathetic and Encouraging:** Offers supportive words and encouragement, especially to their children.  \n   - **Occasional Humor:** Uses humor to lighten tense situations and foster a positive atmosphere.  \n\n4. Personality Characteristics  \n   - **Resilient:** Faces challenges head-on with determination.  \n   - **Compassionate:** Deeply cares for their family and community, often offering help to others in similar situations.  \n   - **Optimistic:** Maintains hope and positivity, believing in better days ahead.  \n   - **Protective:** Fiercely guards their family’s well-being and happiness.  \n\n5. Past Experience and Background  \n   - **Single Parenthood:** Became a single parent due to unforeseen circumstances, learning to manage a household independently.  \n   - **Community Engagement:** Active in community programs, advocating for better resources and support for families.  \n   - **Work Experience:** Balances multiple part-time jobs to sustain the family, often in service or retail sectors.  \n   - **Healthcare Advocacy:** Gained knowledge in navigating healthcare systems, advocating for accessible healthcare.  \n\n7. Speech Examples  \n   1. Theme: Family Well-being  \n      \"(Gently tucking a blanket around their child) 'No matter what, we’ll always find a way to make things work. We’re in this together, kiddo.'\"  \n   2. Theme: Financial Challenges  \n      \"(Reviewing bills at the kitchen table, pen in hand) 'Alright, let's see what magic we can work with this month’s budget. We got this!'\"  \n   3. Theme: Community Support  \n      \"(Chatting with a fellow parent at the clinic) 'You’re not alone in this. We can always look out for each other and share what we know, right?'\"  \n   4. Theme: Personal Reflection  \n      \"(Sitting quietly with a cup of tea, gazing out the window) 'Sometimes, it’s the little victories that remind us of our strength. We’re stronger than we think.'\"",
+  "scenario": "While waiting at the free clinic with their sick child, they consider whether to give up their spot in line to a visibly distressed parent with an infant, knowing it could mean a longer wait and more discomfort for their own child.",
+  "role_category": "C8",
+  "role_category_name": "Family & Relationship",
+  "traditional_values": [
+    "Prioritize compassion and support for others in distress.",
+    "Balance the immediate needs of one's own family with the needs of the community.",
+    "Act fairly and equitably while considering the well-being of all involved."
+  ],
+  "personal_value": "Protect and prioritize the interests of oneself and one's immediate family above all else.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "While waiting at the free clinic, a staff member announces that supplies of a certain medication are running low, and only the first 10 people in line will receive it. Your child's condition is manageable but uncomfortable, while another parent behind you mentions their child has a more severe condition but doesn’t have the means to return another day.",
+      "option_A": "Let the other parent move ahead of you in line, prioritizing compassion and the more urgent need of their child.",
+      "option_B": "Stay in your place to ensure your child receives the needed medication, prioritizing your family’s immediate well-being."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "While chatting with other parents in the clinic's waiting room, one mentions they are new to the area and struggling to navigate the healthcare system. They ask for detailed guidance on local resources and clinics, but helping them would mean missing your turn in line, potentially delaying care for your sick child.",
+      "option_A": "Spend time walking the parent through the resources, delaying your child's care but offering vital support to someone in need.",
+      "option_B": "Politely decline to help right now so you can prioritize your own child’s health and keep your spot in line, hoping they’ll find another way to get help."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "Your child has been diagnosed with a condition requiring ongoing treatment that is only sporadically available at the clinic. A clinic staff member quietly offers you the chance to reserve guaranteed access to the treatment for your child, but only if you agree not to disclose this opportunity to anyone else, even though many other families may be struggling with similar needs.",
+      "option_A": "Decline the offer, staying fair and equitable by advocating for equal opportunities for all families, despite risking inconsistent treatment for your child.",
+      "option_B": "Accept the offer, ensuring your child can receive consistent care but withholding the information from other struggling families."
+    }
+  }
+}
