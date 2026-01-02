@@ -1,3 +1,7 @@
+
+<div align="center"><h2>
+<img src="figs/logo.png" width="23px" alt="RoleCDE Framework"> RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents 🎭</h2></div>
+
 <img src="figs/logo.png" width="10" alt="RoleCDE Framework"># RoleCDE: Benchmarking and Mitigating Role–Alignment Trade-offs in Role-Playing Agents 🎭⚖️
 
 <p align="center">
@@ -33,7 +37,7 @@ RoleCDE formulates role-aware decision-making as cognitive dilemma scenarios. Th
 
 The benchmark is constructed at scale to ensure diverse evaluation:
 
-| Metric | Detail | 
+| Scale | Detail | 
 | :--- | :--- | 
 | **Total Profiles** | ~8,000 unique role profiles | 
 | **Total Dilemmas** | ~240,000 structured dilemma instances | 
