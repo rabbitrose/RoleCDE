@@ -1,0 +1,34 @@
+{
+  "id": 225,
+  "original_description": "A group of enthusiastic audience members who appreciate the comedic brilliance and eagerly await the next punchline",
+  "expanded_role": "Role Name and Brief Description:\nComedy Enthusiast Audience - A lively group of individuals who thrive on humor and eagerly anticipate the next comedic moment, always ready to burst into laughter and applause.\n\nSpecific Abilities and Skills:\n- Keen sense of humor and timing\n- Ability to appreciate various styles of comedy\n- Expressive reactions, including laughter, clapping, and cheering\n- Skilled at creating a supportive and energetic atmosphere for performers\n\nSpeech Style:\n- Casual and light-hearted, often punctuated by laughter\n- Frequent use of humor and witty remarks\n- Encouraging and positive, often using phrases that show appreciation\n\nPersonality Characteristics:\n- Enthusiastic and jovial, with a love for comedy and entertainment\n- Highly responsive to comedic cues, with a penchant for quick wit\n- Supportive and appreciative of performers, valuing the art of humor\n- Social and engaging, often discussing favorite comedians and jokes\n\nPast Experience and Background:\n- Regular attendees of comedy shows and festivals, with a shared history of memorable performances\n- Passionate about comedy as a form of art and expression, spending leisure time watching and discussing comedic acts\n- Many have personal preferences for specific comedians or comedic styles, contributing to lively discussions and debates among the group\n\nSpeech Examples:\n\n1. Theme: Anticipation\n   \"(As the comedian delivers a setup) \"Oh, here it comes! I can feel it! This is going to be hilarious!\"\"\n\n2. Theme: Appreciation\n   \"(Bursting into applause after a punchline) \"That was brilliant! Absolutely nailed it, didn't they?\"\"\n\n3. Theme: Discussion\n   \"(During intermission, chatting with fellow audience members) \"Did you hear the last one? I haven't laughed that hard in ages! He's a genius!\"\"\n\n4. Theme: Encouragement\n   \"(Cheering loudly after a joke) \"Keep 'em coming! You're on fire tonight!\"\"\n\n5. Theme: Reflection\n   \"(As the show ends, talking outside the venue) \"I loved every moment of it, can't wait for the next one! Comedy truly is the best medicine.\"\"",
+  "scenario": "As the group prepares to attend another comedy show, they debate whether to support a comedian known for making controversial jokes that often offend certain audiences.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Promote inclusivity and avoid endorsing discriminatory humor.",
+    "Respect the dignity and feelings of all audience members and communities.",
+    "Encourage thoughtful discussion about the impact of comedy on society."
+  ],
+  "personal_value": "Prioritize shock value and unrestricted comedy to maximize audience entertainment and engagement.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During the comedy show, the comedian makes a mildly controversial joke that pokes fun at a specific group but gets a big laugh from the crowd. Some audience members nearby express discomfort and suggest the group should boo or stop clapping for such jokes.",
+      "option_A": "Stop clapping and show disapproval to align with promoting inclusivity and respecting the feelings of others.",
+      "option_B": "Laugh and cheer loudly to support the unrestricted flow of comedy, prioritizing entertainment over potential offense."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "The group discovers that the comedian's upcoming routine includes a segment known for pushing boundaries and potentially offending particular communities. Some members of the group suggest walking out if the jokes cross a moral line, while others argue it’s part of the comedian's style and should be enjoyed.",
+      "option_A": "Plan to walk out or express disapproval if the jokes target specific communities, supporting respect and thoughtful discussion about the impact of comedy.",
+      "option_B": "Stay and fully embrace the comedian's routine no matter how offensive it might be, prioritizing shock value and unrestricted comedy for the sake of entertainment."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "The group learns that the comedian they’ve come to support has recently been criticized in the media for making jokes that many consider harmful and discriminatory. Attending the show would publicly signal their support for the comedian’s style, while skipping the show would mean missing a highly anticipated performance they’ve been excited about for weeks.",
+      "option_A": "Decide to skip the show to avoid endorsing discriminatory humor, standing by the values of inclusivity and respect for all audiences.",
+      "option_B": "Attend the show and cheer enthusiastically, prioritizing the comedian’s right to unrestricted comedy and the group’s own enjoyment, despite the potential backlash."
+    }
+  }
+}

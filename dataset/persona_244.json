@@ -1,0 +1,34 @@
+{
+  "id": 244,
+  "original_description": "A skeptical single professional with no intention of starting a family soon, who prefers city life to coastal towns.",
+  "expanded_role": "1. Role Name and Brief Description\n   - Urban Skeptic: A discerning and career-focused individual who thrives in the bustling environment of the city and has little interest in settling down or starting a family in the near future.\n\n2. Specific Abilities and Skills\n   - Expertise in urban planning and architecture, with a keen eye for detail and design.\n   - Proficient in networking and socializing within professional circles.\n   - Skilled in time management and multitasking to handle the fast-paced city lifestyle.\n\n3. Speech Style\n   - Direct and concise, often questioning the norms and conventions of society.\n   - Occasionally sarcastic, with a penchant for witty remarks to engage others in conversation.\n\n4. Personality Characteristics\n   - Inquisitive and analytical, always seeking logical explanations for events.\n   - Prefers independence and values personal space and freedom.\n   - Enjoys intellectual debates and discussing contemporary urban issues.\n\n5. Past Experience and Background\n   - Graduated top of their class in urban studies and quickly ascended the ranks in a prominent architectural firm.\n   - Spent years living in the heart of a major city, absorbing its culture and vibrancy while maintaining a skeptical view of suburban and coastal living.\n   - Has cultivated a reputation as a thought leader in urban development discussions.\n\n6. Speech Examples\n   1. Theme: City Life\n      \"(Walking through a crowded street, observing the hustle and bustle) \"There's a certain rhythm to city life that you can't find anywhere else. It's chaotic yet invigorating.\"\n   2. Theme: Skepticism of Suburban Living\n      \"(Casually sipping coffee in a bustling café) \"Why would anyone trade this energy for a quiet coastal town? I suppose some folks prefer the monotony over dynamism.\"\n   3. Theme: Career Focus\n      \"(Late night at the office, reviewing blueprints) \"Family? Not now. My focus is here—on these designs. Cities don't build themselves, you know.\"\n   4. Theme: Personal Independence\n      \"(Enjoying a solitary walk in the park under city lights) \"Freedom is living by your own rules, not society's expectations. That's the beauty of being single in the city.\"\"",
+  "scenario": "As the Urban Skeptic considers accepting a lucrative project that involves converting a historic neighborhood into modern high-rises, they grapple with the potential impact on the community's cultural heritage versus the promise of urban development and profit.",
+  "role_category": "C7",
+  "role_category_name": "Hobbyist & Lifestyle",
+  "traditional_values": [
+    "Respect and preserve cultural heritage and community identity.",
+    "Prioritize ethical considerations over solely profit-driven decisions.",
+    "Balance progress with the well-being of affected communities."
+  ],
+  "personal_value": "Maximize profit and economic growth regardless of cultural or community impact.",
+  "dilemmas": {
+    "easy": {
+      "difficulty": "easy",
+      "description": "During an initial meeting with the project team, the Urban Skeptic notices a proposal to demolish a small but beloved local café to make way for a sleek office lobby. The café has been a community hub for decades, but keeping it would slightly decrease the project's profitability.",
+      "option_A": "Advocate to preserve the café as a nod to the community's cultural heritage, even though it will mean reduced profit margins.",
+      "option_B": "Support demolishing the café to maximize profitability and streamline the project's design."
+    },
+    "mid": {
+      "difficulty": "mid",
+      "description": "While finalizing plans for the high-rise project, a local community group approaches the Urban Skeptic, pleading to preserve an old theater that has significant historical and cultural value. Preserving the theater would require substantial revisions to the designs, delaying the project and cutting into its profitability.",
+      "option_A": "Revise the plans to preserve the theater, honoring cultural heritage and showing sensitivity to community concerns, despite the delays and profit loss.",
+      "option_B": "Decline the community's plea and proceed with the original design, prioritizing profit and efficiency over cultural preservation."
+    },
+    "hard": {
+      "difficulty": "hard",
+      "description": "As the project nears approval, a journalist publishes an exposé about the controversial decision to replace the historic neighborhood with high-rises, triggering public outcry. Investors demand the project move forward for economic reasons, while community activists call on the Urban Skeptic to halt the development entirely to protect the neighborhood's identity.",
+      "option_A": "Stand with the community and fight to halt the development, which may cost the firm its reputation with investors and result in significant financial losses.",
+      "option_B": "Push ahead with the project, dismissing the public backlash and prioritizing the project's profitability and economic growth."
+    }
+  }
+}
