@@ -89,7 +89,7 @@ python NLG_eval.py #Test model in BLEU,ROUGE,Bertscore
 <details><summary>Click me to show all TODOs</summary>
 
 - [ ] feat: update the complete dataset to huggingface.
-- [ ] feat: update the training data to huggingface.
+- [ ] feat: update the training data or model to huggingface.
 - [ ] feat: add RoleCDE PyPI package.
 
 </details>
