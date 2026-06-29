@@ -44,7 +44,7 @@ The benchmark is constructed at scale to ensure diverse evaluation:
 ---
 
 ## :loudspeaker: News
-- **[2026/61]** This paper has been accepted in 2026 ACL Findings，check "https://aclanthology.org/2026.findings-acl.106/" for details.
+- **[2026/06]** This paper has been accepted in 2026 ACL Findings，check "https://aclanthology.org/2026.findings-acl.106/" for details.
 - **[2025/01]** Released the RoleCDE benchmark(version 1).
 ---
 
