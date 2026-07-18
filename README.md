@@ -86,12 +86,25 @@ python NLG_eval.py #Test model in BLEU,ROUGE,Bertscore
 > - We have provided some test cases in the  `dataset` (nearly 1k roles) to facilitate researchers' initial evaluation.
 > - We have provided some model response data (from the complete dataset) under `example_out` for reference.
 
+## 📚 Citation
+
+If you find this work useful, please ⭐ the repo and cite our paper.  
+
+```bibtex
+@inproceedings{lai2026rolecde,
+  title={RoleCDE: Benchmarking and Mitigating Role--Alignment Trade-offs in Role-Playing Agents},
+  author={Lai, Huayi and Song, Shichao and Niu, Simin and Wang, Hanyu and Yang, Jiawei and Wang, Zhouxing and Yin, Zhiqiang and Liang, Xun},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  pages={2226--2248},
+  year={2026}
+}
+```
+
 ## TODOs
 <details><summary>Click me to show all TODOs</summary>
 
 - [ ] feat: update the complete dataset to huggingface.
 - [ ] feat: update the training data or model to huggingface.
-- [ ] feat: add RoleCDE PyPI package.
 
 </details>
 
